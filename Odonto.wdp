@@ -2,18 +2,19 @@
 #Internal properties refer to the properties of controls in windows, reports, etc.
 info :
  name : Odonto
- major_version : 27
+ major_version : 29
  minor_version : 0
  type : 4097
  description : ""
  subtype : 0
 project :
  identifier : 0x0
- internal_properties : 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
+ internal_properties : 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
  configurations :
   -
     name : 32-bit Windows executable
-    internal_properties : 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
+    identifier : 0x47d7f7650003cfcd
+    internal_properties : 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
     configuration_id : 10282700071843277342
     type : 1
     generation_name : Odonto.exe
@@ -23,985 +24,986 @@ project :
      internal_generation_version : 7
     icon_filename : .\Exe\doctor_icon-icons.com_76230.ico
     language : 2
+    code_elements :
+     type_code : 159
+     p_codes : []
  elements :
   identifier : 0x47d7f7650002cfcd
   elements :
    -
      name : WIN_LOGIN
      identifier : 0x47db03b700cbf732
-     internal_properties : BwAAAAcAAACc+vQgn8Rsf88dz4sPpfQRnMObM/MTnmyOeyvQad6+eoKMRrEVKyw/nI8J978xyT+JiQ==
+     internal_properties : CQAAAAkAAACc+vQgn8Rsf88dz4sPpfQRnMObM/MTnmyOeyvQad6+eoKMRrEVKyw/nI8J978xyT+JiQ==
      physical_name : .\WIN_Login.wdw
      type : 2
    -
      name : COL_GlobalProcedures
      identifier : 0x47db3f010647bb60
-     internal_properties : BwAAAAcAAACY9kBcaxAYw4Ohn7HR9QwT4NNPV2sjlw2Ol2SSX7jkzCiG2mHhZbxj8FNNq2tlHZN9hQ==
+     internal_properties : CQAAAAkAAACY9kBcaxAYw4Ohn7HR9QwT4NNPV2sjlw2Ol2SSX7jkzCiG2mHhZbxj8FNNq2tlHZN9hQ==
      physical_name : .\COL_GlobalProcedures.wdg
      type : 7
    -
      name : QRY_FORNECEDORES
      identifier : 0x47e924e300b9d892
-     internal_properties : BwAAAAcAAABsdR++D5L61DdiYiAbOmz4H/rbM5cybzdATLkeF2+ROu9L6bgv3kiParNgkfXhGw==
+     internal_properties : CQAAAAkAAABsdR++D5L61DdiYiAbOmz4H/rbM5cybzdATLkeF2+ROu9L6bgv3kiParNgkfXhGw==
      physical_name : .\QRY_FORNECEDORES.WDR
      type : 5
    -
      name : QRY_FUNCIONARIOS
      identifier : 0x47e924bf00b74c9e
-     internal_properties : BwAAAAcAAACmP1GAyUv+Er9Gk4e//1VrKfNLDEYWL1BpV0OvOnGtiSFUynha06OmxV2aX7srUQ==
+     internal_properties : CQAAAAkAAACmP1GAyUv+Er9Gk4e//1VrKfNLDEYWL1BpV0OvOnGtiSFUynha06OmxV2aX7srUQ==
      physical_name : .\QRY_FUNCIONARIOS.WDR
      type : 5
    -
      name : QRY_PACIENTES
      identifier : 0x47e9249700b5aee7
-     internal_properties : BwAAAAcAAACsNV9+z10UpCP1yw0H1Wlrwwte1GTuz8zd672VKXKMINaHtV2vXzU4q3OgUbUhWw==
+     internal_properties : CQAAAAkAAACsNV9+z10UpCP1yw0H1Wlrwwte1GTuz8zd672VKXKMINaHtV2vXzU4q3OgUbUhWw==
      physical_name : .\QRY_PACIENTES.WDR
      type : 5
    -
      name : QRY_MEDICAMENTOS
      identifier : 0x47e925c500344df2
-     internal_properties : BwAAAAcAAACQSWOyG5lAoKjzcRU1dau5t20CEpE+j4ZTdYZ2xsFFGUEAPuSK1jE0V69sjekdZw==
+     internal_properties : CQAAAAkAAACQSWOyG5lAoKjzcRU1dau5t20CEpE+j4ZTdYZ2xsFFGUEAPuSK1jE0V69sjekdZw==
      physical_name : .\QRY_MEDICAMENTOS.WDR
      type : 5
    -
      name : QRY_LABORATORIOS
      identifier : 0x47e92df8006d52b9
-     internal_properties : BwAAAAcAAABv6UXBEq+uwkC6T9MqHte1BC4Cm/4SYz2cvkIJ7MsmkcSJW+p2b2z/j4Gd2sUlknnq
+     internal_properties : CQAAAAkAAABv6UXBEq+uwkC6T9MqHte1BC4Cm/4SYz2cvkIJ7MsmkcSJW+p2b2z/j4Gd2sUlknnq
      physical_name : .\QRY_LABORATORIOS.WDR
      type : 5
    -
      name : QRY_GRUPOS
      identifier : 0x47e92d2200570ed9
-     internal_properties : BwAAAAcAAACGX3HgKete8n+3QZN9O2+qffkQVqRav4NE0ERYAoXf9Io//RXb0wMGZb16v9sLcQ==
+     internal_properties : CQAAAAkAAACGX3HgKete8n+3QZN9O2+qffkQVqRav4NE0ERYAoXf9Io//RXb0wMGZb16v9sLcQ==
      physical_name : .\QRY_GRUPOS.WDR
      type : 5
    -
      name : QRY_FUNCOES
      identifier : 0x47e92d090055ac46
-     internal_properties : BwAAAAcAAACWT2GwGZtOog22/3Mve0l4d6NW4JmKr5useF8jR0BOp08WBM78ATM2Va1qj+sbYQ==
+     internal_properties : CQAAAAkAAACWT2GwGZtOog22/3Mve0l4d6NW4JmKr5useF8jR0BOp08WBM78ATM2Va1qj+sbYQ==
      physical_name : .\QRY_FUNCOES.WDR
      type : 5
    -
      name : QRY_ESPECIALIDADES
      identifier : 0x47e92cce0051c8bc
-     internal_properties : BwAAAAcAAABudxm4EZNW+vHEo9fPV9X7Gz+006LWj6C5xy9sREPBHcWAtszOZXv+bbVil/PjGQ==
+     internal_properties : CQAAAAkAAABudxm4EZNW+vHEo9fPV9X7Gz+006LWj6C5xy9sREPBHcWAtszOZXv+bbVil/PjGQ==
      physical_name : .\QRY_ESPECIALIDADES.WDR
      type : 5
    -
      name : QRY_CONVENIOS
      identifier : 0x47e92ba4004f3a5a
-     internal_properties : BwAAAAcAAABsdR++D51U5MXD6y2HremPUQ+x/5a+HxTV42fA65ysJNqDsbHTOXX4a7NgkfXhGw==
+     internal_properties : CQAAAAkAAABsdR++D51U5MXD6y2HremPUQ+x/5a+HxTV42fA65ysJNqDsbHTOXX4a7NgkfXhGw==
      physical_name : .\QRY_CONVENIOS.WDR
      type : 5
    -
      name : QRY_PARCELAS_CONTA_A_RECEBER
      identifier : 0x47e92b6a004d59be
-     internal_properties : BwAAAAcAAADbtfGdHquz4PiUVKcq/HUr9rtSmn32TiGCiEW+Xv6hxUwV7xJAw9VEOpah3sFZ5s1e
+     internal_properties : CQAAAAkAAADbtfGdHquz4PiUVKcq/HUr9rtSmn32TiGCiEW+Xv6hxUwV7xJAw9VEOpah3sFZ5s1e
      physical_name : .\QRY_PARCELAS_CONTA_A_RECEBER.WDR
      type : 5
    -
      name : QRY_PARCELAS_CONTA_A_PAGAR
      identifier : 0x47e92b16004b1170
-     internal_properties : BwAAAAcAAADw6YOS+zmgAD2L75EDIb1U90tcFdfyH5FWpmdGkslvSG4vJT3XeZGU9w/MbYl9hw==
+     internal_properties : CQAAAAkAAADw6YOS+zmgAD2L75EDIb1U90tcFdfyH5FWpmdGkslvSG4vJT3XeZGU9w/MbYl9hw==
      physical_name : .\QRY_PARCELAS_CONTA_A_PAGAR.WDR
      type : 5
    -
      name : QRY_CONTAS_A_RECEBER
      identifier : 0x47e929b60037b260
-     internal_properties : BwAAAAcAAAAcxe8un23ktN1HM0UvTYG/5a+XXRV6n1MUYOMia1x4WO6fXSXXccVIu0PwAWWR6w==
+     internal_properties : CQAAAAkAAAAcxe8un23ktN1HM0UvTYG/5a+XXRV6n1MUYOMia1x4WO6fXSXXccVIu0PwAWWR6w==
      physical_name : .\QRY_CONTAS_A_RECEBER.WDR
      type : 5
    -
      name : QRY_CONTAS_A_PAGAR
      identifier : 0x47e9298e003516fb
-     internal_properties : BwAAAAcAAAAdf0vHEK215uqqyaaCTL3r/mwM4qkra/lbO8mnowOa0bg5G2Y01hs6LJij3McjnAcY
+     internal_properties : CQAAAAkAAAAdf0vHEK215uqqyaaCTL3r/mwM4qkra/lbO8mnowOa0bg5G2Y01hs6LJij3McjnAcY
      physical_name : .\QRY_CONTAS_A_PAGAR.WDR
      type : 5
    -
      name : QRY_CONTAS_BANCARIAS
      identifier : 0x47e9295000332363
-     internal_properties : BwAAAAcAAAAG3/FgqWvecguiSy+nx91YCcdcut2SD8eQ3K8xV1gASRFUyqh6T4OG5T36P1uL8Q==
+     internal_properties : CQAAAAkAAAAG3/FgqWvecguiSy+nx91YCcdcut2SD8eQ3K8xV1gASRFUyqh6T4OG5T36P1uL8Q==
      physical_name : .\QRY_CONTAS_BANCARIAS.WDR
      type : 5
    -
      name : QRY_COMPRAS
      identifier : 0x47e92904002ff8fd
-     internal_properties : BwAAAAcAAABfaFiQEKFstUQ1A0mpVccQJdbUONtZYvNtzHl9MSq9jxOmENsdQdBX1Np2S4wr
+     internal_properties : CQAAAAkAAABfaFiQEKFstUQ1A0mpVccQJdbUONtZYvNtzHl9MSq9jxOmENsdQdBX1Np2S4wr
      physical_name : .\QRY_COMPRAS.WDR
      type : 5
    -
      name : QRY_CID_CODIGO_INTERNACIONAL_DE_DOENCAS
      identifier : 0x47e928d9002d520e
-     internal_properties : BwAAAAcAAAB8ZQ8Of41ElKvHT0n3cS2T7/NVGViGf4iRHz04UxyKdjx5/7MRxyUoW6NQ4QXxCw==
+     internal_properties : CQAAAAkAAAB8ZQ8Of41ElKvHT0n3cS2T7/NVGViGf4iRHz04UxyKdjx5/7MRxyUoW6NQ4QXxCw==
      physical_name : .\QRY_CID_CODIGO_INTERNACIONAL_DE_DOENCAS.WDR
      type : 5
    -
      name : QRY_BANCOS
      identifier : 0x47e928a6002b8cda
-     internal_properties : BwAAAAcAAAD44YuKgwHYKMVg5XGdcc/dFVneDliCT4meDtIySj1PXxdCMJIkcams3yfUZYF1jw==
+     internal_properties : CQAAAAkAAAD44YuKgwHYKMVg5XGdcc/dFVneDliCT4meDtIySj1PXxdCMJIkcams3yfUZYF1jw==
      physical_name : .\QRY_BANCOS.WDR
      type : 5
    -
      name : QRY_PROCEDIMENTOS
      identifier : 0x47e92e8600777e63
-     internal_properties : BwAAAAcAAABq4FK2dTJ6paGBkJgzVcMG/u3lfcU7ptt/IE6YU0RIiEiK1SlJ/wd3EjWvCYlHM6Vv9w==
+     internal_properties : CQAAAAkAAABq4FK2dTJ6paGBkJgzVcMG/u3lfcU7ptt/IE6YU0RIiEiK1SlJ/wd3EjWvCYlHM6Vv9w==
      physical_name : .\QRY_PROCEDIMENTOS.WDR
      type : 5
    -
      name : QRY_PRODUTOS
      identifier : 0x47e92f3b007940ee
-     internal_properties : BwAAAAcAAACZ+zdTrBk4qNrIRT4cilsLkoNWvNL+Hw1FYa+yh9mOKBOadNtPfXqNGRsnUHOXIIuc
+     internal_properties : CQAAAAkAAACZ+zdTrBk4qNrIRT4cilsLkoNWvNL+Hw1FYa+yh9mOKBOadNtPfXqNGRsnUHOXIIuc
      physical_name : .\QRY_PRODUTOS.WDR
      type : 5
    -
      name : QRY_SALAS
      identifier : 0x47e92f5a007bbaf0
-     internal_properties : BwAAAAcAAAAZe7fTLJm4KFpI+3GYGOlXQtdOhEeuBoGqgPU2LAKlOQCBww4S9/oNmZun0PMXoAsc
+     internal_properties : CQAAAAkAAAAZe7fTLJm4KFpI+3GYGOlXQtdOhEeuBoGqgPU2LAKlOQCBww4S9/oNmZun0PMXoAsc
      physical_name : .\QRY_SALAS.WDR
      type : 5
    -
      name : QRY_SETORES
      identifier : 0x47e92f76007d26e9
-     internal_properties : BwAAAAcAAACjrRn1xgOa/iyGW52+DsuV2G2U+i7/I3k/V91XDiBPd8732Wi0I0jbq22JNhnxTrWm
+     internal_properties : CQAAAAkAAACjrRn1xgOa/iyGW52+DsuV2G2U+i7/I3k/V91XDiBPd8732Wi0I0jbq22JNhnxTrWm
      physical_name : .\QRY_SETORES.WDR
      type : 5
    -
      name : QRY_UNIDADES
      identifier : 0x47e92f98007faade
-     internal_properties : BwAAAAcAAAA1B6PvKJVMLF5M4zWspOUj9jxIULQMqS3tGREa+VeKaZDRoy46x/4RnZ+7xO8LtB8w
+     internal_properties : CQAAAAkAAAA1B6PvKJVMLF5M4zWspOUj9jxIULQMqS3tGREa+VeKaZDRoy46x/4RnZ+7xO8LtB8w
      physical_name : .\QRY_UNIDADES.WDR
      type : 5
    -
      name : QRY_AGENDAMENTOS
      identifier : 0x47e92fe70081e264
-     internal_properties : BwAAAAcAAADLReGtblsC5iSuR4f+SpPBCNLAHskAyrmTQxJZ33k2YfRZO4qeL2Dzs2XxjrFJ9t1O
+     internal_properties : CQAAAAkAAADLReGtblsC5iSuR4f+SpPBCNLAHskAyrmTQxJZ33k2YfRZO4qeL2Dzs2XxjrFJ9t1O
      physical_name : .\QRY_AGENDAMENTOS.WDR
      type : 5
    -
      name : WIN_CONEXAO
      identifier : 0x47e9339500b13ea9
-     internal_properties : BwAAAAcAAADzTyt/zLnxKghYUA7ATCqjlbLoyAIYCM5SejTHEvWhT+l7zGJY4LWyWcw2ggL++u7WXg==
+     internal_properties : CQAAAAkAAADzTyt/zLnxKghYUA7ATCqjlbLoyAIYCM5SejTHEvWhT+l7zGJY4LWyWcw2ggL++u7WXg==
      physical_name : .\WIN_CONEXAO.wdw
      type : 2
    -
      name : WIN_MENU
      identifier : 0x47e9b0e5009fc0ee
-     internal_properties : BwAAAAcAAACX4c1ZWic3ZG2q1/0wkgfJ1nqYrGbI1j0sbme2tYk6SQ6X4RAeJRblrholUn2dGoGS
+     internal_properties : CQAAAAkAAACX4c1ZWic3ZG2q1/0wkgfJ1nqYrGbI1j0sbme2tYk6SQ6X4RAeJRblrholUn2dGoGS
      physical_name : .\WIN_MENU.wdw
      type : 2
    -
      name : WIN_BANCOS
      identifier : 0x47f3e28400c33b92
-     internal_properties : BwAAAAcAAABRIw8b5OHx0leQDqm0PDn1zf6eaCBTIO2FQVJSO5PuRU1cTrFnrhwj6MRfGDvfWEPU
+     internal_properties : CQAAAAkAAABRIw8b5OHx0leQDqm0PDn1zf6eaCBTIO2FQVJSO5PuRU1cTrFnrhwj6MRfGDvfWEPU
      physical_name : .\WIN_BANCOS.wdw
      type : 2
    -
      name : WIN_NOVO_BANCO
      identifier : 0x47f3e29300c877b0
-     internal_properties : BwAAAAcAAAAPCaXhMo8PvPUUTMgGpLH714BYisWWFh2U5r8A/NhhMqIvmfxiekjNRmL9uuUFshkK
+     internal_properties : CQAAAAkAAAAPCaXhMo8PvPUUTMgGpLH714BYisWWFh2U5r8A/NhhMqIvmfxiekjNRmL9uuUFshkK
      physical_name : .\WIN_NOVO_BANCO.wdw
      type : 2
    -
      name : QRY_EXCLUIR_BANCO
      identifier : 0x47f3e2e000cda41b
-     internal_properties : BwAAAAcAAADEHbem51UcvDMwNVnBcU4FC9H14JyafyNk8Ny209iUFHk4/pRC/71Ao3u4eZ1Jsw==
+     internal_properties : CQAAAAkAAADEHbem51UcvDMwNVnBcU4FC9H14JyafyNk8Ny209iUFHk4/pRC/71Ao3u4eZ1Jsw==
      physical_name : .\QRY_EXCLUIR_BANCO.WDR
      type : 5
    -
      name : WIN_GRUPOS
      identifier : 0x47f3e65a01053743
-     internal_properties : BwAAAAcAAADJRTHV0o+nSGqw6aENHKWr+7g27thY8EGuk88XWK/nyQv1CD/bZpS+N+rULPTslATMVA==
+     internal_properties : CQAAAAkAAADJRTHV0o+nSGqw6aENHKWr+7g27thY8EGuk88XWK/nyQv1CD/bZpS+N+rULPTslATMVA==
      physical_name : .\WIN_GRUPOS.wdw
      type : 2
    -
      name : WIN_NOVO_GRUPO
      identifier : 0x47f3e665010a646e
-     internal_properties : BwAAAAcAAABr51O3dDF5oqDa9x53W4IqjZ6I2O6uSA5Sei+33EtLRbN5O7leozLcETSuCopGMqZu9g==
+     internal_properties : CQAAAAkAAABr51O3dDF5oqDa9x53W4IqjZ6I2O6uSA5Sei+33EtLRbN5O7leozLcETSuCopGMqZu9g==
      physical_name : .\WIN_NOVO_GRUPO.wdw
      type : 2
    -
      name : QRY_EXCLUIR_GRUPO
      identifier : 0x47f3e6bb010fb1dd
-     internal_properties : BwAAAAcAAACeR2moIeNmym9ZvV8FJ061QzYwX1xSb7fALOCr/72V5ajhX3O100vOPcVyh+MTaQ==
+     internal_properties : CQAAAAkAAACeR2moIeNmym9ZvV8FJ061QzYwX1xSb7fALOCr/72V5ajhX3O100vOPcVyh+MTaQ==
      physical_name : .\QRY_EXCLUIR_GRUPO.WDR
      type : 5
    -
      name : WIN_FUNCOES
      identifier : 0x47f3e75a01171ee5
-     internal_properties : BwAAAAcAAAD1Ud3B/lvTjF6kzoEzFIBpW+iWfkgwS9VyQhyLdIMT7Rc5rmC0VXWiKx6YYCDQqBjgYA==
+     internal_properties : CQAAAAkAAAD1Ud3B/lvTjF6kzoEzFIBpW+iWfkgwS9VyQhyLdIMT7Rc5rmC0VXWiKx6YYCDQqBjgYA==
      physical_name : .\WIN_FUNCOES.wdw
      type : 2
    -
      name : WIN_NOVA_FUNCAO
      identifier : 0x47f3e769011c59fa
-     internal_properties : BwAAAAcAAAD1Ud3B/lvTjF6kztCzofVwI5yerhwUPGqO/2p9mm2hF+3DORAd5HWiKx6YYCDQqBjgYA==
+     internal_properties : CQAAAAkAAAD1Ud3B/lvTjF6kztCzofVwI5yerhwUPGqO/2p9mm2hF+3DORAd5HWiKx6YYCDQqBjgYA==
      physical_name : .\WIN_NOVA_FUNCAO.wdw
      type : 2
    -
      name : QRY_EXCLUIR_FUNCAO
      identifier : 0x47f3e7ab01215c96
-     internal_properties : BwAAAAcAAACNjztXoB3Fdroyk4EmwscLxzj2LfWPrlkry97GtonenfG8hv1rHEOKfCgzTHeTLJeI
+     internal_properties : CQAAAAkAAACNjztXoB3Fdroyk4EmwscLxzj2LfWPrlkry97GtonenfG8hv1rHEOKfCgzTHeTLJeI
      physical_name : .\QRY_EXCLUIR_FUNCAO.WDR
      type : 5
    -
      name : WIN_ESPECIALIDADES
      identifier : 0x47f3f3f5008f5db5
-     internal_properties : BwAAAAcAAACf+TVRoh8/bGVSmnVmpq/3l6weMqwtW8FWVJwQ13c0k/tCpOvxBg79thItSnWVIoma
+     internal_properties : CQAAAAkAAACf+TVRoh8/bGVSmnVmpq/3l6weMqwtW8FWVJwQ13c0k/tCpOvxBg79thItSnWVIoma
      physical_name : .\WIN_ESPECIALIDADES.wdw
      type : 2
    -
      name : WIN_NOVA_ESPECIALIDADE
      identifier : 0x47f3f40600949dac
-     internal_properties : BwAAAAcAAACX8/8jgP21tgRuqZPm5RsAkbDYALi4Eo92pULqib5U1HT8svuGuhzwZdjCPsY6xjqCgg==
+     internal_properties : CQAAAAkAAACX8/8jgP21tgRuqZPm5RsAkbDYALi4Eo92pULqib5U1HT8svuGuhzwZdjCPsY6xjqCgg==
      physical_name : .\WIN_NOVA_ESPECIALIDADE.wdw
      type : 2
    -
      name : QRY_EXCLUIR_ESPECIALIDADE
      identifier : 0x47f3f49a0099e088
-     internal_properties : BwAAAAcAAAAut9n4UdOWOnkI2z8nd+R3eWMN7aBOr5ytO6nwQ0ygdEl8ovDy7bu+LfUi1zOj2Q==
+     internal_properties : CQAAAAkAAAAut9n4UdOWOnkI2z8nd+R3eWMN7aBOr5ytO6nwQ0ygdEl8ovDy7bu+LfUi1zOj2Q==
      physical_name : .\QRY_EXCLUIR_ESPECIALIDADE.WDR
      type : 5
    -
      name : WIN_PACIENTES
      identifier : 0x47f3f5a200aae874
-     internal_properties : BwAAAAcAAACNjztXoB3FdrsygdiKGiv7Syg4LgTM1T0JDUGauR0I34f2UL+tAXa3fCgzTHeTLJeI
+     internal_properties : CQAAAAkAAACNjztXoB3FdrsygdiKGiv7Syg4LgTM1T0JDUGauR0I34f2UL+tAXa3fCgzTHeTLJeI
      physical_name : .\WIN_PACIENTES.wdw
      type : 2
    -
      name : WIN_NOVO_PACIENTE
      identifier : 0x47f3f5b200af2628
-     internal_properties : BwAAAAcAAADpa8dDnCnpKl9AkxJO2leD/7igDsNj8TlPR5vt/yc2rfFcvjUjffwr4MxXYEOnEPts
+     internal_properties : CQAAAAkAAADpa8dDnCnpKl9AkxJO2leD/7igDsNj8TlPR5vt/yc2rfFcvjUjffwr4MxXYEOnEPts
      physical_name : .\WIN_NOVO_PACIENTE.wdw
      type : 2
    -
      name : QRY_EXCLUIR_PACIENTE
      identifier : 0x47f3f6dc00b4b20a
-     internal_properties : BwAAAAcAAAC2L0HQOXvuQk5DM0cvRyzHfWMf+ZRGP8KHiZd2s/zMGG0Y3qRW9NNWtU2Kr8s7QQ==
+     internal_properties : CQAAAAkAAAC2L0HQOXvuQk5DM0cvRyzHfWMf+ZRGP8KHiZd2s/zMGG0Y3qRW9NNWtU2Kr8s7QQ==
      physical_name : .\QRY_EXCLUIR_PACIENTE.WDR
      type : 5
    -
      name : WIN_SALAS
      identifier : 0x47f8274e00b078c9
-     internal_properties : BwAAAAcAAAB71VG9PosTAFl4d0tgYnc5fFGIaNh0c128/pIXJIAXV7bfSUhWw5xR2vYBvuE5hm3+
+     internal_properties : CQAAAAkAAAB71VG9PosTAFl4d0tgYnc5fFGIaNh0c128/pIXJIAXV7bfSUhWw5xR2vYBvuE5hm3+
      physical_name : .\WIN_SALAS.wdw
      type : 2
    -
      name : WIN_NOVA_SALA
      identifier : 0x47f8275900b5a094
-     internal_properties : BwAAAAcAAABXM7/jwL319kSjJri4cB4wNXJIqCIPSaOOF2GGYqVx//nrT1FRr5q1JRiCfgb6hnpCwg==
+     internal_properties : CQAAAAkAAABXM7/jwL319kSjJri4cB4wNXJIqCIPSaOOF2GGYqVx//nrT1FRr5q1JRiCfgb6hnpCwg==
      physical_name : .\WIN_NOVA_SALA.wdw
      type : 2
    -
      name : WIN_SETORES
      identifier : 0x47f8280400c03f5b
-     internal_properties : BwAAAAcAAAA8pc9Ov8LuxHz0+yn7dAQwYoDyMF6G39jhz5MbjzlAjdC+jBQanWy7GuMQIUWxyw==
+     internal_properties : CQAAAAkAAAA8pc9Ov8LuxHz0+yn7dAQwYoDyMF6G39jhz5MbjzlAjdC+jBQanWy7GuMQIUWxyw==
      physical_name : .\WIN_SETORES.wdw
      type : 2
    -
      name : WIN_NOVO_SETOR
      identifier : 0x47f82c2600c56247
-     internal_properties : BwAAAAcAAACxgy97RIERsvcEP0pGYm8L7uewTqBaWdmrywfi/VGs4jF8bpVDXUDDSGT/uJt/OKO0
+     internal_properties : CQAAAAkAAACxgy97RIERsvcEP0pGYm8L7uewTqBaWdmrywfi/VGs4jF8bpVDXUDDSGT/uJt/OKO0
      physical_name : .\WIN_NOVO_SETOR.wdw
      type : 2
    -
      name : WIN_UNIDADES
      identifier : 0x47f82fbc00e465cd
-     internal_properties : BwAAAAcAAAC7lRH9/stTQJnAAj3O8mcr1qxOKnMRVnlj8w6UclJBZnV4wjF/9EQRmjbB/iH5Rq2+
+     internal_properties : CQAAAAkAAAC7lRH9/stTQJnAAj3O8mcr1qxOKnMRVnlj8w6UclJBZnV4wjF/9EQRmjbB/iH5Rq2+
      physical_name : .\WIN_UNIDADES.wdw
      type : 2
    -
      name : WIN_NOVA_UNIDADE
      identifier : 0x47f82fc900e9972d
-     internal_properties : BwAAAAcAAADnUd1Jijfn1F3ecLEa9gsvUiCotnbZoN0Y8rWPSOzB7v2Aaqn/JBpV3spVYk2tCvFi
+     internal_properties : CQAAAAkAAADnUd1Jijfn1F3ecLEa9gsvUiCotnbZoN0Y8rWPSOzB7v2Aaqn/JBpV3spVYk2tCvFi
      physical_name : .\WIN_NOVA_UNIDADE.wdw
      type : 2
    -
      name : QRY_EXCLUIR_UNIDADE
      identifier : 0x47f8307f00f15d81
-     internal_properties : BwAAAAcAAABAmTMiaymQMIsBh1l7CW33v2+CNL1ar5WiQuFVCXqEaDZ3vdWPz0HEJ/88/RnNNw==
+     internal_properties : CQAAAAkAAABAmTMiaymQMIsBh1l7CW33v2+CNL1ar5WiQuFVCXqEaDZ3vdWPz0HEJ/88/RnNNw==
      physical_name : .\QRY_EXCLUIR_UNIDADE.WDR
      type : 5
    -
      name : WIN_PROCEDIMENTOS
      identifier : 0x47f8531101026a61
-     internal_properties : BwAAAAcAAADySCp+zbryLQloIw0WAlEK7Om7Y1Fu9pxS6mc0MsXXwT+T0phpmBkWWs03gQH/++3XXw==
+     internal_properties : CQAAAAkAAADySCp+zbryLQloIw0WAlEK7Om7Y1Fu9pxS6mc0MsXXwT+T0phpmBkWWs03gQH/++3XXw==
      physical_name : .\WIN_PROCEDIMENTOS.wdw
      type : 2
    -
      name : WIN_NOVO_PROCEDIMENTO
      identifier : 0x47f8531c010792d9
-     internal_properties : BwAAAAcAAADIRjDs24Cos7PujUY8DfGaSAm3b+lGZfGOvxk6PNs55wERhI54ifNw4EO9O/v1jQPNVQ==
+     internal_properties : CQAAAAkAAADIRjDs24Cos7PujUY8DfGaSAm3b+lGZfGOvxk6PNs55wERhI54ifNw4EO9O/v1jQPNVQ==
      physical_name : .\WIN_NOVO_PROCEDIMENTO.wdw
      type : 2
    -
      name : WIN_PRODUTOS
      identifier : 0x47fa8bdf01a84eae
-     internal_properties : BwAAAAcAAADjX9vP/KkBGjgpymZ9x8bkz7w64txTLg+KmAFKXKvjxQfpxweiZ+hTibwmkhLOqh7mbg==
+     internal_properties : CQAAAAkAAADjX9vP/KkBGjgpymZ9x8bkz7w64txTLg+KmAFKXKvjxQfpxweiZ+hTibwmkhLOqh7mbg==
      physical_name : .\WIN_PRODUTOS.wdw
      type : 2
    -
      name : WIN_NOVO_PRODUTO
      identifier : 0x47fa8be901ad75ae
-     internal_properties : BwAAAAcAAACoppCMO2BIUxOQAS+Mg6K5QOefR3feWRmOt3ATdbLiLsZ4Nr/5yDEaQOPd21uVbWOttQ==
+     internal_properties : CQAAAAkAAACoppCMO2BIUxOQAS+Mg6K5QOefR3feWRmOt3ATdbLiLsZ4Nr/5yDEaQOPd21uVbWOttQ==
      physical_name : .\WIN_NOVO_PRODUTO.wdw
      type : 2
    -
      name : WIN_PEDIDOS
      identifier : 0x47fab6870275fc0d
-     internal_properties : BwAAAAcAAABFwa3xTmtDXG6b01RO/MSvIQKcDKL5b0ROiwSqoHenQY99Ti4w0tXBO+7o0FCAeGhQ0A==
+     internal_properties : CQAAAAkAAABFwa3xTmtDXG6b01RO/MSvIQKcDKL5b0ROiwSqoHenQY99Ti4w0tXBO+7o0FCAeGhQ0A==
      physical_name : .\WIN_PEDIDOS.wdw
      type : 2
    -
      name : WIN_AGUARDE_PROCESSO
      identifier : 0x47fac6b300c72492
-     internal_properties : BwAAAAcAAAB51aHlwr/3+Fq377xgCrxUd8betnb2KpSqIJCA3yhqhk62+roe4iG9JxqEfAT8hHRc5A==
+     internal_properties : CQAAAAkAAAB51aHlwr/3+Fq377xgCrxUd8betnb2KpSqIJCA3yhqhk62+roe4iG9JxqEfAT8hHRc5A==
      physical_name : .\WIN_AGUARDE_PROCESSO.wdw
      type : 2
    -
      name : WIN_WEBCAM
      identifier : 0x47fac6b300d2251f
-     internal_properties : BwAAAAcAAABGzK7yMW5GaXWmnsPX5EbGDmFdHcRmmk0uf7qqvJ5+imZk37YvkdLsFgnzzVWLd2lT0w==
+     internal_properties : CQAAAAkAAABGzK7yMW5GaXWmnsPX5EbGDmFdHcRmmk0uf7qqvJ5+imZk37YvkdLsFgnzzVWLd2lT0w==
      physical_name : .\WIN_WEBCAM.wdw
      type : 2
    -
      name : WIN_SELECIONA_EMPRESA
      identifier : 0x48101e9302f022bb
-     internal_properties : BwAAAAcAAACY9kBcaxAYw4AUVPGpUvXQmMsXT/SogzNLLQwSmJCMlBCOLWWKsDOD7VNNq2tlHZN9hQ==
+     internal_properties : CQAAAAkAAACY9kBcaxAYw4AUVPGpUvXQmMsXT/SogzNLLQwSmJCMlBCOLWWKsDOD7VNNq2tlHZN9hQ==
      physical_name : .\WIN_SELECIONA_EMPRESA.wdw
      type : 2
    -
      name : WIN_FORNECEDORES
      identifier : 0x47fc11d700e9d3e7
-     internal_properties : BwAAAAcAAADzTyt/zLnxKgh7jLo4FOUbg5yuzvylNVS2NedqNvGte7l3UoFlm7wdWcw2ggL++u7WXg==
+     internal_properties : CQAAAAkAAADzTyt/zLnxKgh7jLo4FOUbg5yuzvylNVS2NedqNvGte7l3UoFlm7wdWcw2ggL++u7WXg==
      physical_name : .\WIN_FORNECEDORES.wdw
      type : 2
    -
      name : WIN_NOVO_FORNECEDOR
      identifier : 0x47fc123100ee33d5
-     internal_properties : BwAAAAcAAAAvKYWBUm9vXNVAYEU+1tcXVtuWOg/zv5n7e93T8c3ufF/OOEddcvStZkLdmoVl0jkq
+     internal_properties : CQAAAAkAAAAvKYWBUm9vXNVAYEU+1tcXVtuWOg/zv5n7e93T8c3ufF/OOEddcvStZkLdmoVl0jkq
      physical_name : .\WIN_NOVO_FORNECEDOR.wdw
      type : 2
    -
      name : QRY_EXCLUIR_FORNECEDOR
      identifier : 0x47fc13be00f34184
-     internal_properties : BwAAAAcAAADy642M/T+yxr8FSQvpm6cNYyUAPyP+n1QV43JFqfYWUuCZX5Pt21faCRHOY4d/hQ==
+     internal_properties : CQAAAAkAAADy642M/T+yxr8FSQvpm6cNYyUAPyP+n1QV43JFqfYWUuCZX5Pt21faCRHOY4d/hQ==
      physical_name : .\QRY_EXCLUIR_FORNECEDOR.WDR
      type : 5
    -
      name : WIN_PEDIDO
      identifier : 0x480256c500f5c2e7
-     internal_properties : BwAAAAcAAADpa8dDnCn5Sl+8t2JeKscYV1IGbEfy2dlzQx9Cbs639GIEZq37Ffh7EJxXYEOnEPts
+     internal_properties : CQAAAAkAAADpa8dDnCn5Sl+8t2JeKscYV1IGbEfy2dlzQx9Cbs639GIEZq37Ffh7EJxXYEOnEPts
      physical_name : .\WIN_PEDIDO.wdw
      type : 2
    -
      name : WIN_PROCEDIMENTO_ODONTOGRAMA
      identifier : 0x4802715300fd7ecf
-     internal_properties : BwAAAAcAAABZO3cT7NmJWm8cQzbOmrfoRy0IOAIj1I3dia4ONZG2xFJ01j1r4RgL4KxnEDPXYEvc
+     internal_properties : CQAAAAkAAABZO3cT7NmJWm8cQzbOmrfoRy0IOAIj1I3dia4ONZG2xFJ01j1r4RgL4KxnEDPXYEvc
      physical_name : .\WIN_PROCEDIMENTO_ODONTOGRAMA.wdw
      type : 2
    -
      name : WIN_CONTAS_A_RECEBER
      identifier : 0x4806552200ea033f
-     internal_properties : BwAAAAcAAAAwDmi0cyiAm7jSB0AlUrwqIqP5IZzOtHFOC9S5o0XXwTuLtM8uikjpBTulE5NNNasVHQ==
+     internal_properties : CQAAAAkAAAAwDmi0cyiAm7jSB0AlUrwqIqP5IZzOtHFOC9S5o0XXwTuLtM8uikjpBTulE5NNNasVHQ==
      physical_name : .\WIN_CONTAS_A_RECEBER.wdw
      type : 2
    -
      name : WIN_NOVO_CONTA_A_RECEBER
      identifier : 0x4806553b00ef66fb
-     internal_properties : BwAAAAcAAADFt/OfGGUNzuO0x1Sagovwi13QYNlN3GEiqLMpK4NEGtSyBHtpqYCPZCDrlL9b5M9A
+     internal_properties : CQAAAAkAAADFt/OfGGUNzuO0x1Sagovwi13QYNlN3GEiqLMpK4NEGtSyBHtpqYCPZCDrlL9b5M9A
      physical_name : .\WIN_NOVO_CONTA_A_RECEBER.wdw
      type : 2
    -
      name : QRY_EXCLUIR_CONTA_RECEBER
      identifier : 0x4806563800f4421a
-     internal_properties : BwAAAAcAAAA9H6vnMI0lpot29xVejAHImw2UgMHu/5l7+x0I+tKR1XMXaZyCB0rXvMgDvOcDvCc4
+     internal_properties : CQAAAAkAAAA9H6vnMI0lpot29xVejAHImw2UgMHu/5l7+x0I+tKR1XMXaZyCB0rXvMgDvOcDvCc4
      physical_name : .\QRY_EXCLUIR_CONTA_RECEBER.WDR
      type : 5
    -
      name : QRY_COMBO_PACIENTES
      identifier : 0x480658ef010edc07
-     internal_properties : BwAAAAcAAACvqQUB0u/39Cjy8DyAUhdg38IyTHXBCf348pxgMpJ3LDq8Br2hIW/UtopdGgXlUrmq
+     internal_properties : CQAAAAkAAACvqQUB0u/39Cjy8DyAUhdg38IyTHXBCf348pxgMpJ3LDq8Br2hIW/UtopdGgXlUrmq
      physical_name : .\QRY_COMBO_PACIENTES.WDR
      type : 5
    -
      name : WIN_PAGAMENTO_PARCELA_CONTA_RECEBER
      identifier : 0x4806687e0419a5fb
-     internal_properties : BwAAAAcAAADlYc3R7oujvA9lfUsa4g+jC07awg+hfFagxNCYHvqYQPwQydxK+jQsWM7IMPDgmAjwcA==
+     internal_properties : CQAAAAkAAADlYc3R7oujvA9lfUsa4g+jC07awg+hfFagxNCYHvqYQPwQydxK+jQsWM7IMPDgmAjwcA==
      physical_name : .\WIN_PAGAMENTO_PARCELA_CONTA_RECEBER.wdw
      type : 2
    -
      name : QRY_PARCELAS_GERADAS_C_RECEBER
      identifier : 0x48067775027f1ab4
-     internal_properties : BwAAAAcAAABRrYmdKlffkFPZ4Jpi6kJaa2464m9BL3SnZhdY3rrYwDyQInjwyuuQ/CKcZCykXEy0vA==
+     internal_properties : CQAAAAkAAABRrYmdKlffkFPZ4Jpi6kJaa2464m9BL3SnZhdY3rrYwDyQInjwyuuQ/CKcZCykXEy0vA==
      physical_name : .\QRY_PARCELAS_GERADAS_C_RECEBER.WDR
      type : 5
    -
      name : QRY_PAGAMENTO_PARCELA_C_RECEBER
      identifier : 0x4806960404c57852
-     internal_properties : BwAAAAcAAADzTyt/zLnxKgljFZ9k2OwI05Jq8kO9l/SLGumyxMTWYlpK5gLMcFQ2Vsw2ggL++u7WXg==
+     internal_properties : CQAAAAkAAADzTyt/zLnxKgljFZ9k2OwI05Jq8kO9l/SLGumyxMTWYlpK5gLMcFQ2Vsw2ggL++u7WXg==
      physical_name : .\QRY_PAGAMENTO_PARCELA_C_RECEBER.WDR
      type : 5
    -
      name : QRY_TABLE_PARCELAS_CONTA_A_RECEBER
      identifier : 0x480a7c1602842da8
-     internal_properties : BwAAAAcAAABKwLJWVRIaxYYQrKr/dMCdojdBoaheEbG2sQ23QUfNI9kVU9qpUcWD71VPqWlnE4VP1w==
+     internal_properties : CQAAAAkAAABKwLJWVRIaxYYQrKr/dMCdojdBoaheEbG2sQ23QUfNI9kVU9qpUcWD71VPqWlnE4VP1w==
      physical_name : .\QRY_TABLE_PARCELAS_CONTA_A_RECEBER.WDR
      type : 5
    -
      name : WIN_TesteWD
      identifier : 0x480a93850339c181
-     internal_properties : BwAAAAcAAADkYszo14ykRxSieQfo6Z50xknV9TII8SxLBW1uCj7e2ib0SXi8T4YpQefRL/fpkQfxcQ==
+     internal_properties : CQAAAAkAAADkYszo14ykRxSieQfo6Z50xknV9TII8SxLBW1uCj7e2ib0SXi8T4YpQefRL/fpkQfxcQ==
      physical_name : .\WIN_TesteWD.wdw
      type : 2
    -
      name : WIN_USUARIOS
      identifier : 0x480e905f02af9e7e
-     internal_properties : BwAAAAcAAAB82lRAfySMn6zu1n2ZEdlDag0pCbaYygVTW+aqUqZukrZkfqAeLPOV+S+pF59RKZ9p6Q==
+     internal_properties : CQAAAAkAAAB82lRAfySMn6zu1n2ZEdlDag0pCbaYygVTW+aqUqZukrZkfqAeLPOV+S+pF59RKZ9p6Q==
      physical_name : .\WIN_USUARIOS.wdw
      type : 2
    -
      name : WIN_NOVO_USUARIO
      identifier : 0x480e907002b4ddd9
-     internal_properties : BwAAAAcAAADcujRgXwQsP4wO9m75ZpocSinx6eLkwKynFnDYJOSwuDCiOxKtXRO12U9Jt39xCf/JSQ==
+     internal_properties : CQAAAAkAAADcujRgXwQsP4wO9m75ZpocSinx6eLkwKynFnDYJOSwuDCiOxKtXRO12U9Jt39xCf/JSQ==
      physical_name : .\WIN_NOVO_USUARIO.wdw
      type : 2
    -
      name : QRY_USUARIOS
      identifier : 0x480e916402b9964d
-     internal_properties : BwAAAAcAAAC1kZ2BPhsTzJ8dxk2CdGyNRwpW/ktVfk2v1JU8IpYEPMhUP9fnE+GE6F5YoGCQaFigoA==
+     internal_properties : CQAAAAkAAAC1kZ2BPhsTzJ8dxk2CdGyNRwpW/ktVfk2v1JU8IpYEPMhUP9fnE+GE6F5YoGCQaFigoA==
      physical_name : .\QRY_USUARIOS.WDR
      type : 5
    -
      name : QRY_EXCLUIR_USUARIO
      identifier : 0x480e93be0450c85e
-     internal_properties : BwAAAAcAAACZ+zdTrBnB0oK2xBCqWI1+cJTMUFhUET3hNYXWmbemvYYsdslVQ1vCoOQnUHOXIIuc
+     internal_properties : CQAAAAkAAACZ+zdTrBnB0oK2xBCqWI1+cJTMUFhUET3hNYXWmbemvYYsdslVQ1vCoOQnUHOXIIuc
      physical_name : .\QRY_EXCLUIR_USUARIO.WDR
      type : 5
    -
      name : WIN_EMPRESAS
      identifier : 0x4810296f03a08e59
-     internal_properties : BwAAAAcAAAA/GxcLuOXN3u0xeP4VbYqLSdqUVHPvrIN0o4KndbPbLcN5/oARMk2cynBqVt4S7uIqKg==
+     internal_properties : CQAAAAkAAAA/GxcLuOXN3u0xeP4VbYqLSdqUVHPvrIN0o4KndbPbLcN5/oARMk2cynBqVt4S7uIqKg==
      physical_name : .\WIN_EMPRESAS.wdw
      type : 2
    -
      name : WIN_NOVA_EMPRESA
      identifier : 0x4810298003a5cfe6
-     internal_properties : BwAAAAcAAAC4luA8C7D4IyB0v7pQ7aYDttWdFb4qtTS0U2+6pETIeIiaKCeNfpJjjbMtiwvFvTOdpQ==
+     internal_properties : CQAAAAkAAAC4luA8C7D4IyB0v7pQ7aYDttWdFb4qtTS0U2+6pETIeIiaKCeNfpJjjbMtiwvFvTOdpQ==
      physical_name : .\WIN_NOVA_EMPRESA.wdw
      type : 2
    -
      name : WIN_FUNCIONARIOS
      identifier : 0x48137b08010e4139
-     internal_properties : BwAAAAcAAABbNwMHpOHJ0pEo9HUXx+W3xfSsZE1kGoKON5btKv6cdJxE91qlpARTvmReWtoW4tY+xg==
+     internal_properties : CQAAAAkAAABbNwMHpOHJ0pEo9HUXx+W3xfSsZE1kGoKON5btKv6cdJxE91qlpARTvmReWtoW4tY+xg==
      physical_name : .\WIN_FUNCIONARIOS.wdw
      type : 2
    -
      name : WIN_NOVO_FUNCIONARIO
      identifier : 0x48137b160113776c
-     internal_properties : BwAAAAcAAADcujRgXwQsP4wzU1ImE1gvBCGz6+q599126W0O9wGLrVP/aY6AgeWy2U9Jt39xCf/JSQ==
+     internal_properties : CQAAAAkAAADcujRgXwQsP4wzU1ImE1gvBCGz6+q599126W0O9wGLrVP/aY6AgeWy2U9Jt39xCf/JSQ==
      physical_name : .\WIN_NOVO_FUNCIONARIO.wdw
      type : 2
    -
      name : QRY_EXCLUIR_FUNCIONARIO
      identifier : 0x48137e7f0118cb1b
-     internal_properties : BwAAAAcAAABXM7/jwL319kXMe0SB02XPk6LasnOKlyhKhMf3PEzOKtJyj7xpkG/HIhiCfgb6hnpCwg==
+     internal_properties : CQAAAAkAAABXM7/jwL319kXMe0SB02XPk6LasnOKlyhKhMf3PEzOKtJyj7xpkG/HIhiCfgb6hnpCwg==
      physical_name : .\QRY_EXCLUIR_FUNCIONARIO.WDR
      type : 5
    -
      name : QRY_COMBO_SETORES
      identifier : 0x4813edb401192ca3
-     internal_properties : BwAAAAcAAACutIaaKVbekVIVIxpc18ecXN2b0359mkmiVm2AtfOZb4Gx1lbCB22Q+yGbZS2jX1G7uw==
+     internal_properties : CQAAAAkAAACutIaaKVbekVIVIxpc18ecXN2b0359mkmiVm2AtfOZb4Gx1lbCB22Q+yGbZS2jX1G7uw==
      physical_name : .\QRY_COMBO_SETORES.WDR
      type : 5
    -
      name : QRY_COMBO_FUNCOES
      identifier : 0x4813ee4c02b97fcb
-     internal_properties : BwAAAAcAAADxQ++7BMFZgqpq85iI9JkQVYHgrLSSsX2Q+kwPvJBbt9v/wXQ4FPdiIGy/+Ns/+ON0
+     internal_properties : CQAAAAkAAADxQ++7BMFZgqpq85iI9JkQVYHgrLSSsX2Q+kwPvJBbt9v/wXQ4FPdiIGy/+Ns/+ON0
      physical_name : .\QRY_COMBO_FUNCOES.WDR
      type : 5
    -
      name : QRY_EMPRESAS
      identifier : 0x4813f7b20462359e
-     internal_properties : BwAAAAcAAAAOFGa6iTZ+sbI1zTBDhEZl8EG/V9Ips6CL+f/4vcvJZ1GxiTwhI4+w20G7BY1DP7EbGw==
+     internal_properties : CQAAAAkAAAAOFGa6iTZ+sbI1zTBDhEZl8EG/V9Ips6CL+f/4vcvJZ1GxiTwhI4+w20G7BY1DP7EbGw==
      physical_name : .\QRY_EMPRESAS.WDR
      type : 5
    -
      name : QRY_EXCLUIR_EMPRESA
      identifier : 0x4813f8ee04640724
-     internal_properties : BwAAAAcAAADVpwMPyPW1rrZ6vPyuJGmqLxhC0FVmKAHaEKektBLVxuZMJqk9GwduPEibJA/rVL9Q
+     internal_properties : CQAAAAkAAADVpwMPyPW1rrZ6vPyuJGmqLxhC0FVmKAHaEKektBLVxuZMJqk9GwduPEibJA/rVL9Q
      physical_name : .\QRY_EXCLUIR_EMPRESA.WDR
      type : 5
    -
      name : QRY_ITENS_PEDIDO_PROCEDIMENTO
      identifier : 0x481407e7048782b2
-     internal_properties : BwAAAAcAAAAZe7fTLJlBAiL23RdkAsMw2CrI9krANiE+DBFA3/lGwTxaJJuPTguSEGSn0PMXoAsc
+     internal_properties : CQAAAAkAAAAZe7fTLJlBAiL23RdkAsMw2CrI9krANiE+DBFA3/lGwTxaJJuPTguSEGSn0PMXoAsc
      physical_name : .\QRY_ITENS_PEDIDO_PROCEDIMENTO.WDR
      type : 5
    -
      name : QRY_MOVIMENTACAO_CAIXA
      identifier : 0x484e92c00a1bb5eb
-     internal_properties : BwAAAAcAAABt71u3AL17Hq5WRdXwFtcyVhoiqZOvfd2k1lRaakd6gS6qhMsXOJnsghLT7NczjHfo
+     internal_properties : CQAAAAkAAABt71u3AL17Hq5WRdXwFtcyVhoiqZOvfd2k1lRaakd6gS6qhMsXOJnsghLT7NczjHfo
      physical_name : .\QRY_MOVIMENTACAO_CAIXA.WDR
      type : 5
    -
      name : QRY_TABLE_PARCELAS_CR
      identifier : 0x4815e9e6012662cc
-     internal_properties : BwAAAAcAAABYNgAcq9BYA8BZYcJmZsdfBFGjy5pLgWeOP6IIv/mTpRuXMSEAAbVQrZMN66sl3dM9xQ==
+     internal_properties : CQAAAAkAAABYNgAcq9BYA8BZYcJmZsdfBFGjy5pLgWeOP6IIv/mTpRuXMSEAAbVQrZMN66sl3dM9xQ==
      physical_name : .\QRY_TABLE_PARCELAS_CR.WDR
      type : 5
    -
      name : WIN_CONTAS_A_PAGAR
      identifier : 0x4817598201225c1d
-     internal_properties : BwAAAAcAAADLRzPX1JGZQgGcGver/9z3mYq0pBMWW8pCbtdCUddHka9trr5lXBYHbtTOKurmkgbOVg==
+     internal_properties : CQAAAAkAAADLRzPX1JGZQgGcGver/9z3mYq0pBMWW8pCbtdCUddHka9trr5lXBYHbtTOKurmkgbOVg==
      physical_name : .\WIN_CONTAS_A_PAGAR.wdw
      type : 2
    -
      name : WIN_NOVO_CONTA_A_PAGAR
      identifier : 0x481759a20127daa3
-     internal_properties : BwAAAAcAAACsqoSQL1Tcj1zHWVZqO4fGjuPdHaT3euO2+UXcWd89yymlHjz+O1fGKR+ZZy+hWU+5uQ==
+     internal_properties : CQAAAAkAAACsqoSQL1Tcj1zHWVZqO4fGjuPdHaT3euO2+UXcWd89yymlHjz+O1fGKR+ZZy+hWU+5uQ==
      physical_name : .\WIN_NOVO_CONTA_A_PAGAR.wdw
      type : 2
    -
      name : WIN_PAGAMENTO_PARCELA_CONTA_PAGAR
      identifier : 0x48175a26012cdc11
-     internal_properties : BwAAAAcAAABNyaX5xrP7JDeOERkfFbZxfxJeVnN2twt2ARlBpkJI+Awg14WUrRkNYMYwiAj4gHBY2A==
+     internal_properties : CQAAAAkAAABNyaX5xrP7JDeOERkfFbZxfxJeVnN2twt2ARlBpkJI+Awg14WUrRkNYMYwiAj4gHBY2A==
      physical_name : .\WIN_PAGAMENTO_PARCELA_CONTA_PAGAR.wdw
      type : 2
    -
      name : QRY_TABLE_PARCELAS_CP
      identifier : 0x48175e730131a937
-     internal_properties : BwAAAAcAAABTPQkF1vOzCAROsU1WnNGiJZu6cikAn6FCyFQFzelm1Pb8xnltdJOYakaZJgnhXkXW
+     internal_properties : CQAAAAkAAABTPQkF1vOzCAROsU1WnNGiJZu6cikAn6FCyFQFzelm1Pb8xnltdJOYakaZJgnhXkXW
      physical_name : .\QRY_TABLE_PARCELAS_CP.WDR
      type : 5
    -
      name : QRY_COMBO_FORNECEDORES
      identifier : 0x48176267013f1a37
-     internal_properties : BwAAAAcAAACSS22sHceSdouhAVOBqLCCR5LONSgaXzN0YPj1E5lJKvGhlyuFH0/S8bFug+cfZQ==
+     internal_properties : CQAAAAkAAACSS22sHceSdouhAVOBqLCCR5LONSgaXzN0YPj1E5lJKvGhlyuFH0/S8bFug+cfZQ==
      physical_name : .\QRY_COMBO_FORNECEDORES.WDR
      type : 5
    -
      name : QRY_TABLE_PROCEDIMENTOS_PEDIDO
      identifier : 0x4817caae01d79456
-     internal_properties : BwAAAAcAAABxzan9Snc/cHPKfb0b/GauoTCoIJl09XJOq+Ul9qLw6NAQQMQQKTX5HAL8xEyEfGxU3A==
+     internal_properties : CQAAAAkAAABxzan9Snc/cHPKfb0b/GauoTCoIJl09XJOq+Ul9qLw6NAQQMQQKTX5HAL8xEyEfGxU3A==
      physical_name : .\QRY_TABLE_PROCEDIMENTOS_PEDIDO.WDR
      type : 5
    -
      name : WIN_CONTAS_BANCARIAS
      identifier : 0x481b9db801b25769
-     internal_properties : BwAAAAcAAADkYszo14ykRxSzDaSa1uSg+uuB6eRz8HxObwuSv3kT5RfPWn0wiW8yQefRL/fpkQfxcQ==
+     internal_properties : CQAAAAkAAADkYszo14ykRxSzDaSa1uSg+uuB6eRz8HxObwuSv3kT5RfPWn0wiW8yQefRL/fpkQfxcQ==
      physical_name : .\WIN_CONTAS_BANCARIAS.wdw
      type : 2
    -
      name : WIN_NOVA_CONTA_BAMCARIA
      identifier : 0x481b9dcd01b7a7da
-     internal_properties : BwAAAAcAAADasIKGJWJKVRaxpw9IOeyJFBtTS3QjZcxKZG53FuKqTs5wSu21VJncP+Xf2VmXY1W/Rw==
+     internal_properties : CQAAAAkAAADasIKGJWJKVRaxpw9IOeyJFBtTS3QjZcxKZG53FuKqTs5wSu21VJncP+Xf2VmXY1W/Rw==
      physical_name : .\WIN_NOVA_CONTA_BAMCARIA.wdw
      type : 2
    -
      name : QRY_EXCLUIR_CONTA_BANCARIA
      identifier : 0x481bbea6018fac8a
-     internal_properties : BwAAAAcAAADpa8dDnCnxutKQQZpwAMEENu44mAqp91mXH/lJyOTTAOnhM47SyMXKWJRXYEOnEPts
+     internal_properties : CQAAAAkAAADpa8dDnCnxutKQQZpwAMEENu44mAqp91mXH/lJyOTTAOnhM47SyMXKWJRXYEOnEPts
      physical_name : .\QRY_EXCLUIR_CONTA_BANCARIA.WDR
      type : 5
    -
      name : QRY_EXCLUIR_LOGOMARCA_BANCO
      identifier : 0x481bc84105dd31c3
-     internal_properties : BwAAAAcAAAAex+kooVcW1CA61adN1BpaE4m3I69mH5JXGSADZCdzvMHhX+NVzEmKUUXyB2OT6Q==
+     internal_properties : CQAAAAkAAAAex+kooVcW1CA61adN1BpaE4m3I69mH5JXGSADZCdzvMHhX+NVzEmKUUXyB2OT6Q==
      physical_name : .\QRY_EXCLUIR_LOGOMARCA_BANCO.WDR
      type : 5
    -
      name : QRY_COMBO_BANCOS
      identifier : 0x481bcf0b05edb491
-     internal_properties : BwAAAAcAAAAdf0vHEK29dq7kP3IQ1BHgzSWiq/eNWiHiKLFzF7Z7qy8LVfBkiimmZGCj3McjnAcY
+     internal_properties : CQAAAAkAAAAdf0vHEK29dq7kP3IQ1BHgzSWiq/eNWiHiKLFzF7Z7qy8LVfBkiimmZGCj3McjnAcY
      physical_name : .\QRY_COMBO_BANCOS.WDR
      type : 5
    -
      name : WIN_LANCAMENTOS_CAIXA
      identifier : 0x484e93230a233660
-     internal_properties : BwAAAAcAAACY9kBcaxAYw4BSXYmL9zF1JnfNhSB6E/2mFzalv2mrZe936V21FZ7J7VNNq2tlHZN9hQ==
+     internal_properties : CQAAAAkAAACY9kBcaxAYw4BSXYmL9zF1JnfNhSB6E/2mFzalv2mrZe936V21FZ7J7VNNq2tlHZN9hQ==
      physical_name : .\WIN_LANCAMENTOS_CAIXA.wdw
      type : 2
    -
      name : QRY_COMBO_FUNCIONARIOS
      identifier : 0x481fd3c20140658d
-     internal_properties : BwAAAAcAAABj31tPfCmBmrnMnPcveUWfOXhwKBEMxdKiZhqxEmasDMw0e+pXquj3BjymEpJOKp5m7g==
+     internal_properties : CQAAAAkAAABj31tPfCmBmrnMnPcveUWfOXhwKBEMxdKiZhqxEmasDMw0e+pXquj3BjymEpJOKp5m7g==
      physical_name : .\QRY_COMBO_FUNCIONARIOS.WDR
      type : 5
    -
      name : QRY_ITENS_PEDIDO_PRODUTOS
      identifier : 0x481ffbc90136c191
-     internal_properties : BwAAAAcAAAAlF5N/eIUifGYuAIH6ZKVjaX5wbGgAmqEi6DHwoQUm2WEadN8L2i63S7kLtJ97xC8g
+     internal_properties : CQAAAAkAAAAlF5N/eIUifGYuAIH6ZKVjaX5wbGgAmqEi6DHwoQUm2WEadN8L2i63S7kLtJ97xC8g
      physical_name : .\QRY_ITENS_PEDIDO_PRODUTOS.WDR
      type : 5
    -
      name : QRY_COMBO_PRODUTOS
      identifier : 0x481ffea904a4fe56
-     internal_properties : BwAAAAcAAACNjztXoB3KpL58/rPquG2/Gaas3qEnZt2cnuenoQcM+w9UPoGtPiSPE/EzTHeTLJeI
+     internal_properties : CQAAAAkAAACNjztXoB3KpL58/rPquG2/Gaas3qEnZt2cnuenoQcM+w9UPoGtPiSPE/EzTHeTLJeI
      physical_name : .\QRY_COMBO_PRODUTOS.WDR
      type : 5
    -
      name : QRY_PEDIDOS
      identifier : 0x4820b1ac0143df7a
-     internal_properties : BwAAAAcAAAB932sn8M1l5som6JMYAodHHqqm194aNV14EqhjZsHAI/yT7RQCx0eqfAjD/CfDfGf4
+     internal_properties : CQAAAAkAAAB932sn8M1l5som6JMYAodHHqqm194aNV14EqhjZsHAI/yT7RQCx0eqfAjD/CfDfGf4
      physical_name : .\QRY_PEDIDOS.WDR
      type : 5
    -
      name : WIN_COMPRAS
      identifier : 0x4833317001454980
-     internal_properties : BwAAAAcAAABh3VlNeiePoKMGTFOpmHP40Uz4+NXs3XWiRgonmJACzmqmNAVN/NQFDDKsFJxULJxk7A==
+     internal_properties : CQAAAAkAAABh3VlNeiePoKMGTFOpmHP40Uz4+NXs3XWiRgonmJACzmqmNAVN/NQFDDKsFJxULJxk7A==
      physical_name : .\WIN_COMPRAS.wdw
      type : 2
    -
      name : WIN_NOVA_COMPRA
      identifier : 0x48333180014a86b8
-     internal_properties : BwAAAAcAAABJy9dp0kzTurDwddhwKB1/YLaA5Nb7/RnzAwPd9Eg7TGPAGlUDNfBJZT+alO2XcFvM
+     internal_properties : CQAAAAkAAABJy9dp0kzTurDwddhwKB1/YLaA5Nb7/RnzAwPd9Eg7TGPAGlUDNfBJZT+alO2XcFvM
      physical_name : .\WIN_NOVA_COMPRA.wdw
      type : 2
    -
      name : QRY_ITENS_COMPRA
      identifier : 0x48333b480155bbb9
-     internal_properties : BwAAAAcAAAAkIgwol8xkB9SLWxyuLcAokrXhcU6FEs2KFHzH+q5m6m782eJmW72KgacR77cp0ccxMQ==
+     internal_properties : CQAAAAkAAAAkIgwol8xkB9SLWxyuLcAokrXhcU6FEs2KFHzH+q5m6m782eJmW72KgacR77cp0ccxMQ==
      physical_name : .\QRY_ITENS_COMPRA.WDR
      type : 5
    -
      name : QRY_ITENS_PROCEDIMENTO_TABLE
      identifier : 0x484752610169df50
-     internal_properties : BwAAAAcAAABj31tPfCmBmrkUizrNcJ1AyVTQ8M1Iw/6iJicriDDi3ir2FEsT7gMfBjymEpJOKp5m7g==
+     internal_properties : CQAAAAkAAABj31tPfCmBmrkUizrNcJ1AyVTQ8M1Iw/6iJicriDDi3ir2FEsT7gMfBjymEpJOKp5m7g==
      physical_name : .\QRY_ITENS_PROCEDIMENTO_TABLE.WDR
      type : 5
    -
      name : WIN_AGUARDE_IMPORTACAO
      identifier : 0x484de8fa02c96753
-     internal_properties : BwAAAAcAAAD/WdUxgj/vbEV22PbCOMUSQaImAnb+sP083vH2+ddudc3POUyajJJtBoJNalW1Aul6
+     internal_properties : CQAAAAkAAAD/WdUxgj/vbEV22PbCOMUSQaImAnb+sP083vH2+ddudc3POUyajJJtBoJNalW1Aul6
      physical_name : .\WIN_AGUARDE_IMPORTACAO.wdw
      type : 2
    -
      name : QRY_DEPENDENTES_DO_FUNCIONARIO
      identifier : 0x484e14590ac6d133
-     internal_properties : BwAAAAcAAACZ+zdTrBnPIrJ6BidegkNs4u+i2cUsqj3AylciClk6wLOV/0aqQy0AluYnUHOXIIuc
+     internal_properties : CQAAAAkAAACZ+zdTrBnPIrJ6BidegkNs4u+i2cUsqj3AylciClk6wLOV/0aqQy0AluYnUHOXIIuc
      physical_name : .\QRY_DEPENDENTES_DO_FUNCIONARIO.WDR
      type : 5
    -
      name : QRY_CONTAS_BANCARIAS_DO_FUNCIONARIO
      identifier : 0x484e14940ac8b72e
-     internal_properties : BwAAAAcAAABQroiUE0jg+1galkbljlAJPK07kx4wDT23W32XqR99e0WNnaop4eMRJRuFczOtVUu1vQ==
+     internal_properties : CQAAAAkAAABQroiUE0jg+1galkbljlAJPK07kx4wDT23W32XqR99e0WNnaop4eMRJRuFczOtVUu1vQ==
      physical_name : .\QRY_CONTAS_BANCARIAS_DO_FUNCIONARIO.WDR
      type : 5
    -
      name : QRY_AFASTAMENTOS_DO_FUNCIONARIO
      identifier : 0x484e14c70aca7e47
-     internal_properties : BwAAAAcAAABJy2cj/Mmf8kIKKlGmRpN4cryEgQ7pgf0Q+hwY8cC5Sgmn+VgERz0Q5rZ3ACPHcFvM
+     internal_properties : CQAAAAkAAABJy2cj/Mmf8kIKKlGmRpN4cryEgQ7pgf0Q+hwY8cC5Sgmn+VgERz0Q5rZ3ACPHcFvM
      physical_name : .\QRY_AFASTAMENTOS_DO_FUNCIONARIO.WDR
      type : 5
    -
      name : WIN_ATUALIZACOES
      identifier : 0x484e2a030da371b0
-     internal_properties : BwAAAAcAAAAS6EpebdpSDS6sekeGH9jB8lXBEa7AGw6hr3Dyeq5mqm680KHxZI9fd60X4aFfG413/w==
+     internal_properties : CQAAAAkAAAAS6EpebdpSDS6sekeGH9jB8lXBEa7AGw6hr3Dyeq5mqm680KHxZI9fd60X4aFfG413/w==
      physical_name : .\WIN_ATUALIZACOES.wdw
      type : 2
    -
      name : WIN_NOVO_LANCAMENTO_CAIXA
      identifier : 0x484e933c0a28998f
-     internal_properties : BwAAAAcAAADoZtDM+6AIE9Ci7Vrj7BLGIndBISjiEaCq8iBrYaftA/n1Wk/ETi5ZfaMdmxvVrSPtdQ==
+     internal_properties : CQAAAAkAAADoZtDM+6AIE9Ci7Vrj7BLGIndBISjiEaCq8iBrYaftA/n1Wk/ETi5ZfaMdmxvVrSPtdQ==
      physical_name : .\WIN_NOVO_LANCAMENTO_CAIXA.wdw
      type : 2
    -
      name : WIN_CONSULTAS_AGENDADAS
      identifier : 0x484ee068088ab7c6
-     internal_properties : BwAAAAcAAAC8mpSAP2RMX2zuZgaP7LipdMXDy+aIm/+nb/EvIfelQ411DarjZYMVOe/p11+RaV+pqQ==
+     internal_properties : CQAAAAkAAAC8mpSAP2RMX2zuZgaP7LipdMXDy+aIm/+nb/EvIfelQ411DarjZYMVOe/p11+RaV+pqQ==
      physical_name : .\WIN_CONSULTAS_AGENDADAS.wdw
      type : 2
    -
      name : WIN_NOVO_AGENDAMENTO
      identifier : 0x4850088a012b7dde
-     internal_properties : BwAAAAcAAAAFAW2xjiuDnK8vSZPvHNFMi9qCSnsPTGJK5Ozc9CR2slrawrtxiOLO+C6oEJBAOKgQEA==
+     internal_properties : CQAAAAkAAAAFAW2xjiuDnK8vSZPvHNFMi9qCSnsPTGJK5Ozc9CR2slrawrtxiOLO+C6oEJBAOKgQEA==
      physical_name : .\WIN_NOVO_AGENDAMENTO.wdw
      type : 2
    -
      name : QRY_COMBO_DENTISTAS
      identifier : 0x48500ac1013024a6
-     internal_properties : BwAAAAcAAADOF7mY8Xv2ajK0eZvVBtsdX06hbPPGP0IHiXR2w4FNjZ3Hta3zcLO2lRXCd5NDuQ==
+     internal_properties : CQAAAAkAAADOF7mY8Xv2ajK0eZvVBtsdX06hbPPGP0IHiXR2w4FNjZ3Hta3zcLO2lRXCd5NDuQ==
      physical_name : .\QRY_COMBO_DENTISTAS.WDR
      type : 5
    -
      name : QRY_COMBO_SALAS
      identifier : 0x48500e3e0132c50e
-     internal_properties : BwAAAAcAAABh3VlNeiePoKMzozsnYyEkaxQ2Vt2hhrlc6V2pp/GtCznnaWy3CgQiDDKsFJxULJxk7A==
+     internal_properties : CQAAAAkAAABh3VlNeiePoKMzozsnYyEkaxQ2Vt2hhrlc6V2pp/GtCznnaWy3CgQiDDKsFJxULJxk7A==
      physical_name : .\QRY_COMBO_SALAS.WDR
      type : 5
    -
      name : WIN_FLUXO_DE_CAIXA
      identifier : 0x4850572f0137bd82
-     internal_properties : BwAAAAcAAABaMAIGpeLK1ZZmW/vcHYzLLm8ljUiEWPt2CWQzE/Uf0WPzr56YqbaRv2VfWdkX49U/xw==
+     internal_properties : CQAAAAkAAABaMAIGpeLK1ZZmW/vcHYzLLm8ljUiEWPt2CWQzE/Uf0WPzr56YqbaRv2VfWdkX49U/xw==
      physical_name : .\WIN_FLUXO_DE_CAIXA.wdw
      type : 2
    -
      name : QRY_FLUXO_DE_CAIXA
      identifier : 0x4850630b04750de4
-     internal_properties : BwAAAAcAAAAfebXRIp9VpAiIVcNm2InMxc/iWR4nbJ1sTp0pJoE+QGpiPPf7sKuKDFytyvUVogka
+     internal_properties : CQAAAAkAAAAfebXRIp9VpAiIVcNm2InMxc/iWR4nbJ1sTp0pJoE+QGpiPPf7sKuKDFytyvUVogka
      physical_name : .\QRY_FLUXO_DE_CAIXA.WDR
      type : 5
    -
      name : QRY_CALCULA_SALDO_INICIAL
      identifier : 0x4850636304776769
-     internal_properties : BwAAAAcAAADasIKGJWJKVRbm55d/1SC8Wh/pCcCEzgSrUep5xcPRX11RGN+bYXIRP+Xf2VmXY1W/Rw==
+     internal_properties : CQAAAAkAAADasIKGJWJKVRbm55d/1SC8Wh/pCcCEzgSrUep5xcPRX11RGN+bYXIRP+Xf2VmXY1W/Rw==
      physical_name : .\QRY_CALCULA_SALDO_INICIAL.WDR
      type : 5
    -
      name : WIN_ABRIR_CAIXA
      identifier : 0x48506ac505263e78
-     internal_properties : BwAAAAcAAABLx7NXVBEZwoFVHXQtWc52i8iG3unFlXuJ++NHmY8HCQsVpZmeZy7A7lROqmpmEoZO1g==
+     internal_properties : CQAAAAkAAABLx7NXVBEZwoFVHXQtWc52i8iG3unFlXuJ++NHmY8HCQsVpZmeZy7A7lROqmpmEoZO1g==
      physical_name : .\WIN_ABRIR_CAIXA.wdw
      type : 2
    -
      name : QRY_LISTA_PROCEDIMENTOS
      identifier : 0x4856b6390b175fa2
-     internal_properties : BwAAAAcAAACV50PPCLUDxsZwdZhs/LWWUkVIKGkQopn7e8IJ/9vQGqfFnyLOjuvEqgrb5M8rlH+Q
+     internal_properties : CQAAAAkAAACV50PPCLUDxsZwdZhs/LWWUkVIKGkQopn7e8IJ/9vQGqfFnyLOjuvEqgrb5M8rlH+Q
      physical_name : .\QRY_LISTA_PROCEDIMENTOS.WDR
      type : 5
    -
      name : RPT_BANCOS
      identifier : 0x485c0779014419e2
-     internal_properties : BwAAAAcAAABg3lhEY9hQCyi4fbvqKLKZhIuTO/SkbkuOOxssgrbm4ir0Lnu0FcRndasV46NdJZtl7Q==
+     internal_properties : CQAAAAkAAABg3lhEY9hQCyi4fbvqKLKZhIuTO/SkbkuOOxssgrbm4ir0Lnu0FcRndasV46NdJZtl7Q==
      physical_name : .\RPT_BANCOS.wde
      type : 3
    -
      name : RPT_ESPECIALIDADES
      identifier : 0x485c0b31015b9f5a
-     internal_properties : BwAAAAcAAAAVcX2hHnszbH/LZN5Fyvl25fTcBL0l+gC2GREyLhrwMJBQBKutVN1qSP74wECwSLgAAA==
+     internal_properties : CQAAAAkAAAAVcX2hHnszbH/LZN5Fyvl25fTcBL0l+gC2GREyLhrwMJBQBKutVN1qSP74wECwSLgAAA==
      physical_name : .\RPT_ESPECIALIDADES.wde
      type : 3
    -
      name : RPTTPL_CABECALHO
      identifier : 0x485c05f101342048
-     internal_properties : BwAAAAcAAABJxbFVUg8nyOtnOio9W5bUoeD4ICmZoNJSOrNSvlo44BgoAh4r1oumtGpUrHRsFIRM1A==
+     internal_properties : CQAAAAkAAABJxbFVUg8nyOtnOio9W5bUoeD4ICmZoNJSOrNSvlo44BgoAh4r1oumtGpUrHRsFIRM1A==
      physical_name : .\RPTTPL_CABECALHO.wte
      type : 21
    -
      name : RPT_FORNECEDORES
      identifier : 0x485c0ba40163616d
-     internal_properties : BwAAAAcAAACB/fktmsdvAMNvGOXZHvGPaWhg+ME5nxd2CW2e0kZMjEyU24beY4GOrJIM9Lw0zDyEjA==
+     internal_properties : CQAAAAkAAACB/fktmsdvAMNvGOXZHvGPaWhg+ME5nxd2CW2e0kZMjEyU24beY4GOrJIM9Lw0zDyEjA==
      physical_name : .\RPT_FORNECEDORES.wde
      type : 3
    -
      name : RPT_FUNCOES
      identifier : 0x485c0bd6016b253a
-     internal_properties : BwAAAAcAAADva8fb6JWdTh39kpUvZLu+nc7IuJdvfR92iQw/qW8nOY8NExJWqwsYOuDaJu7inhL6eg==
+     internal_properties : CQAAAAkAAADva8fb6JWdTh39kpUvZLu+nc7IuJdvfR92iQw/qW8nOY8NExJWqwsYOuDaJu7inhL6eg==
      physical_name : .\RPT_FUNCOES.wde
      type : 3
    -
      name : RPT_FUNCIONARIOS
      identifier : 0x485c0cda01761d28
-     internal_properties : BwAAAAcAAABO1Kb6SXY+cXIetLYyYqL78JPPhyy8fYhSambuSPAs5BAe6jNGsyc5GwH7xU2Df3Fb2w==
+     internal_properties : CQAAAAkAAABO1Kb6SXY+cXIetLYyYqL78JPPhyy8fYhSambuSPAs5BAe6jNGsyc5GwH7xU2Df3Fb2w==
      physical_name : .\RPT_FUNCIONARIOS.wde
      type : 3
    -
      name : RPT_GRUPOS
      identifier : 0x485c0d06017eca11
-     internal_properties : BwAAAAcAAADRLQkdqtdfENO/agfFRWa7/ej01FExxmquM4iMrJx+ekaKiUFOq8tefKIc5Kwk3Mw0PA==
+     internal_properties : CQAAAAkAAADRLQkdqtdfENO/agfFRWa7/ej01FExxmquM4iMrJx+ekaKiUFOq8tefKIc5Kwk3Mw0PA==
      physical_name : .\RPT_GRUPOS.wde
      type : 3
    -
      name : RPT_PROCEDIMENTOS
      identifier : 0x485c0e8c0189ba84
-     internal_properties : BwAAAAcAAABFwa3xTmtDXG/7l1UzjpIC26gmDskRVhmOX9srsVe/MYNdyfGZaAQaOO7o0FCAeGhQ0A==
+     internal_properties : CQAAAAkAAABFwa3xTmtDXG/7l1UzjpIC26gmDskRVhmOX9srsVe/MYNdyfGZaAQaOO7o0FCAeGhQ0A==
      physical_name : .\RPT_PROCEDIMENTOS.wde
      type : 3
    -
      name : RPT_PRODUTOS
      identifier : 0x485c0ed00191c731
-     internal_properties : BwAAAAcAAACRbcnd6pefUBP/q403ijenDV4I2OfHJOqr4SvbfavrJdNZljFRqAgePOLcJOzknAz0fA==
+     internal_properties : CQAAAAkAAACRbcnd6pefUBP/q403ijenDV4I2OfHJOqr4SvbfavrJdNZljFRqAgePOLcJOzknAz0fA==
      physical_name : .\RPT_PRODUTOS.wde
      type : 3
    -
      name : RPT_SALAS
      identifier : 0x485c0f1c0199f021
-     internal_properties : BwAAAAcAAAACeHquHUri/V7qk+i0/3m0KpkhaVJyiYqvVNF+fIwIIOjKG8XHcvoVJx2HcTGvS70HDw==
+     internal_properties : CQAAAAkAAAACeHquHUri/V7qk+i0/3m0KpkhaVJyiYqvVNF+fIwIIOjKG8XHcvoVJx2HcTGvS70HDw==
      physical_name : .\RPT_SALAS.wde
      type : 3
    -
      name : QRY_EXCLUIR_SETOR
      identifier : 0x485c101401afb799
-     internal_properties : BwAAAAcAAACT/clFljOBMGRuWxoqCt8spveM9rxwAY2teQle3fEYdoXbpSxwMAmWGIhZZkmhHoWW
+     internal_properties : CQAAAAkAAACT/clFljOBMGRuWxoqCt8spveM9rxwAY2teQle3fEYdoXbpSxwMAmWGIhZZkmhHoWW
      physical_name : .\QRY_EXCLUIR_SETOR.WDR
      type : 5
    -
      name : RPT_SETORES
      identifier : 0x485c106601baf76c
-     internal_properties : BwAAAAcAAACOlOY6Cbb+MTLeCAp6PoRz0EeP59DovpqnZizkio4G2mqkqF9ui9t5W8E7hQ3DvzGbmw==
+     internal_properties : CQAAAAkAAACOlOY6Cbb+MTLeCAp6PoRz0EeP59DovpqnZizkio4G2mqkqF9ui9t5W8E7hQ3DvzGbmw==
      physical_name : .\RPT_SETORES.wde
      type : 3
    -
      name : RPT_UNIDADES
      identifier : 0x485c10c701c872e0
-     internal_properties : BwAAAAcAAADlYc3R7oujvA/bCej/kZz8+eqE5OPrGOBfKLVTBQOLXZNJtT2Yad56WM7IMPDgmAjwcA==
+     internal_properties : CQAAAAkAAADlYc3R7oujvA/bCej/kZz8+eqE5OPrGOBfKLVTBQOLXZNJtT2Yad56WM7IMPDgmAjwcA==
      physical_name : .\RPT_UNIDADES.wde
      type : 3
    -
      name : QRY_CONTAS_RECEBER_DO_PACIENTE
      identifier : 0x485c118201cd4eb0
-     internal_properties : BwAAAAcAAADWD6Fw2YNO0mVH5XedgmeZ1UIBIjnO//4bXdYmp+23Y5MxL5MlkSsuHW2qT6tboQ==
+     internal_properties : CQAAAAkAAADWD6Fw2YNO0mVH5XedgmeZ1UIBIjnO//4bXdYmp+23Y5MxL5MlkSsuHW2qT6tboQ==
      physical_name : .\QRY_CONTAS_RECEBER_DO_PACIENTE.WDR
      type : 5
    -
      name : QRY_PEDIDOS_DO_PACIENTE
      identifier : 0x485c143f01cf004c
-     internal_properties : BwAAAAcAAACnkR0Jyve9zAAaF5LWntMg8qua0EFabYGaUKolwR8ABsU7Bbyo9LXCdFSVIg3tSrGi
+     internal_properties : CQAAAAkAAACnkR0Jyve9zAAaF5LWntMg8qua0EFabYGaUKolwR8ABsU7Bbyo9LXCdFSVIg3tSrGi
      physical_name : .\QRY_PEDIDOS_DO_PACIENTE.WDR
      type : 5
    -
      name : QRY_PROCEDIMENTOS_REALIZADOS_PELO_PACIENTE
      identifier : 0x485c15f60393b278
-     internal_properties : BwAAAAcAAAAC2/1crVcihu/t+XvZ3ksdYZgi75hyjwfQPMw/if2Pq9uJT6NdA99iQUH+M1eP9Q==
+     internal_properties : CQAAAAkAAAAC2/1crVcihu/t+XvZ3ksdYZgi75hyjwfQPMw/if2Pq9uJT6NdA99iQUH+M1eP9Q==
      physical_name : .\QRY_PROCEDIMENTOS_REALIZADOS_PELO_PACIENTE.WDR
      type : 5
    -
      name : RPT_PACIENTES
      identifier : 0x485c31f9039b1fb7
-     internal_properties : BwAAAAcAAACjn5uPPGlBWnnJJCSpJEORaTZcHKffAkdVkFzdEwUJDzEzgh1/hNV0Rvzm0lKOal6mrg==
+     internal_properties : CQAAAAkAAACjn5uPPGlBWnnJJCSpJEORaTZcHKffAkdVkFzdEwUJDzEzgh1/hNV0Rvzm0lKOal6mrg==
      physical_name : .\RPT_PACIENTES.wde
      type : 3
    -
      name : QRY_EXCLUIR_LOGOMARCA
      identifier : 0x485c559b01a56302
-     internal_properties : BwAAAAcAAADlV9M/uEXzJlYc7x4QGNECazJg8Of9JEEakCO5RWFG2QdFL5IG0LfESnpLdF+7BO9g
+     internal_properties : CQAAAAkAAADlV9M/uEXzJlYc7x4QGNECazJg8Of9JEEakCO5RWFG2QdFL5IG0LfESnpLdF+7BO9g
      physical_name : .\QRY_EXCLUIR_LOGOMARCA.WDR
      type : 5
    -
      name : QRY_UPDATE_LOGOMARCA_LOGIN
      identifier : 0x485c674f01b38b4b
-     internal_properties : BwAAAAcAAAB6YxXEBc+KHsca7+OThuYAu/T7LEhuz0xd66EZoNyOP0x04uBqq2fq2alWm//3DQ==
+     internal_properties : CQAAAAkAAAB6YxXEBc+KHsca7+OThuYAu/T7LEhuz0xd66EZoNyOP0x04uBqq2fq2alWm//3DQ==
      physical_name : .\QRY_UPDATE_LOGOMARCA_LOGIN.WDR
      type : 5
    -
      name : QRY_AGENDAMENTOS_MENU
      identifier : 0x4862a7d0014c9014
-     internal_properties : BwAAAAcAAAAJBXEVks9nCCutgP1ZDzziBwBCUvm/vlqykjh3y63p19UrK+VgWSd0dKoU7LQs1MQMFA==
+     internal_properties : CQAAAAkAAAAJBXEVks9nCCutgP1ZDzziBwBCUvm/vlqykjh3y63p19UrK+VgWSd0dKoU7LQs1MQMFA==
      physical_name : .\QRY_AGENDAMENTOS_MENU.WDR
      type : 5
    -
      name : QRY_NUMERO_AGENDAMENTOS_POR_DENTISTA
      identifier : 0x4862ab67016692cf
-     internal_properties : BwAAAAcAAAAex+kooasmmoB7d/u35y90D+g09XsSXzF2ZsuyHiLc/fumlE5stuNmRUXyB2OT6Q==
+     internal_properties : CQAAAAkAAAAex+kooasmmoB7d/u35y90D+g09XsSXzF2ZsuyHiLc/fumlE5stuNmRUXyB2OT6Q==
      physical_name : .\QRY_NUMERO_AGENDAMENTOS_POR_DENTISTA.WDR
      type : 5
    -
      name : WIN_DENTISTAS
      identifier : 0x4862c30f06a8fb9c
-     internal_properties : BwAAAAcAAAALB3MXlNFZAsGXQkYQleWIocB44Onn6GqjDPuIzkpIkKhYBvWgpvmarpQO6qom0sYOFg==
+     internal_properties : CQAAAAkAAAALB3MXlNFZAsGXQkYQleWIocB44Onn6GqjDPuIzkpIkKhYBvWgpvmarpQO6qom0sYOFg==
      physical_name : .\WIN_DENTISTAS.wdw
      type : 2
    -
      name : WIN_NOVO_DENTISTA
      identifier : 0x4862c32006ad3fc9
-     internal_properties : BwAAAAcAAAAeBHYqmcZuAcKUT+SVfzZu8EcvhzCW24Onn0F6ep52alq0ddrSPPSXq5EL9b0zz8ELCw==
+     internal_properties : CQAAAAkAAAAeBHYqmcZuAcKUT+SVfzZu8EcvhzCW24Onn0F6ep52alq0ddrSPPSXq5EL9b0zz8ELCw==
      physical_name : .\WIN_NOVO_DENTISTA.wdw
      type : 2
    -
      name : QRY_DENTISTAS
      identifier : 0x4862c36106b23d63
-     internal_properties : BwAAAAcAAADUDad2141M3AI/oW1R0XoqF7tS/iOuX25LjVAgLCklgv+2fHaQYCUoG2uoSa1Zow==
+     internal_properties : CQAAAAkAAADUDad2141M3AI/oW1R0XoqF7tS/iOuX25LjVAgLCklgv+2fHaQYCUoG2uoSa1Zow==
      physical_name : .\QRY_DENTISTAS.WDR
      type : 5
    -
      name : QRY_EXCLUIR_DENTISTA
      identifier : 0x4862c40e06b4e012
-     internal_properties : BwAAAAcAAADbtfGdHqtGjjzq9HSACMEzt/tsSzXA/h08Pl+mtg9epBBNF6p+bmjHr2Gh3sFZ5s1e
+     internal_properties : CQAAAAkAAADbtfGdHqtGjjzq9HSACMEzt/tsSzXA/h08Pl+mtg9epBBNF6p+bmjHr2Gh3sFZ5s1e
      physical_name : .\QRY_EXCLUIR_DENTISTA.WDR
      type : 5
    -
      name : WIN_CONVENIOS
      identifier : 0x4863311c0152de16
-     internal_properties : BwAAAAcAAAC5leElgv+3uBveBEchrVT2+ajw2OHIrQBOa4ipvmoo4GjoKLapEMxdZNrEPMQ8xDScpA==
+     internal_properties : CQAAAAkAAAC5leElgv+3uBveBEchrVT2+ajw2OHIrQBOa4ipvmoo4GjoKLapEMxdZNrEPMQ8xDScpA==
      physical_name : .\WIN_CONVENIOS.wdw
      type : 2
    -
      name : WIN_NOVO_CONVENIO
      identifier : 0x4863312a01571766
-     internal_properties : BwAAAAcAAAC7lRH9/stmZthYTaSYKqF6BZcGkLknxT0RRQmHLyFqNE7Udrux1zI79wHB/iH5Rq2+
+     internal_properties : CQAAAAkAAAC7lRH9/stmZthYTaSYKqF6BZcGkLknxT0RRQmHLyFqNE7Udrux1zI79wHB/iH5Rq2+
      physical_name : .\WIN_NOVO_CONVENIO.wdw
      type : 2
    -
      name : QRY_EXCLUIR_CONVENIO
      identifier : 0x486332580336b306
-     internal_properties : BwAAAAcAAABr51O3dDF5oqEIW/n/FWtMGxpSyosq1jmL/WeL2KDqDg42zlXiGT8zDjSuCopGMqZu9g==
+     internal_properties : CQAAAAkAAABr51O3dDF5oqEIW/n/FWtMGxpSyosq1jmL/WeL2KDqDg42zlXiGT8zDjSuCopGMqZu9g==
      physical_name : .\QRY_EXCLUIR_CONVENIO.WDR
      type : 5
    -
      name : RPT_PRONTUARIO_DO_PACIENTE
      identifier : 0x4863408303440800
-     internal_properties : BwAAAAcAAABt6UVZZtNbBNe6/w7lKSQmWy6acs8m6o93SmLdFuIwyDSYRsJzSHu5gKYQ6KhYIJB4+A==
+     internal_properties : CQAAAAkAAABt6UVZZtNbBNe6/w7lKSQmWy6acs8m6o93SmLdFuIwyDSYRsJzSHu5gKYQ6KhYIJB4+A==
      physical_name : .\RPT_PRONTUARIO_DO_PACIENTE.wde
      type : 3
    -
      name : RPTTPL_CABECALHO_PEDIDO
      identifier : 0x4864981c017141ed
-     internal_properties : BwAAAAcAAACb90NHZCGJklE5Y6P9CFd5d3Ai8knpczF2RZs9l2G1W+EP+FkFPMDk/iSeGppWIpZ+hg==
+     internal_properties : CQAAAAkAAACb90NHZCGJklE5Y6P9CFd5d3Ai8knpczF2RZs9l2G1W+EP+FkFPMDk/iSeGppWIpZ+hg==
      physical_name : .\RPTTPL_CABECALHO_PEDIDO.wte
      type : 21
    -
      name : QRY_ESTOQUE_PARAMETRO
      identifier : 0x48829a5a0165e155
-     internal_properties : BwAAAAcAAAC/mRXxwv+zVMBisRVaqN0ySDfacjcYeoFuPMU89tbpaYIkDrE9+PtoAj6NKhX1Qqm6
+     internal_properties : CQAAAAkAAAC/mRXxwv+zVMBisRVaqN0ySDfacjcYeoFuPMU89tbpaYIkDrE9+PtoAj6NKhX1Qqm6
      physical_name : .\QRY_ESTOQUE_PARAMETRO.WDR
      type : 5
    -
      name : QRY_CADASTRO_DO_PRODUTO
      identifier : 0x488bce9e0191b683
-     internal_properties : BwAAAAcAAADg+ZNCi3HwQCuFn5HTmkx7BdjxjrEav4NEkI9F5tp+krfjGSmjx5mcjx/cHXltlw==
+     internal_properties : CQAAAAkAAADg+ZNCi3HwQCuFn5HTmkx7BdjxjrEav4NEkI9F5tp+krfjGSmjx5mcjx/cHXltlw==
      physical_name : .\QRY_CADASTRO_DO_PRODUTO.WDR
      type : 5
    -
      name : RPT_CADASTRO_DO_PRODUTO
      identifier : 0x488bd327019370d8
-     internal_properties : BwAAAAcAAADHQy9zsO3F5vX0cGgzkFroNQRstA0kXcCiZs/BLvoQ8NAwShZ6jwjvkohyTtYK9urSUg==
+     internal_properties : CQAAAAkAAADHQy9zsO3F5vX0cGgzkFroNQRstA0kXcCiZs/BLvoQ8NAwShZ6jwjvkohyTtYK9urSUg==
      physical_name : .\RPT_CADASTRO_DO_PRODUTO.wde
      type : 3
    -
      name : QRY_PRODUTOS_MAIS_VENDIDOS
      identifier : 0x4892571401620445
-     internal_properties : BwAAAAcAAAB/21dLeCWNnq1j0mePGxq5k8Zi6lf1Ge92ASt0DrrYEDzAq1kG+ylmCjCqFp5SLqJq6g==
+     internal_properties : CQAAAAkAAAB/21dLeCWNnq1j0mePGxq5k8Zi6lf1Ge92ASt0DrrYEDzAq1kG+ylmCjCqFp5SLqJq6g==
      physical_name : .\QRY_PRODUTOS_MAIS_VENDIDOS.WDR
      type : 5
    -
      name : WIN_RANKING_PRODUTOS_MAIS_VENDIDOS
      identifier : 0x48926995052d4b81
-     internal_properties : BwAAAAcAAADsasTQ75ScTxwCB8+GAYSMWtmRiTKQ8bJxqeGA4CjsDAw2T3y8AZSJad/ZJ+/hmQ/5eQ==
+     internal_properties : CQAAAAkAAADsasTQ75ScTxwCB8+GAYSMWtmRiTKQ8bJxqeGA4CjsDAw2T3y8AZSJad/ZJ+/hmQ/5eQ==
      physical_name : .\WIN_RANKING_PRODUTOS_MAIS_VENDIDOS.wdw
      type : 2
    -
      name : RPT_PRODUTO_MAIS_VENDIDO
      identifier : 0x48926cbf055ca62a
-     internal_properties : BwAAAAcAAAD1Ud3B/lvTjF9BabRrpSCOZVaw0O89+p91yLO5dYMTLZsBbyci4yxIKB6YYCDQqBjgYA==
+     internal_properties : CQAAAAkAAAD1Ud3B/lvTjF9BabRrpSCOZVaw0O89+p91yLO5dYMTLZsBbyci4yxIKB6YYCDQqBjgYA==
      physical_name : .\RPT_PRODUTO_MAIS_VENDIDO.wde
      type : 3
    -
      name : QRY_PRODUTOS_MAIS_VENDIDOS_2
      identifier : 0x48928f46016587d4
-     internal_properties : BwAAAAcAAABDP7vv3ImhuhkPxn1zAp2MHQ7IOBcdU6WqQMrFSU/HGS/txTIgmQ2SZtzGMvLuin5Gzg==
+     internal_properties : CQAAAAkAAABDP7vv3ImhuhkPxn1zAp2MHQ7IOBcdU6WqQMrFSU/HGS/txTIgmQ2SZtzGMvLuin5Gzg==
      physical_name : .\QRY_PRODUTOS_MAIS_VENDIDOS_2.WDR
      type : 5
    -
      name : RPT_COMPRA
      identifier : 0x48abd623088983e3
-     internal_properties : BwAAAAcAAABq4FK2dTJ6paaRYDmZVa58fF078961NdypJGWoZYMJ//HBBv2Lhc58DzWvCYlHM6Vv9w==
+     internal_properties : CQAAAAkAAABq4FK2dTJ6paaRYDmZVa58fF078961NdypJGWoZYMJ//HBBv2Lhc58DzWvCYlHM6Vv9w==
      physical_name : .\RPT_COMPRA.wde
      type : 3
   other_elements : []
-  analysis : .\Odonto.ana\Odonto.wda
+  array_of_analysis :
+   -
+     analysis : .\Odonto.ana\Odonto.wda
   net_assemblies : []
   uwp_api : []
   external_components :
    -
      name : validar_sistema
      identifier : 0x4833663b01417fc8
-     internal_properties : BwAAAAcAAABn2f7mBgqsRkYNHZsVmH1toqp7BQREUuVToSB2Nr27e/C2l6V4SYm3FhiP2fyN+ShcjS0URqoLKIewKMf7cMBvDH7YpIs7eA==
+     internal_properties : CQAAAAkAAABn2f7mBgqsRkYNHZsVmH1toqp7BQREUuVToSB2Nr27e/C2l6V4SYm3FhiP2fyN+ShcjS0URqoLKIewKMf7cMBvDH7YpIs7eA==
      wdi_physical_name : .\validar_sistema.wdi
      wdk_physical_name : .\validar_sistema.wdk
      original_name : .\validar_sistema.wdi
-     configurations :
-      -
-        configuration_id : 10282700071843277342
-        excluded_from_generation : true
   internal_components :
    -
      physical_name : .\Print preview\Print preview.wci
@@ -1011,11 +1013,11 @@ project :
  languages :
   - en-GB
  rad_options :
-  internal_properties : BwAAAAcAAACY1lxxu5DGe7tt9v5WUzaiaLU9ydk3Nz1nKzIpqizHCWgghOLJa94ehh5+sAOu9ZKCNSuaf4M2GjAYQxc3ntOujtbOIGFb2voD7EloDB9WfL0QBM9deg==
+  internal_properties : CQAAAAkAAACY1lxxu5DGe7tt9v5WUzaiaLU9ydk3Nz1nKzIpqizHCWgghOLJa94ehh5+sAOu9ZKCNSuaf4M2GjAYQxc3ntOujtbOIGFb2voD7EloDB9WfL0QBM9deg==
  disabled_errors :
-  internal_properties : BwAAAAcAAABcdVqEDg/SUCSK9z/npF3BNi7XpaF+c4D87a5KgTdGHmsgEAocvmEEYtE205qK56KP9pv2I6EIFchmBjAT5aZ8NlrUmHB4m/GWQO3fA7GOadHmpSC5pPq2FV/XOHSpWuXGPht38L9yQaPslviqiCItvS1Ld0SSP3N2Modc4WTTJcGRmKGQCAHWdkhYO+qKVec7RrH6kKK1kBiY2IvqpSQmKGtVoEwB1PFiXtF8+oOiSgTYKwf6C95igt/gwvxBWUrYdqnSnfSXPc9SlIH3yG9KIlNLtqv7MOzWfqjd5FDs0uDuKoQ33K/2UdORGQ9ozYHPzC6Jb9UqTZBTSSna7A6DZNRRBmSQjRwvNCdA0H3JiYpns7EYTk//0vDM2wjv+fCvLfnbDklhZf4lU+R0HQc0r3RuRFf1n/TYIZyNVkjRJSwd/Utrc3kTbXX3ngN0segQ2RBgpwxt2urDGsc31hjqfYkry2XDng7L6dMQN9LWoCRQYZTzDOKPyMix0IpTbqbu3xnziwMJevV0louRx84GuyB3z1SnZJnoH3gCpa9zXuehxIS5u0COCeFJZbd3F184KFZN3Dvps5D96Yiplh6i3PngNl/YBuAqZeid2OkZeJvQkbKdLD3oaADrR19ymA4fbfWJxb8eskIRYCVN9/h2bntl9crFjpBCTle1lTOSJk0oXrI+PwlLc5adzxD5aYqTokwIqiakCboVOr7uWlj2/754VGNpV7zGeLX2TcOEIoOWLCBFJUbo0nXSu74ILuH7/XyM1saV16GNP4jdTl75CvbKx6R+C4MobJIW5DSYrbpbegMo2pU9R74ecPdKkH2GOvFWavjip11Nl/SwOi8g6ykF9QE53IY0tJtChx7qh30RkrnrOEyDvz3Jtploea0upAzLgWhlWt+OgjUUPLddvdbjrMLr12TJ7GE3lQq0HupOYNLUxvarAj9GQSMiF29NWvLaLwNuvXmWVLrXrYSGaD/a/sMTtqYq6cQdEb24PA+qDYPidD5qo6yFekJa6NDvFGQkbkSll2PCozLHUfDJcgVyNKUhLPe4s1pqc8Vanfxq5GKq2ZSv2+E/1wDbdmx2kWaRp3FJxI5Vdg3URPDTTva+pwdqTP2c/7n5gRTi6P0S3yI83Cz/YhbgHTD4lKnhw0VGoUgY4WCXGB0IbEo9XuK6G4my8BKfB2TNgLkrxgkMaWbEDIGqqmXkb0A4xHM+Ms2wjVn0FGP04FjxVC6zsDMbFYMAC4MMBWsZRarUirWHm3oWukczL9Y1lijxlAwiKUIM2AneaLdXs55jvXxU43Visx1+iQ+FyD/NwWlYi6gj/g64WbKg/wzFXoG0nrIS9++MZD4DeYkVGnCBO5XNmMDJf3+ksyNEZLBgM8Kimuqf0NE0s1OV4dn3HG3FBcISG7zPjUoCE/ysCtOCLqQwmP4DTJnAJJep7SV5d1pTSSeQUBxhWGVevvjjT1w5S52kKAXPSl/D0vE5FY6VbgeBH6hHvpP7jn4J7agna0u0JTnT/pa+rNdUe7Dc4RKcCwOBOKy7DEH0QdXMSutiLh5u33hJnzyqooHUT9s=
+  internal_properties : CQAAAAkAAABcdVqEDg/SUCSK9z/npF3BNi7XpaF+c4D87a5KgTdGHmsgEAocvmEEYtE205qK56KP9pv2I6EIFchmBjAT5aZ8NlrUmHB4m/GWQO3fA7GOadHmpSC5pPq2FV/XOHSpWuXGPht38L9yQaPslviqiCItvS1Ld0SSP3N2Modc4WTTJcGRmKGQCAHWdkhYO+qKVec7RrH6kKK1kBiY2IvqpSQmKGtVoEwB1PFiXtF8+oOiSgTYKwf6C95igt/gwvxBWUrYdqnSnfSXPc9SlIH3yG9KIlNLtqv7MOzWfqjd5FDs0uDuKoQ33K/2UdORGQ9ozYHPzC6Jb9UqTZBTSSna7A6DZNRRBmSQjRwvNCdA0H3JiYpns7EYTk//0vDM2wjv+fCvLfnbDklhZf4lU+R0HQc0r3RuRFf1n/TYIZyNVkjRJSwd/Utrc3kTbXX3ngN0segQ2RBgpwxt2urDGsc31hjqfYkry2XDng7L6dMQN9LWoCRQYZTzDOKPyMix0IpTbqbu3xnziwMJevV0louRx84GuyB3z1SnZJnoH3gCpa9zXuehxIS5u0COCeFJZbd3F184KFZN3Dvps5D96Yiplh6i3PngNl/YBuAqZeid2OkZeJvQkbKdLD3oaADrR19ymA4fbfWJxb8eskIRYCVN9/h2bntl9crFjpBCTle1lTOSJk0oXrI+PwlLc5adzxD5aYqTokwIqiakCboVOr7uWlj2/754VGNpV7zGeLX2TcOEIoOWLCBFJUbo0nXSu74ILuH7/XyM1saV16GNP4jdTl75CvbKx6R+C4MobJIW5DSYrbpbegMo2pU9R74ecPdKkH2GOvFWavjip11Nl/SwOi8g6ykF9QE53IY0tJtChx7qh30RkrnrOEyDvz3Jtploea0upAzLgWhlWt+OgjUUPLddvdbjrMLr12TJ7GE3lQq0HupOYNLUxvarAj9GQSMiF29NWvLaLwNuvXmWVLrXrYSGaD/a/sMTtqYq6cQdEb24PA+qDYPidD5qo6yFekJa6NDvFGQkbkSll2PCozLHUfDJcgVyNKUhLPe4s1pqc8Vanfxq5GKq2ZSv2+E/1wDbdmx2kWaRp3FJxI5Vdg3URPDTTva+pwdqTP2c/7n5gRTi6P0S3yI83Cz/YhbgHTD4lKnhw0VGoUgY4WCXGB0IbEo9XuK6G4my8BKfB2TNgLkrxgkMaWbEDIGqqmXkb0A4xHM+Ms2wjVn0FGP04FjxVC6zsDMbFYMAC4MMBWsZRarUirWHm3oWukczL9Y1lijxlAwiKUIM2AneaLdXs55jvXxU43Visx1+iQ+FyD/NwWlYi6gj/g64WbKg/wzFXoG0nrIS9++MZD4DeYkVGnCBO5XNmMDJf3+ksyNEZLBgM8Kimuqf0NE0s1OV4dn3HG3FBcISG7zPjUoCE/ysCtOCLqQwmP4DTJnAJJep7SV5d1pTSSeQUBxhWGVevvjjT1w5S52kKAXPSl/D0vE5FY6VbgeBH6hHvpP7jn4J7agna0u0JTnT/pa+rNdUe7Dc4RKcCwOBOKy7DEH0QdXMSutiLh5u33hJnzyqooHUT9s=
  code_elements :
-  internal_properties : BwAAAAcAAACyo+AGPHs6tl+CMW8i1j+hisKclwORtfzp4tr+6B34gnEg+AegA2o6CeaiNwKFgQlNnqdA
+  internal_properties : CQAAAAkAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
   type_code : 0
   p_codes :
    -
@@ -1081,9 +1083,9 @@ project :
      type : 196627
      enabled : false
  code_parameters :
-  internal_properties : BwAAAAcAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+  internal_properties : CQAAAAkAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
 rad :
- internal_properties : BwAAAAcAAABhIL0UXeZmxDJxY3Xy0Q==
+ internal_properties : CQAAAAkAAABhIL0UXeZmxDJxY3Xy0Q==
 project_explorer :
  explorer_type : project
  children :
@@ -1462,12 +1464,20 @@ project_explorer :
        name : win_aguarde
        explorer_type : element
        type : 2
+     -
+       name : ContraSenha
+       explorer_type : element
+       type : 2
+     -
+       name : win_aguarde
+       explorer_type : element
+       type : 2
   -
     name : Windows Store Apps API
     explorer_type : custom_folder
 resources :
  string_res :
   identifier : 0x0
-  internal_properties : BwAAAAcAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+  internal_properties : CQAAAAkAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
 custom_note :
- internal_properties : BwAAAAcAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
+ internal_properties : CQAAAAkAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
