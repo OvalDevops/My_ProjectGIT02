@@ -1,0 +1,385 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD_PopupSelThickness
+ major_version : 27
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WD_PopupSelThickness
+ identifier : 0x2502c33124c0f354
+ internal_properties : BwAAAAcAAADC138iidKUIMVTjK1YmsW6cjEnnf07xcXr/+ntPpzm8LNI6zcKpkJ7jznHOvA1vosE+e9xlD4nDq54A0lY0WZtIQlJ2ZdvOOZ8GfxZ/uOtpeRyVeKR+VHk2kxYGUz9B2ZIRx9DFi8osCYTdJibygAnV8qw52NOCTCZSjSZ67cCp3dbeSzOzyLTnyN5eAyCrHZ8LUQTCV+Fby3Ohauti68Zzf0rZNYCvEHisAwQUUaV2TJDIKe9++rM+518QwReoSdNCyWYWFKvHUCewUzAqaT0J0OPq55nSgAfyuAV+82ExXhByEpn9fmTl6VmuKD3bikb57iQqR83Gud+WCmr0xr2EaD9hJQlN+ZXK1keIa+JCxdtnDiUykQUMYxbjz1dfT3Sb5wQtQcRF8mTq9kc+fqhJk34+1DC5Wh36SNvA+iGP7jhos6UcDaBysc+EOtjGYN6Gq7Lz9e5NcNoVjbg34te9mAIa8kUGnV/Ts68YexV/8t5Egx7DThVXp7dcYh6Xh1GaYNYLjqN3SROvB75ZL6bUnjddLFrP4cd31HasJ3Fo5U4AqLv0nH8MCfn5XCyFiIPjP7eihN0cykVytvOBPeRmI9Tuj7+Sm3boKKhf64MHa+yfBlcCvtSKA6pMQpvTrrkt1mQl7PrKg==
+ properties :
+  width : 220
+  height : 300
+  widthClient : 218
+  heightClient : 298
+ controls :
+  -
+    name : LOOP_Thickness
+    identifier : 0x2502c33124c1f354
+    internal_properties : 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
+    properties :
+     x : 6
+     y : 37
+     width : 206
+     height : 254
+    controls :
+     -
+       name : Stc_Thickness
+       identifier : 0x2502c33124c4f354
+       internal_properties : BwAAAAcAAADktpIaw5V0zcK0qNwKPH2s8sn209aY5e7UZel0QNUuX99GlZao5566Ed824HOZnMKQaY46+XBueSeyEBbXdIBlKp+PU+NmVJTqVdEzvt9aUPg3V8pKGFYXNOkX1bNgw1C59JV8JzVWiUqBoCANBVb+6E4t8c+d1nV6SBXNxJ5MBHoBCHQghrPX/aEQSK6pA52ZsvK6oGRWW8CI0bwOAAZKQSbQsdonXUM9nKkTUBYoDWwUnlocjbqBO+0IcI/VPyIsPjRBwmGNvkNz/rvgpugm1MOI0F2MaNBcj+cbxHg8QYtW5l0lCUrXoTPB4rhJWn2KB453/CHEeMzKN+dpIcM/Mvc49uweoRSq48sg4Y8FgAAxKdcElt7iY6+COalfsRVbczEthGMRqmKQdejtLmx+99md/+F42AYs
+       properties :
+        x : -1
+        y : -1
+        width : 19
+        height : 32
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : IMG_Thickness
+       identifier : 0x2502c33124c5f354
+       internal_properties : BwAAAAcAAABOTTFmx9yTxZFHwSbwrygZEfc7qoGiDWf0vQyEdz6f66B2FLSeZ0QVAOWA1tx3tv5+H8cNBm4kiSO/iXtlLqANpzDdd/NkXZcSuKy7qn6gjYd4nGleGM99AjRKFh/uGqfQSv92oFL9UsURsqRP4Oc5lc6yHtQnM+D7pUwxLX73WI3muabZtWOr0P4KXZ608fLdLUX74j5yXsYUpKRDF4rw+YMG0WpvAkl+lF3SUCbV9R8n/M940s9j5m9YE6jM6i2f7/Rv62iU+2BZbGreJ20zBLsRS8AmBBv5WJlcYMFnaUGheWlJqkuyoNCEKRaDnZ7R19/eKZXud0TWiH0KYLqi47CBzAJT/kDWhqTtjqDT8DeLGMh3C2SD0FX7Yksq+6zDNGr01wJk/ZwKZoCJwDlapqb9R6NI175TbXpKwiJcJdc7nPgoI9gQyHDIbjgHHtyjPG3CUo1yZ8r7OnQJlJJOZSPMlIKw2LdBBOF3Xeegp/yVqzgYXvYYpd14MSQgL2ZC6V70EyrtYQiolVvgMmmdDFPEg3XoLvPmlHw4gnQjmDJBJSGNTxk60/0rBVJwhy44zN5bMc7htCXpirNzxjEt90KR/V9aRThmOUYAbmu4SThz6SQIavLrjsBaxqPyRITiox09ltXiDX9ov4+5eH89TwaaN/wcWEoN729AYC3outZx7qJFll0iczwjD4kuFB0fxFyxPYPI0Q+W8zwXYGvLEmCevBLdtwxXxiQZTQ==
+       properties :
+        x : 23
+        y : 1
+        width : 160
+        height : 32
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+    columns :
+     -
+       name : Att_StcThickness
+       identifier : 0x2502c33124c2f354
+       internal_properties : BwAAAAcAAAAldBL5ge+7y+yXHBGYs/v1yS3IeSTLK69CMwDXbGqL+yV4scwOPP1dVwQb8nRtdUEjW3/COCGZl3CUQtsSyCC2d3tY73WwEPFtGigMLAPnSImP+TIDPt4KVx0YiM6+vR2wqFuoeKUTrPxoO6y5iJYxsqaulmI=
+       type : 3
+       content :
+        identifier : 0x26cf8f4840c234fa
+        internal_properties : BwAAAAcAAAA5n2xK7/Gjy5SShPxRU2D6M0vNRbUnmxmksORQzGGyMkHDDf0mPxM9R2Fe0Y7qgranG58Dxw9hdBuzYq4iGZevywDlErHF5zeo3ppbCGIySN8OEezJAD051bx8lJVWrivAKw7YFpgQgj1CQrvwDUMIbYQ9D8Pf08f0gQNPCxSfYDoWY/NXgmEFjMhXk5elJce4pASTm0zOGVbnvyKoCw==
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : Att_IMGThickness
+       identifier : 0x2502c33124c3f354
+       internal_properties : BwAAAAcAAAAyAyUEvjpWEEkki4LF8IAiVqBL9tCCwOyHJlbpahT56RsqV0JM7iMP5ebxzNKHy+fpHSWAtjN5X2lQ83D6RuzuD5Ooa/3s1DltSpwIzEcjaFnfUSbj0toar/UUltK8V+0jJdgr+9pOabnVqD8ULWsE51PDgXU=
+       type : 3
+       content :
+        identifier : 0x26cf8f4840c434fa
+        internal_properties : BwAAAAcAAAA5n2xK7/Gjy5SShPxRU2D6M0vNRbUnmxmksORQzGGyMkHDDf0mPxM9R2Fe0Y7qgranG58Dxw9hdBuzYq4iGZevywDlErHF5zeo3ppbCGIySN8OEezJAD051bx8lJVWrivAKw7YFpgQgj1CQrvwDUMIbYQ9D8Pf08f0gQNPCxSfYDoWY/NXgmEFjMhXk5elJce4pASTm0zOGVbnvyKoCw==
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+    type : 30
+    code_elements :
+     type_code : 42
+     p_codes :
+      -
+        code : |1+
+         // loading the image
+         LoadImage(1, Line_Thickness, 12, 1)
+         
+         // fills the looper
+         i is int
+         FOR i=nLOOPMINTHICKNESS TO nLOOPMAXTHICKNESS STEP nLOOPSTEP
+         	LooperAdd(MySelf,i)
+         	Att_IMGThickness[i/nLOOPSTEP]=gImage(1,i/nLOOPSTEP)
+         END
+        type : 14
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        code : |1-
+         
+        type : 33
+      -
+        type : 230
+        enabled : false
+      -
+        type : 241
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+      -
+        type : 224
+        enabled : false
+      -
+        code : |1+
+         // retrieve the subscript
+         nSubscript is int=LooperSelect(MySelf)
+         // Thickness
+         nThickness is int=Att_StcThickness[nSubscript]
+         // modify the thickness
+         ModifThickness(nThickness)
+         Close()
+         
+        type : 66050
+  -
+    name : Line_Thickness
+    identifier : 0x2502c33124c6f354
+    internal_properties : BwAAAAcAAADnmPT7PMhLS7kWFhs7tmDOrecTwStTyRdR4x6TYVZGIzwvH8nLFcVkIqlp61hXKPVSPa2j1q2PD2+yaXjKKoaqjvHWsrAE4GFgYHKuawoxtDtUx381CGUb0kk5XCzkUMfC0bPf3+4z3kw4E+5pagw8/ZEq4x+Fx7aStso3tfcy0DrqELIjy6RCFaSn+c+lCBdg8hk+lDsCY62+1CDWuL5/yApQJSE/JP8C11i/GtrCXT59Z/tTm4iMe5uFaRFf5RrtGDDIhw0wZ/ujdB8iBF+RIppen6Meog+6o94HJ55N9XrXHtFtbMFFb/986Lm0T2dmSiyzEnvnwkqhXgC+taXZeLaQCDjhZyd9PVGJPJTuKkXWshhPYxwEMIenW8TmAqtNUrWrSfN4HWz3qN2uTUrgjulLxkRhQp3/F0874H1VsZZ1ZFYPeI/hEGOTTmE9FCP17fegHPGzjKN8rrxwGbsWHhKwu5xTX9OwiFwJghkw9Iflv0iTnsYOc0ZUd0/tJbReWdWHq5irlxiESlngwCmfkDEruv27UhHZCViHXj+xNfxS3EZix/4RsmSkg4F00Y3OHcThpvW9a3j/sx2GI6SVkz3TImEj/cWC/JRXIIkG+GdwJnTeu4Em2lf8OK8MzINluEImNEHShLRvMu13SCboaNZOyAIzzqaINLUqqg7mvvvCAVw/WPP1wrhRXzkkiWMES62ZHGv82qJSwTdNOveVeebc2s0VpXB6d38WtveSgPhb9+QlCBmRHZQeGisuH6aAll7j3Zd2iS2xmYX1Ua09KhbNE2DJDKm9jkY=
+    properties :
+     x : 91
+     y : -42
+     width : 121
+     height : 36
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_CurrentThickness
+    identifier : 0x2502c33124c7f354
+    internal_properties : BwAAAAcAAADqDIC1q1G0mSF415INieW0buQqd+E58GGNjgtXQYdQe3/cQJlkApe3qmC2EZK0r4XvQo2TaLSW3AlyyNsar43TjxpdEV/FpPiJ8gI7ZWZRcEU8D8hGVaKvgYeCvuBQdrJSxqxTDooXYbWPPzJVIgM7/pPW3ybMi7FGj+YfNX1HsgD+QRMOiW0uZZHqcsR4R1R+Lfoz2D0dKQHO+4PUQnED6RG9pcwpPDiGseLvvZ1d5rPUXQ4lwpYLFl6siZBWa6HMVX8mlV9IJbZLzVZyNChiWiD0tTAXpLaym9e4lBuRADFU/q2UrMo/axAbO7DY9q/0TX4fGdug1FHfmGSz4+Rl3joVriERdJkVeSIAP3aetpbKNwUkaynh1zlbadAYxGoly0v7eiPs1L6qB3SRIMS9G9n6HrD0tI2NGejhrND6bBkmmB72C8LZlKvd00mhpVYQxjx2MhonFjTElCOFF3JDREfFwnYD6r53Iy4Di94p1qxnMXi8IG+3u5W6NWZ66PsSxYQM7tJ7GPPTkg8yR8TcUbpxy93DdKHQ2eI3X3X2jtXamZ1qScd1c/seVkaS3LQjFJtPmZ+y59MMzczhMx9TkTr0o71Bo/fUtlWxHbtIaMpTU0eJEe4Tr7BTXGY4SOlNwIlT0HSA3doimhU9HT8hXpOIZdUL2+V95oDWSV8FnrZxz8j6w+5A7i5gJparkMTbXyNXeXxRsdwCCceXbppYZ869loEBiglY0Syr
+    properties :
+     x : 6
+     y : 6
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : COMBO_Thickness
+    identifier : 0x2502c33124c8f354
+    internal_properties : BwAAAAcAAAAPUNakiStLv4cmMn/oUY7ohm13mezgILTMiMCYx9pz1Etw4mWK9Ojb0b8impLat/FBH2vlUjhdpXYsR0GDga4eQUqGnXsQUJqgbcaO3St/kkMJIOPiOq6cQyXlQOu6NPWsI9zEzOne1fJ/9ShAlAJfit2oV0SDTvCz+abmQJDLkJxOALOq/3t7xF4K82RVbH6/x7VcrtMUaGVpmao8cVvndul7XhdNbMAdi61ALdcfirIOxbIht54zCoiPwuKSQr74WCEODlNycBOiM6IHH6b1hnmvMa4TMeoc0lfZLj6BU6E9LGXk+mdWhqmSznPQxJsh1lsFVwjP27HsOsrdROxLz/QOWF+8QNjM86a22CirEOHZy3nq6ZJyH6IUAQciS5iGOlIb4YPFl9EdXlpSLezsVmjVbjDzsHdovpT7xpWEt4YnOB0FgFhce3N1Ou5dis7Yw8rBaSvR0OY7EV6Q0yNUlucgpR7YljzxOD51H3oOBUpgeY0hr7EjZAOikm9kMy2U6WeQ3r6sVPJSU3kZfBKIcJj+wD7RD4inPDRYs7Ou7RxNM4xPP64fNgY/o8S0I5lDwk6P4c7/O/4YmFB2PYVv2DmumMB7m12jcUI38mc1nELtUQywJms3hKqOgeCL4EH04YDd82PUJ04SRZ98HC4hK4Ju2lsi20N7r/gee+ylBWH8LO4xDGmMiV3DkXdF+fpfTGoF3itqx6ZFLF4/Dqu4OdWW0YnFc9wvDYXsDam+Fl+N9PHbL8gUvm4tZJ+wHnS6VM8S625VXm1wiW5AIKhDCOBrcg0elCsNgifinhIbXkyT8VVFDunMpX6jeoJxQy0/TjSpFI/ipZl2ME4CxNc6FtBiKz+QYn4mYUkxVhvDRMv+/6pd+wI6zRRhhyMn50TlbRvrGmGdtXQ4fbnA2iy5lFcI7NQ9Rhcz/RcLy/PZpxVltfyS8U5tPQ6Of0bGxJmkpVUqHMxD6aA5+R5vzgVynM3S8QtX/dRw1wUu4+mUnEgMbKCz2trEnJ5nWraI8KjHCPX3SSQmOn57Fiftxt6Hj5DTwxfgJmO8TMAwtbALlw9tceTl/ddntJv5kgplvfDh3uU1diO0k/5V6rPc9X+HGHWtY37/zzmIpGdD6cJt5L2mim/pE+3y/kByDt2+MTv39ArjHP0sGmDrKa6bkSMwUWWI6ejL0MLQf/DSAoASKXANnAXuBTJiQ3spMj20+mh6PC7E5tCVb3rmHJGxes//Dd6ZryjVhI4PuK6PvLmKR7wmz2uqClncZ3dg4/pzvdjKO1jLdoHzhe8C6ul7q+IDG5uYbfiYMOagT1UtcL20mM0fCmNkPXunMUeuElNUgttyVgFEKRv9mpB9Jh9xRmBQKZEZvFtti3iGjthxsr/S0vZj7bO5c7WFcrI1XfmNPj7FKOdoT37wfnLtW8rdtAJm+qIUr5wZKaQkB9yOKoBIxA2NUDma3EexGlCBfOyxTxm4R8iKr+CKC6FHL1hedLQDxX8as8r6/IxRXXggyhPhbeH3xRkB7xPmwWJ9NAGDv8z5YYiZVZHZ2pPCZx+Xq8lMKpIVeXCN7tuQHUOXd5aikhqn3o/z4w1iXqCkj5lftufpE0lq9sLd55Rr0E+CvZzcSymAqNRrvD6g9iTBpzZEGgs=
+    properties :
+     x : 6
+     y : 9
+     width : 50
+     height : 22
+    input :
+     internal_properties : BwAAAAcAAAAicfuA0rXo4K/uuMLbtSFH0VL9G2lP9Lj12j61FO7SG5I7+AB3WZ6EMpHF+SlzyUQToaFuYo3HlbnvQAaB/WlCigdHqyF5yPXvijPp2Rdd/KaAKUc5TayzhSlSLQRjf9L2rqsh/C6eA9JPXP9Wo6KzD8uTeAp/SqKM8Xr/3qmMKv0x13HqyURphRDcxWEXcNY7kFeQwN7Jr630qnomMcB2ffZ1s0qBPv9IzjlPA4HTSJIKuF3Lc2+E934JmDkJqRTA5ddl9qqznXoGWHfu9x593WpfqvaZFphS4n3NhPZHEv6TxPJmXqe/cEpMM09qno3RxJ5qiyLiQLJ/+A1V/prSYPRCX6f6Py6dCudFTyDP2Zlfs+Qv37QPRQpB9h8bdJ8GyIUEMVbHbeVT2E7iuhMlvifNPAImSFNt10lEMl0SZ8ZgdDIfjt1dfqtd3FTAR36zjAhYIfYnmA4HDzbT+YUi836yRrUJmSpKsn0guOcknbpzKU9NlvfPh+XxCeWpDCPhVMqpF+PMqZhLvYDwekSfKFvuFkxqrdOdokcXgq6jGoU12AN0znPJVehNd7mWFSY=
+     type : 2
+    dropdown :
+     internal_properties : BwAAAAcAAABXM/zK189iAJ7+/z3VGetpYhWOuDRfoQQC2wuyuyRN054qoCsuiAu3HD3rJeAreGAHvR8Swhkj4aCucyaLzPmmMVVzIjfZdodtxu+NxqsKymHcQx/4ZG9Vuyk4LXIxQrDEkNR6PyS3hgSXc4xRPa/1kKBImp2NuNKgxeiwibfeIX/j4a5LhS4z03niPhDB+DuRvOCnQKt0GL0SgBjey0QJ6VmATCf4XAhYBahUS677xs1+QRCv2q9u9CwzZEigEeOgDRp5Cov1v8JfOeFkGwgP7oRIH0S8DkEexwfMA7d9n/xXA9X0Kenh+/YYfzBjC84VEjxDljTGzMHLS/rhW9/B+HklcxaORQ0ueZc4hN0UAKR/gRRntGhcwnYr/Z9x5im2YbpyC/HI28bQB247MzdB0ZHJMo3YlArX5SegEK/r6tJIfGEQAtE41CWtCUkgM7a7oHq0p7AUuY3tjYWFJYjf02K5ymXwEBLxewCYCqFRSMWvtWFsNg/DGkNpXkmk/Gs0VRYvuAJO5c9sxN1y/4TnYZY9PHszyt6KTAqjU5T7xgfLs+5xT2OjPO7p0rJPzGYsiV/pfSuSwiEJ/TeEldB8mSvZAZg9p+ekSeJqNc8QemmLy6BDwhXruQGvGjneMnVdx4jbLJ5Qq8j+jhd7lLLX9952Vm8ETKzsXYIc09nvgm57++g+tgflyO1layd3RQa7WtI=
+     type : 7
+    type : 14
+    code_elements :
+     type_code : 23
+     p_codes :
+      -
+        internal_properties : BwAAAAcAAADy/a6YCRbdSLeWC+4uQ4ybL8AVaZjhlBYNcz+rwfMOi4OIkM2hQYcHQsLTsfE+P7izAOvzV6Nf1t0qmHMlfq3hOqX4JdCEbQJLa7hu+/5rQ5AvUivby1cdhRdVFMrtKF8s84E1DaeYoSLLYw==
+        code : |1+
+         // fills the combo box
+         i is int
+         FOR i=1 TO 99
+         	ListAdd(MySelf,i)
+         END
+        type : 14
+      -
+        type : 35
+        enabled : false
+      -
+        code : |1-
+         nThickness is int=MySelf..Value
+         ModifThickness(nThickness)
+         
+         Close()
+        type : 16
+      -
+        code : |1-
+         nThickness is int=MySelf..Value
+         ModifThickness(nThickness)
+         
+         Close()
+        type : 33
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : BTN_OK
+    identifier : 0x2502c33124c9f354
+    internal_properties : BwAAAAcAAACgZUzdxkIfCCj+g3HeuAom48BmGgceF5bdGqILPBHq+wdO1RMOCTvIOo5Zffb2Zz3qUQlHYf/Xzp38VRKJdM/fqiv3bw9nr9W+Xic5dcjNRjw1sR1IbGw5hRppLawhsEv5XivnxAVK/cw0LQ5DodtUAXv4BD0dkG5SPSw6jXcshexLSUeM2BEboTpby3aw8Tq51pmUIqe9XU52zySZRB+W2p0G+y693DPgEWhLM64HIPbe7SCYg3SROTXfZeyepCfo7A7BZWl/XUk1FJx5JSjznptVWqrITdvHSz9T2s3NDFU1nztakKQPc+SsApKZWG2Q619cyQ1ubb5CPGoSUtydfGiBZgA6cG9Uvdg2Na+zbWcxwNQyXIOOlhre915lAcpkYJHKRXWUNtoQ57/ea1dwEWblteYw9dOQRpj3GNVTV5+gvuhCFSVxjBjFCvS+/bQDKbRos/WIktZJrfJDijRM6sRYgPua0idDBYwdu5Oy4ZMHjlcRIHh5LxJ2xCVb3gf0hvizV69EReMKmnIi20i+EYYtr4+Noz/L4cwUSulvFY0QpraTMCrlYCJsPJ3u4Cnz0SGGVabshr4KSCbBTg8F/W74u8/C2xWIgKe9YUbIAh8tr9AArBNiXPrqxFGWKa0No+G361PpN5cgrOT+KykSwmXMeZet6rIZA4revVujy6YUYm5zSeVmfGBKAP6qxVn6w3LDnUbPa3BlpscBpeR93ITHoRbAjSSmmDuNdVknETJxNHBJRd+jYso=
+    properties :
+     x : 57
+     y : -31
+     width : 27
+     height : 25
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         Close()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_ESC
+    identifier : 0x2502c33124caf354
+    internal_properties : BwAAAAcAAAAcfqh0LfIhzIx2E0f4LzOgbMzHYIreqNj803EoiHMvskXrUT2+R2DfzQ/WIIqe4WPQRrvc7QdlT8XV13wfM4u0bEES5V23uI2ctrjGbAc5Xx7LglZztrJG4etk7Lf1W/HXVhU9Iqn5sgCwVGh0P5q0TSAWUlu9QttW3hoWoB0MCZHwd0iFgbGXSeC0xxyzjRN/RPPJKieXSR6UbtVeBd9NLCDskfS8QAa9IjMnVsHv6kPlAEwKzo820JQlq379PgRhzay5N34AliHkmGhNqE4iCk3SxztqFL4yqEJX5Bw2LAGUMowea3CRn2hr+T7OHg/gyb6XkQURCfEcj6gMRQOHazCUzCDkfoo43ZwNRymdiBj4BkMfqoyyrMGT4Bx1zShmoPmNuTHmVwlc4Dkh/HtJUN0Q7nolQO2PjYp6vaI2x0aDsoWCnSPufdFRFsvBUCYxpjhz1wsXoauXaghp8gs7ApIlYYDcQCWgTLK3Ma36Dco5MWSSDrgqGMAxuDs9QPH6UOptKrhCqoRr4ul5T7UL6supUNPildyCriX5HYaT8rb68+ALaEDIxsQ7AS858666SqP5Oa34OWM33AqHEh+4KjZG7qH335Bg+lm4eRodwChOifBEkPmEH0NGa2Nn6S7eRufW5Zx8MRRQrgvEEey8kDdrCi6lNUb86z2yqJa3PyY3ikeUCoaqWdid7+zLt9ZPXDsUHy7meQKFJmsuNinERxxtrm2BvF1PLaRce+WuAxY=
+    properties :
+     x : 6
+     y : -30
+     width : 46
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         Close
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x2871d6a410177923
+  internal_properties : BwAAAAcAAAAqnSxRkbINxeFSUXPTq043pfFKTRtA7cN4QLEJxxl3Av6yLAuudKLjQBvrAWRtDlPn2ZZShNJ4xyjQyjd1ACcafumUN+7dyO0PkSBubPsIOQx/xJOuc/c4rJe/PlBaTTdknyC/8X0iDSQWs0TNPSdjzTRAQLz6lLZgXwXhFGd3NJh8i23rPDjMy5+neZEBvImOT7Xjiw+FDe8F+FVsKyew5DY47JwakOd54K3yryIk7YJrZTV28cWjud//8G3W80cSY/ZFSpcSaLs8GGfFh+FQg5X3RAjhDzDNY0JHrw==
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : BwAAAAcAAAAms+3aaxoN5Cf0M4NZkIsjJd6X2TlGDe2U4vqK+/K93p9TYOjwQAGDkfyoaTjpyKR81Z8c3ku63VR9bRf8RJHE/Fo7x3l9XHOqUB9UkQY=
+ code_elements :
+  internal_properties : BwAAAAcAAAC7ZHjGwtgFGxTlP+2EUbK3N1t1WkDn8FCUdwT7YTNH/NvnmkG/svBsNomCysNRc8oFVBacgNoFvfwFftMcxF5BUfWiHc/BbIPctl57
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      // Open the selector of thickness
+      // Entry: gnThickness=initial thickness
+      PROCEDURE WD_PopupSelThickness(gnThickness is int=10)
+      
+      CONSTANT
+      	nLOOPMINTHICKNESS = 2		// min thickness in the looper
+      	nLOOPMAXTHICKNESS = 24	// max thickness in the looper
+      	nLOOPSTEP = 2				// step of thickness in the looper
+      END
+   -
+     code : |1+
+      ModifThickness(gnThickness)
+     type : 34
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     code : |1+
+      Close()
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+  procedures :
+   -
+     name : ModifThickness
+     internal_properties : BwAAAAcAAAC6S3R1VXnwufHFM7iF5fMiZuuFqyLOU+Fj2vX7kEC0VWXbD04ZvO0hD3TlwSppZRoYu4eMe1UKcS2Y5oZGvTImeDARJ4l9dauPZSOCCZwKg0dXvIgteotRdfbk2diTcRTxeV8hqDSEdECGgHCpDg==
+     procedure_id : 1513987040002372436
+     type_code : 14
+     code : |1+
+      // Summary: Modify the thickness in all the controls
+      // Syntax:
+      //ModifThickness (<nThickness> is int)
+      //
+      // Parameters:
+      //	nThickness (integer): Thickness of the line
+      // Return value:
+      // 	None
+      
+      PROCEDURE ModifThickness(nThickness is int)
+      
+      // synchronizes the edit control
+      COMBO_Thickness=nThickness
+      
+      // if the thickness is one of the preset values of the looper
+      IF nThickness>nLOOPMINTHICKNESS AND nThickness<nLOOPMAXTHICKNESS AND (nThickness modulo nLOOPSTEP)=0 THEN
+      	// subscript of the corresponding cell
+      	nSubscript is int=(nThickness/nLOOPSTEP)
+      	
+      	// if the thickness selected in the looper does not correspond to the thickness to display
+      	IF LOOP_Thickness<>nSubscript
+      		// selects the proper cell in the looper
+      		LOOP_Thickness=nSubscript
+      		//		// refresh the looper
+      		//		LooperDisplay(LOOP_Thickness,taCurrentFirst)
+      	END
+      ELSE
+      	// deselects all
+      	LooperSelectMinus(LOOP_Thickness)
+      END
+      
+      // draws the circle in the image control
+      DrawCircle(nThickness)
+      
+      // modify the returned value of the window
+      MyWindow..ReturnedValue=nThickness
+     type : 458752
+   -
+     name : DrawCircle
+     procedure_id : 1513987040002437972
+     type_code : 14
+     code : |1+
+      // Summary: Draws a circle in the image control
+      // Syntax:
+      //DrawCircle (<nThickness>)
+      //
+      // Parameters:
+      // 	nThickness: diameter of the circle
+      // Return value:
+      // 	None
+      PROCEDURE DrawCircle(nThickness)
+      
+      dStartDrawing(IMG_CurrentThickness)
+      dCircle( IMG_CurrentThickness..Width/2-nThickness/2,
+      IMG_CurrentThickness..Height/2-nThickness/2,
+      IMG_CurrentThickness..Width/2+nThickness/2,
+      IMG_CurrentThickness..Height/2+nThickness/2,
+      iBlack,
+      iBlack)
+      //dEndDrawing(IMG_CurrentThickness)
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : BwAAAAcAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+  integrate_compiled_code : true
+  original_name : Popup1
+resources :
+ string_res :
+  identifier : 0x1871d630000ab470
+  internal_properties : BwAAAAcAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+custom_note :
+ internal_properties : BwAAAAcAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BwAAAAcAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

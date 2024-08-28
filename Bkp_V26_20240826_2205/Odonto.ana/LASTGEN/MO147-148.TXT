@@ -1,0 +1,22 @@
+//MO147-148.TXT ANA00147 TO ANA00148
+MEDICAMENTO		TAR	1280	new record size: 1280
+MEDICAMENTO	PRECO_CUSTO	CNW	4-byte integer$Currency	new type for PRECO_CUSTO item: 4-byte integer
+MEDICAMENTO	PRECO_VENDA	CNW	4-byte integer$Currency	new type for PRECO_VENDA item: 4-byte integer
+PRODUTO		TAR	352	new record size: 352
+PRODUTO	PRECO_VENDA	CNW	4-byte integer$Currency	new type for PRECO_VENDA item: 4-byte integer
+PRODUTO	PRECO_CUSTO	CNW	4-byte integer$Currency	new type for PRECO_CUSTO item: 4-byte integer
+PROCEDIMENTO		TAR	431	new record size: 431
+PROCEDIMENTO	VALOR_PROCEDIMENTO	CNW	4-byte integer$Currency	new type for VALOR_PROCEDIMENTO item: 4-byte integer
+ITENS_PEDIDO_PROCEDIMENTO		TAR	476	new record size: 476
+ITENS_PEDIDO_PROCEDIMENTO	VALOR_PROCEDIMENTO	CNW	4-byte integer$Currency	new type for VALOR_PROCEDIMENTO item: 4-byte integer
+ITENS_PEDIDO_PROCEDIMENTO	TOTAL	CNW	4-byte integer$Currency	new type for TOTAL item: 4-byte integer
+ITENS_PEDIDO_PRODUTOS		TAR	146	new record size: 146
+ITENS_PEDIDO_PRODUTOS	PRECO_VENDA	CNW	4-byte integer$Currency	new type for PRECO_VENDA item: 4-byte integer
+ITENS_PEDIDO_PRODUTOS	TOTAL	CNW	4-byte integer$Currency	new type for TOTAL item: 4-byte integer
+PRODUTO	PRECO_VENDA	RRN		
+PRODUTO	PRECO_CUSTO	RRN		
+PROCEDIMENTO	VALOR_PROCEDIMENTO	RRM		
+ITENS_PEDIDO_PROCEDIMENTO	VALOR_PROCEDIMENTO	RRM		
+ITENS_PEDIDO_PROCEDIMENTO	TOTAL	RRM		
+ITENS_PEDIDO_PRODUTOS	PRECO_VENDA	RRN		
+ITENS_PEDIDO_PRODUTOS	TOTAL	RRM		

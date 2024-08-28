@@ -1,0 +1,404 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_LOGIN
+ major_version : 27
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_LOGIN
+ identifier : 0x27db03b70145f732
+ internal_properties : BwAAAAcAAAA38h7YUxWxdCAm8Ol57eLRT4yTQrwtKEnUGdJzct0lABquoRRl1+IqGT6X1JO+7Zjzzt+YA15ZZJWyuvvs1ilVqQbccpVPwX+oFUvu9kIXoNwHL9vp2Yt/Z2vYacHxGltLdc2R7aJbillZRD4R8BqgU0Jri2uudiLQXb4ICzdFqV6fhb0HXeOSn3Eh2dYBUgu/ypBQVNhKIBZISnvFqIiYS38DiZar1BGqTFGQraMIwW7DkhHlxsv04KZBrL2D33wwJx1FxmTrZ61+C3tn5zKcmKMN/Use8IPSDzd+ngipQzNuXCoSKs3zNRRo9O/Txq4CQyijfx9MPIyL7y6JpKgckxYxfZm2iSmD+rmXECccznIH7thn8W1NabLnV2PVVwHlqak+GBAA0hHh84qoEnIzdrP2BkWPLPorhPiE1EvlFWgu05ND2ddx3jNdi/aFaXOdxx1UY63iRPOOAhspK1Me4Bcq9eQ92fdo8CANUcUUi/hu+4NIYYBQTNYjd1WXiK4l+XqANCScLl8NDaRubIj2/IO5MVfJvZDK2UlLzP+HoZ3fTO+onFgf+j+D2WcVIWVxnfx44CmUWD7pvkMVu0jJWxy3bFoBsj3hWEO8qLGiVI8mZTktEQBhwRo4McYyEF6vHgf+2bdM1C7b7ApKm9klqMjIb6rysJmU+9I1p4LBBqLROMs=
+ properties :
+  width : 378
+  height : 289
+  widthClient : 376
+  heightClient : 287
+ controls :
+  -
+    name : IMG_NoName2
+    identifier : 0x285d963b2368d589
+    internal_properties : BwAAAAcAAABxVdadXEibS8ZNwj5tktCLmmRSFFkOPCMVJmWGKGXKksMU69tJNdxvENVTwo9fK8oyd69CUofjeRugW9iwQkZernYdcfiGB6O1WtXimpHBclg8c2lzwfRFIAMAK2ZOoStITEhCx94gEhpfU4xOX73YhYBXUVefyz21EY9jLcWcqfFpPzeoc1P8sE/SGRuvYkwq95XBuqp7RJfhO7b2DBd7Oi3ZARK8gjZV6hki3vlg2wa9qMgGObQIQ4l61fgyJ4LJ4jISAOTj3dtPkuwd4JbM+jN1Xhlt+KUApNXcVWAuHLbWePQiagEE0uXvIAdPjCfNGj79liL2eor8D9vpy8ggtEdU3n92tg39s8xJUXVQuU9vkOkKxx1C5pxjrUh7ZlaY5h9fAWi1GDdFjqwQYCvBIsIYECpTqBep/is/TLxYcYJU1mvAPSZ5vDS2lZDlWHvUjQZQXDlcjxfdaqUy/ynOSPseUf2UmQkTgrreUK/tZF+0Vtak3pfvU0SkFzE7evZ0mO76ZxfqRXshh//+n8HjXFa1ZHzkMKaZCHsMzightwsNVxGlIRDa5u44FO+3yPOH0e0gJtRIaKz/9Xjmya7c8CLxJWKLtr86rad3f2drS+w8D92ro0Q3fWebnMrPJr6F4AjzU3qnC3k9w5Mj4WLQi5RYcyxLPzIe6gTdB9vaktcECV6ciYJOe0GlZGwiEGB/iEWcS/ZyEGYdGHcvepH5X5qVB/Iti7PXvi8X7Lk/tMAd3heoGW8Z+8rtlXYUm5QvBizK+YDspAVGhioSa5c1fN+8/YDUYpMgCdQ3aY/e2GFn44QLsY7+npBO8NhfoK3yWC108XcqqOHAyH/nzKcd/JDC0VLw9eZeqY0nN8QTVuzlqQ007Uy1rZk=
+    properties :
+     x : 155
+     y : 6
+     width : 64
+     height : 64
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : STC_GERENCIADOR_INTEGRADO_PARA_CLÍNICAS
+    identifier : 0x285d963b236cd589
+    internal_properties : BwAAAAcAAADzPu27LanUH0P/2gXs+G9mW8zhtlvIEOaHGn/V3HWVutPMDyxMSiRKYSnXZkJ/wn+v6JqpAAzL9BA3IqXjYfE2pLr66sPkVKhcueKS1OIl4Ds2fCJVupr80HuorqxeV9MTuue1ia9QKq2/zZEekCvNBJzlzXKNQXlrVQXluZfslZCVY6XP1Ma8TbHJht6IJmlujd4Qi3D8QV8wC4Qkhi7MgGcHpJwJJqoj4lJqMOVbG40mJg9h9DgJy9qxHR121QhbQjneoNdOmER8lzbhMUumjDU9R1Kk9d9v0MrdUjGfPAx5rSD2QX7oHGmUIUQU9mD9p67Z5U+P/f7GBkj13NoUhUcNkxs6FMlXOkClyYsxZ+rbnUAriBd8YN/y1XwvpcNXegBlNOpAr0RClj50IKjxZpFAK66pb4nmiIWp6zgqXjtfLRjURWSbmFMQqj/sKpAfVFoyH4emo32YLrzz7SM+FM+fISx3
+    properties :
+     x : 18
+     y : 75
+     width : 352
+     height : 17
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_NoName1
+    identifier : 0x285d963b236ed599
+    internal_properties : BwAAAAcAAACeM4+B+DDFhRYGwf6P9aopLqPMuXhiXm38zumrZzBM9HkaJTcwRMMqw4FsYtcrkFoMc6j6Qil1vcPp/ogolfNyKAltPD/Jl0I0m6QFJKy0VvN21+6W8k6IggQlJHa5vf4bgQqLNRqk7AxVzx5Eqq7LmkILau4QI+Vhy921zZIx1rvN8zYO6aYbIrSbxxxkFxQp3x7QE4Wqr2AkmU3xjX/egnx1CZzZVN4pBqyJnOykm1DIjf5P/2uQ+ZaixE6P74mGWwHjtGA2GFQJzf1/UcSaOuVC2FtmHeYO88RLOH2OltzKQw9UrleCq/SESHumTvkPmLgGY5J73BKaCaUVVeeW+14PnXsxFPx5WrzzLSvx/TLPAfWC6ZpU4G202r8bYSaMT2FYT+7Wysv+ySkW6sYIj8RE12Ivwo6NemjctS+J4dx3lXjaFWhM6vd1pYgenGvnTxUzGASCNVVy85/X54jDRQovnYqqPpBgkHYlkfem+8H8fQxuWaZ0MW9mLZAd0YrXOrTKj8bSZEAaAGOXvo9j1+2uwuCqF3lQ18ayLpk9FyqEKWtbmXhcoka31rLFZpaPlZK4R+C0zKNvl5e2J7Ik5bRHpXufIM5qcOBAVeYQfRFVZc906z83ES0VXknbnuan/CotIB6SZMESksc+b/K/KKZPhuo9lcXVGMAwMYqP8RiukiZQsrwhxH6tOE7G3oH6luyS/k/o5xs2ZEHRZPvIlXcFjxSaajGYHC1ghMLAvgL/3/rPjfwyYhujUFMy5Fh8Vlu/TwSMemBX+NzsRcjX/qN2aVz+2wzCi7wcxtd0jM1T66gTGZAoRtFfMPWi
+    properties :
+     x : 173
+     y : 100
+     width : 32
+     height : 32
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : STC_AUTENTICAÇÃO_DO_USUÁRIO
+    identifier : 0x285d963b2372d599
+    internal_properties : BwAAAAcAAABA7+cdJHhLTzW3uSvRTPQexZd4defR5kG5fklEbIjClEQv6jytyVNHhf5QwGAjzprJlYdeSrMl6nfZpH/2bsLQ0t2+teAMVKgrhEM9eu9/1i3hPwlueV4GX+KUlDQ9AKfUrWX/8GUh0owb0CBWQVUR72DFZyz/MR/Bm7Xht78+nZ7GIMZMJLNh26cmd3jpvDKBNsSgmW86tJ0dPSBY2XodKhWCHAPU7l0hCNMkihAqt0+6Bh+L6gHdbhwvq+GSEl6MEda9su4rFI8p0vpFJPey5hRaklSxftBbVReaNnWaIJ8WuODfQGonVzAkqku/HYFWE+K7L7r0U1sCWak5wMWCxU7hnNdYD9SVKcEFAqxlcYkPz+3O5JMMA9vTWESgzVQtfDM7DoLk2TDbyBooDolCUHkNlQGGRkUmBZ4nUw==
+    properties :
+     x : 123
+     y : 138
+     width : 138
+     height : 13
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_NOME_EMPRESA
+    identifier : 0x285d963b2374d599
+    internal_properties : BwAAAAcAAACNQnVU3CUrezoNCqvKo2PhWT8ONRbiimAtpRQjCNGmznTs9DeqE8H655uvD6ATABzQXtq7BShbvT609n2WQBbXotOgGvb0uxUWLtLpaILwwU7WU6sJSVD2suyP1trMRTHo6uu/XqDI5E8vLUtMFsqP8aRTu6fdKdPHLM8QGO5T68Ad2gn4lla3LJ2+Kfq0IWNU0zmROoD/xydTsVXcNKAHIHIBvOBypzCBWukETMleH8yczY22q5Q3VBsSkWec+3k9fbtoskIlUjLLjE/25OAlVpichcF1iyWeSjDUNA4d98vXYF0fRcVczHDT0Ae0LBxWSse/AQfNvn+fnje5K5wxVOFYNaAg/EfOF0D2miiHA6+MbeMLmGQFoAOxvBxw6g==
+    properties :
+     x : 3
+     y : 158
+     width : 370
+     height : 15
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : EDT_USUARIO
+    identifier : 0x285d963b2376d5a8
+    internal_properties : BwAAAAcAAAAhaLNr5A3sF3WCoFJNXC+KK6HUyMkNsiRme1GpDoT8wrHawq2VV2C/BukFNrzTu5QpxbADW7+ACxkJq8XqAI1h2nUZJ1dUdmpMi0rb2+HfDcLg1Szd9rmVM45EoDaJRAq0xy6rbFwiWydDrkXxNTMHj7ceW8Kvb0YUPWcJGceJDuY5Ys1BjlvPeT56S+4ZHEBlALZ0Zn1U1Bl6wlCUFvs4+zC/4erno4FJ8OAf8I+VVGR4cnmBHmmrbbtxsmscQhhmAwp7IRwkoslucvgtoaaZWh7rUKiMQa1T3VvC8NfqC/Y9mdtqiJ0PzOXMfw6pr492XKg/iaRL8oNQWYlvr4UTjxBsh8PbNgZGhT4CYMoMXDkN3AMskVTe4ckoRevclovVDK7zUbAZRv1k8kLqKRqFJ6/CPKGEqYs2N54b03erFz31fc7dik3yNqGn97WSMaHctiSQ/OHEiIpYXvxhrJaz7tAUlJh+nYHfPS5OmI3pL8EoNLOQfI9UacpCsN9dj/HrSmB/Pif0aiUkbYbMpFrAjB0VSx/YFq8PDu3MFlMX7qV7Rctt1GXmwhesFoJZQhm9sMxiUQgycHLvbFf4LdpXAcFl76gvs0AZvFGE6iwk5UkT9uVZhytcFwPCsxJ1Jjw4e6q/dGVPRov74BzksPrKLNELQKAfGcHTnbua06GSJZGPbljcLpqSwgx4bslg5s2i4s/0lsm9nWM1moFCOC9EFjHpsL4dwxum9/eymEtZw39KllUQ0I+ZLx6wUAlwZ5NKAQLadVRF0p+mVR6rkfiA/EEgkTl9ATGDKpC5TXytYUEgHNKXkBJBcPTWKmdZs4VPueOgd+9s2VOYbN2nb4lC7P79D98XtakL6Ck+6Wtu2MLwiEyQDwsfgxc6/7FGdFfROaM8dxwOdqS7pnOb5JD2AXce4aYWa4/RnpDjj76t4JJ3pEOnJpz6E/h8t4sPaBXQx8QeNgHfru1iPVW5Z66j36Pvju9nehgcJRCmphHBXNnFT8VgNNLCTb4Rp0FowTVl06qSZg==
+    properties :
+     x : 10
+     y : 180
+     width : 360
+     height : 35
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1+
+         IF EMPRESA_ID_SELECIONADA > 0 THEN // SE A COMBOX EMPRESA TIVER CONTEÚDO
+         	IF HReadSeekFirst(LOGIN,USUARIO,EDT_USUARIO) THEN // VERIFICO SE O USUÁRIO EXISTE OU SE ESTA CORRETO
+         		IF EMPRESA_ID_SELECIONADA <> LOGIN.EMPRESA_ID THEN // VERIFICO SE A EMPRESA SELECIONADA CORRESPONDE AO USUÁRIO ATUAL
+         			                NextTitle("ATENÇÃO!")
+         	Warning("A EMPRESA SELECIONADA" + ...
+         			CR + "NÃO CORRESPEONDE AO USUÁRIO ATUAL. SELECIONE OUTRA UNIDADE!")
+         			EMPRESA_ID_SELECIONADA = 0 
+         			EndProgram()
+         			RETURN
+         		END
+         	ELSE
+         		NextTitle("ATENÇÃO!")
+         		Warning("USUÁRIO INCORRETO OU INEXISTENTE!")
+         		EDT_USUARIO = ""
+         		RETURN
+         	end
+         end		
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : EDT_SENHA
+    identifier : 0x285d963b2378d5a8
+    internal_properties : BwAAAAcAAAASJi7jgx7MdN2cIKLkQ9WEyeJIslq0jo58PpaI5hjzu7f/BLdt1csjNDwPK8P4vMCcs/qHdlJi3V7y24w7Um8Gv7ddozEjNZTqVXMC82sr8lBDzQuw5LnrYhRIKbmUycDp7qQtivHK04T0Ho2yIDdOD7XQPncW1S8chwfwas9jsuWNd63pLteYlXLp7WqOoJVwKQAX4LJ9cj6CVB9sDE69Ps2NsR95WKFjMENKIx3HZcf8txsm/8Notyu4FM5q7JHgCj7/h9hK2cDNoZ31H/R4FyybgrQsb6XnZWdpNrT6u7o3bzhtotc6xARil72GYemdo8C/Th/gPcww2tuss/+vaIS1mw7FAmd/AHVCTzUCRilN8APUdLz4mhdz6snepwfZZq/ZZLwjsJ9PuU+i6jyauga5Dn0CsxK7qWXzpVkwOLCjOxaQD88i3tFRbCyblLrf9WANQZpL1w3jdL77mEFe2iwDcuFPH0nEO7yyC7uP5tntdtk0+W9XdnCpgQSImTva8YAs/BN8B0xWGNFaoLqMRDQNBAEaqH6opCDR7lNrsAsQJRyNnpf9YztJt+S7hHmxe1rTo5ag4SFJfSAcD+RreVjjRsTnR5Mq2ipFGDwgR7dktkA97eEVBkeDuo7hpiDAGirgajnPN8IfmyNShkB+5KhThQyNP7SoJcD5hy9YhY3k1kFgWiK/lSTB7+16gG9Ip9/bovNHEipXo4biilncEpzPlehhW76jX0TlYh8J+VHLCujCPs0mHprV9TmAs2/qnHhRsVRZqyJO9Bkd917W1nqWJBuJKdjoAuuM1TAlX5ObQFMjFIJQ/X6pN/t169thRmt/UZ16mKw868bF7yXOhDEPrr0fUcT0VuA7H31g4nhRSM8e92earHudpIsoHpUL5A+9xTa4MTEtw/j1ENha2TZU5hKeD4I26LtebdIKYwO8pwGz2HK4ANZ1wDU/lusVJ4B5+pFL6WBLLbZCQ6Jy1fEINy+yaHhA1fs79w9CzneGI285HYMKH2+xPiWWxUIY/w8=
+    properties :
+     x : 10
+     y : 221
+     width : 360
+     height : 35
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_ENTRAR
+    identifier : 0x285d963b237ad5b8
+    internal_properties : BwAAAAcAAABJsK5p18oh5K1+RX1xna29p69DjrVBvLpZI0y4ZzLsN7lkAsFD6jX+NYHpEoOj7RGSKcWFXAjasb4PXEbpDWm5Sk/U7Nu635OgjN27/RzjUk4zT/HRKXsHK8xl5jfaisHigTHAnD71id4ZS4KwddFb8BtXdwQvI1Hab/OqoQjnVJt7CCqpRwdCYAHtu8avHXZ1Axtf5zOV+TydD+YJ7Us5+dxyanuGEP0rGY6eEUqfDHSKA2Ld1Wi4X3TyRYqKOjtkA4FxW2PMau3ntqewUXZ4il8gEQLoID8w7usDvqHOVQJb8r2jQYNMU0xcXyZqEG3iSWGfPpLQYP5YNiBR4CF/QPECQkgzDiRoDFr42ALUzPiCnHLOvv+9xll4gYaaQuq+E7ywYAfjPU3hNXe4d6fd7gTZ9LklAy0/ujExTCo2PQCjEmNC4sz8UmwfbDMdwxtyqJxYmoawN4o7W4EndjcQzQompd+rnYhl9WLpGKXEk0fh1MtpGLluDmcsU9AD4DwfG+GgFRBpxwpXnk3hKcdm8Eb7TdvycSugnCImtd7Ol/w4uxFy+gV+J3ejC7tpL9jXb+6CLKjZLoso5/eKidOgZtFsZ0UDyvoOzqDViPBOFOoKs/Lwo613xmJ9IFjVXpCtQ6SfYuL5xHHlsnduzDqmGw9fQehJsHW2YOzex+5JM39BbtoXwbajngMvqNX+GrN3mHy0Vqb4YHFyAR0o/ikfiR8XHstbJ2L1ecoB9i1ReuBGW79nRPY5WqEoJwGTH9YLgT2UkfjTpUws6PtL9Qnb1LSkGMVlU867wYV6CbHK2kq9E0lsft2LTPVPIJIkng==
+    properties :
+     x : 143
+     y : 257
+     width : 88
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         
+        type : 14
+      -
+        code : |1+
+         IF HReadSeekFirst(LOGIN,USUARIO,EDT_USUARIO) THEN // VERIFICO SE O USUÁRIO EXISTE OU SE ESTA CORRETO
+         		IF EMPRESA_ID_SELECIONADA = LOGIN.EMPRESA_ID THEN // VERIFICO SE A EMPRESA SELECIONADA CORRESPONDE AO USUÁRIO ATUAL
+         			IF EDT_SENHA = LOGIN.SENHA THEN // VERIFICO SE A SENHA ESTA CORRETA OU EXISTE
+         				// DADOS DO USUÁRIO CONECTADO
+         				USUARIO_ID = LOGIN.LOGIN_ID
+         				USUARIO_CONECTADO = LOGIN.NOME_USUARIO
+         				ADMINISTRADOR = LOGIN.ADMINISTRADOR	
+         				PODE_INCLUIR = LOGIN.PODE_INCLUIR
+         				PODE_ALTERAR = LOGIN.PODE_ALTERAR
+         				PODE_EXCLUIR = LOGIN.PODE_EXCLUIR	
+         				EMAIL_DE_MENSAGEM = LOGIN.EMAIL
+         				SENHA_EMAIL = LOGIN.SENHA_EMAIL
+         				SERVIDOR_SMTP = LOGIN.SERVIDOR_SMTP
+         				PORTA_SMTP = LOGIN.PORTA_SMTP
+         				
+         				// --- DADOS DA EMPRESA LOGADA		
+         				EMPRESA_ID = LOGIN.EMPRESA_ID
+         				NOME_EMPRESA = LOGIN.NOME_EMPRESA_UNIDADE 
+         				CNPJ_EMPRESA = LOGIN.CNPJ
+         				TELEFONE_EMPRESA = LOGIN.TELEFONE    
+         				ENDERECO_EMPRESA = LOGIN.ENDERECO
+         				CIDADE_EMPRESA = LOGIN.CIDADE
+         				BAIRRO_EMPRESA = LOGIN.BAIRRO
+         				EMAIL_EMPRESA = LOGIN.EMAIL
+         				LOGOMARCA_EMPRESA = LOGIN.LOGOMARCA
+         				MyWindow..ReturnedValue = True
+         				WIN_MENU.STC_USUARIO_CONECTADO = USUARIO_CONECTADO
+         				WIN_MENU.STC_NOME_EMPRESA = NOME_EMPRESA
+         				CLOSE(MyWindow)
+         												
+         			ELSE
+         				USUARIO_ID = 0
+         				USUARIO_CONECTADO = ""	
+         				ADMINISTRADOR = False
+         				PODE_INCLUIR = False
+         				PODE_ALTERAR = False
+         				PODE_EXCLUIR = False	
+         				EMAIL_DE_MENSAGEM = ""
+         				SENHA_EMAIL  = ""
+         				SERVIDOR_SMTP = ""
+         				PORTA_SMTP = ""		
+         				EMPRESA_ID = 0
+         				NOME_EMPRESA = ""
+         				CNPJ_EMPRESA = ""
+         				TELEFONE_EMPRESA = ""
+         				ENDERECO_EMPRESA = ""
+         				CIDADE_EMPRESA = ""
+         				BAIRRO_EMPRESA = ""
+         				EMAIL_EMPRESA = ""
+         				LOGOMARCA_EMPRESA = ""
+         				MyWindow..ReturnedValue = FALSE
+         				     NextTitle("ATENÇÃO!") // A SENHA NÃO EXISTE OU NÃO CONFERE COM A TABELA
+         			Warning("SENHA INCORRETA OU INEXISTENTE!")
+         				EDT_SENHA = "" // LIMPA O CAMPO SENHA
+         				RETURN // RETORNA, SEM DEIXAR CONTINUAR COM O CÓDIGO ABAIXO
+         			END
+         	ELSE // A EMPRESA SELECIONADA NÃO CONFERE COM O USUÁRIO ATUAL
+         					NextTitle("ATENÇÃO!")
+         	        Warning("A EMPRESA SELECIONADA NÃO CONFERE COM O USUÁRIO ATUAL!")
+         			 EndProgram() // FECHO O SISTEMA
+         			 
+         	END
+         ELSE
+         	// USUÁRIO INCORRETO OU INEXISTENTE!
+         	NextTitle("ATENÇÃO!")
+         	Warning("USUÁRIO INCORRETO OU INEXISTENTE!")
+         	EDT_USUARIO = ""
+         	MyWindow..ReturnedValue = False
+         	RETURN	
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_SAIR
+    identifier : 0x285d963b237cd5c8
+    internal_properties : BwAAAAcAAABCQo78U6ZHsEvjrw6AOuAFYfEE9FnaAFQPWRDDWFXkDe6iaAhf70HL+XzBhXvr6JDT2hBWQ/4ujeG8+1ggGE67RLJtslG+Vpgif3Dx/JCwn3qCWSdEmHgleks9U9rsW7jMhrMmiSSI/PJFHh7Z8Bucrk3TMismEu90Kt7813wFU8dkLOJdgRv9+vWX/ZHlTpkL7l1ZF5PqShn+FAOv9DkamAx7l9hL8oxUBU0qkQGH4KUI9l3I/EMwVBbdtifvnqVXMHgvuc+cq6GYceyZdVUlwo8h6MN9chfjmyZEHZfAMevTMaCFs+qXlECckfP+WZdLPtsSs7vWCDrv8qpzcHHE4xwx2bEuq7aLGgqBbEsQZggDtXC7CosWNuMQTkHhtqj3pyX+P1jpDKDnBzTd+MtD19mVz15srvYq6Zi8Pi2Lq+YsFR2DKEpQtrNELTgnhRboj5N0V5AGTCLC//2D7mEvmRB2dXnNLW3Pl7PQTsVRshgTeenVdhboOaFmDEiYdYK8dUKt2nT9BCgfn2qpTAmJteZBKxxwAonxiHLuGSO88JfbypZq6HgcASp9RoLWEeXmeQWOUXbwTS6hEbqsRYR9Cruzka1/gL7Vuq3gJt3i7Y9scmKwIg8SVcjNDr8eZCZcgpg4fBWiLInIKXai+samU+azA9H896Bg8bzrtKzw5j5ABrpPch2Nd2o9dLU/LYJEX4MQJBKgdUKvCx7ai+lDkbDOoSg0DN7Cbmh6mGhpId9oJfA40vE/q/6uhd8nvi0HLXcrSVdbRJelYEhf8f8QOfpDg5BOfsR2vxCqdvWzh78BtqrriyPEBr2eBQ==
+    properties :
+     x : 343
+     y : 262
+     width : 31
+     height : 20
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         NextTitle("ATENÇÃO!")
+         IF YESNO(NO,"DESEJA SAIR AGORA DO SISTEMA?") THEN
+         	EndProgram()
+         END
+         
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : BwAAAAcAAAAqnSxRkbINxeFSUXPTq043pfFKTRtA7cN4QLEJxxl3Av6yLAuudKLjQBvrAWRtDlPn2ZZShNJ4xyjQyjd1ACcafumUN+7dyO0PkSBubPsIOQx/xJOuc/c4rJe/PlBaTTdknyC/8X0iDSQWs0TNPSdjzTRAQLz6lLZgXwXhFGd3NJh8i23rPDjMy5+neZEBvImOT7Xjiw+FDe8F+FVsKyew5DY47JwakOd54K3yryIk7YJrZTV28cWjud//8G3W80cSY/ZFSpcSaLs8GGfFh+FQg5X3RAjhDzDNY0JHrw==
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : BwAAAAcAAADG0006i3ptxMcUE+O5cGvDhb43eRlY9UEE1z/7izK93v/ToMiwACETQQw4eQhZuJRMFa6SBwwT+zSdDbdc5HEkXDob51ldPFNKsP+0MWY=
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE WIN_LOGIN(LOCAL EMPRESA_ID_SELECIONADA IS 8 BYTE INT,LOCAL EMPRESA_NOME_SELECIONADA is string)
+      USUARIO_ID = 0
+      USUARIO_CONECTADO = ""
+      ADMINISTRADOR = False	
+      PODE_INCLUIR = False
+      PODE_ALTERAR = False
+      PODE_EXCLUIR = False
+      EMAIL_DE_MENSAGEM = ""
+      SENHA_EMAIL  = ""
+      SERVIDOR_SMTP = ""
+      PORTA_SMTP = ""	
+      
+      STC_NOME_EMPRESA = "EMPRESA: " + EMPRESA_NOME_SELECIONADA
+   -
+     code : |1-
+      MyWindow..ReturnedValue = FALSE
+      EDT_USUARIO = "admin"
+      EDT_SENHA = "admin"
+      IF HNbRec(LOGIN) = 0 THEN
+      	HReset(LOGIN)	
+      	LOGIN.NOME_USUARIO = "ADMINISTRADOR"
+      	LOGIN.USUARIO = "admin"
+      	login.SENHA = "admin"
+      	LOGIN.ATIVO = true
+      	LOGIN.ADMINISTRADOR = TRUE
+      	LOGIN.PODE_INCLUIR = TRUE
+      	LOGIN.PODE_ALTERAR = TRUE
+      	LOGIN.PODE_EXCLUIR = TRUE
+      	LOGIN.EMPRESA_ID = EMPRESA_ID_SELECIONADA
+      	LOGIN.NOME_EMPRESA_UNIDADE = EMPRESA_NOME_SELECIONADA
+      	LOGIN.CNPJ = CNPJ_EMPRESA
+      	LOGIN.TELEFONE = TELEFONE_EMPRESA
+      	LOGIN.ENDERECO = ENDERECO_EMPRESA + " " + BAIRRO_EMPRESA + " " + CIDADE_EMPRESA
+      	LOGIN.LOGOMARCA = LOGOMARCA_EMPRESA
+      	IF NOT HADD(LOGIN) THEN
+      		NextTitle("ATENÇÃO!")
+      	Warning("ERRO AO CRIAR O USUÁRIO PADRÃO!")	
+      		RETURN
+      	END
+      END
+      
+      //// ===== CONTROLE DE LICENÇA [PROTEÇÃO] =============================================
+      //sProjectName is string = ProjectInfo(piProjectName)
+      //xNomeProjeto is string = fExeDir()+"\"+sProjectName+".INI"
+      //
+      //mIdCliente is string = ""						// CPF ou CNPJ do seu cliente
+      //mPalavraSecreta is string = "palavrasecreta"	// defina uma senha para encriptar valores
+      //IF NOT fFileExist(xNomeProjeto) THEN			// se nao existir o arquivo de chaves
+      //	Input("INFORME O  CNPJ/CPF: ",mIdCliente)		// pedir o CNPJ/CPF do cliente
+      //	IF mIdCliente = "" THEN						
+      //		Info("IDENTIFICAÇÃO DO CLIENTE INVÁLIDA!")
+      //		Close()
+      //	END
+      //ELSE
+      //	mIdCliente = INIRead("CONTROLE","IDCLIENTE","",xNomeProjeto)	// se o arquivo existir, pegar o cpf ou cnpj -> obrigatorio
+      //END
+      //  
+      //IF Open(win_aguarde,mIdCliente,mPalavraSecreta)=False THEN
+      //	NextTitle("ATENÇÃO!")
+      //	Warning("SISTEMA NÃO LIBERADO!  POR FAVOR ENTRE" +...
+      //	CR + " EM CONTATO COM O SUPORTE.")
+      //	
+      //	EndProgram()
+      //END
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     code : |1+
+      
+      
+     type : 180
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+  procedures :
+   -
+     name : InicializaSISTEMA
+     procedure_id : 1737213013150425305
+     type_code : 14
+     code : |1+
+      PROCEDURE InicializaSISTEMA()
+      ExecuteProcess(BTN_ENTRAR,trtClick)
+     type : 458752
+   -
+     name : FECHA_JANELA
+     procedure_id : 1753794301432205333
+     type_code : 14
+     code : |1+
+      PROCEDURE FECHA_JANELA()
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : BwAAAAcAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x17db03ac0001ce6c
+  internal_properties : BwAAAAcAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+custom_note :
+ internal_properties : BwAAAAcAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BwAAAAcAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

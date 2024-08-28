@@ -1,0 +1,2 @@
+//MO137-138.TXT ANA00137 TO ANA00138
+Connection to 'E:\Projetos [WinDev]\Odonto\Exe\CEP\CEP.mdb'		CNX+		

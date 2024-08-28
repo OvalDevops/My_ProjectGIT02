@@ -1,0 +1,7 @@
+//MO164-165.TXT ANA00164 TO ANA00165
+PROCEDIMENTO		TAR	482	new record size: 482
+PROCEDIMENTO		IDE-*		file without identifier
+PROCEDIMENTO	CODIGO_TUSS	CNW	8-byte unsigned integer$4-byte integer	new type for CODIGO_TUSS item: 8-byte unsigned integer
+PROCEDIMENTO	PROCEDIMENTO_ID	RUB-		key PROCEDIMENTO_ID deleted
+ITENS_PEDIDO_PROCEDIMENTO		TAR	468	new record size: 468
+ITENS_PEDIDO_PROCEDIMENTO	CODIGO_TUSS	CNW	8-byte unsigned integer$4-byte integer	new type for CODIGO_TUSS item: 8-byte unsigned integer

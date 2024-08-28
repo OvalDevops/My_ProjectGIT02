@@ -1,0 +1,5 @@
+//MO112-113.TXT ANA00112 TO ANA00113
+BANCO		TAR	145	new record size: 145
+BANCO	LOGOMARCA_BANCO	CNW	Binary Memo$String	new type for LOGOMARCA_BANCO item: Image Memo
+CONTA_BANCARIA		TAR	283	new record size: 283
+CONTA_BANCARIA	LOGOMARCA_BANCO	CNW	Binary Memo$String	new type for LOGOMARCA_BANCO item: Image Memo

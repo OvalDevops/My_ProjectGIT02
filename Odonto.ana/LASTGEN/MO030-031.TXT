@@ -1,0 +1,12 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+CID10$		TAR	1545	new record size: 1545
+CID10$	DESCRICAO_CID	NNR	Descr	CAUTION: item Descr renamed DESCRICAO_CID
+CID10$	GRUPO_DOENCA	NNR	Grupo	CAUTION: item Grupo renamed GRUPO_DOENCA
+CID10$	Opc	RUB-		item Opc deleted
+CID10$	Cat	RUB-		item Cat deleted
+CID10$	SubCat	RUB-		item SubCat deleted
+CID10$	RestrSexo	RUB-		item RestrSexo deleted
+CID10$	GrupoC	RUB-		item GrupoC deleted
+CID10$	SubX	RUB-		item SubX deleted
+CID10$	SubC	RUB-		item SubC deleted
+CID10$	Sexo	RUB-		item Sexo deleted

@@ -1,0 +1,5 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+CID10$		TAR	435	new record size: 435
+CID10$	CID10	TAI-	490	CID10 item has been resized: 22 (instead of 512)
+CID10$	DESCRICAO_CID	TAI-	310	DESCRICAO_CID item has been resized: 202 (instead of 512)
+CID10$	GRUPO_DOENCA	TAI-	310	GRUPO_DOENCA item has been resized: 202 (instead of 512)

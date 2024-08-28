@@ -1,0 +1,3 @@
+//MO138-139.TXT ANA00138 TO ANA00139
+CEP_2016		NFI		new file
+Connection to 'E:\Projetos [WinDev]\Odonto\Exe\CEP 2016.accdb'		CNX+		

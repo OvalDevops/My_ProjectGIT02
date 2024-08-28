@@ -1,0 +1,89 @@
+//MO182-183.TXT ANA00182 TO ANA00183
+EMPRESA_UNIDADE		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+EMPRESA_UNIDADE		FCNX+	HFSQL Classic connection	
+LOGIN		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+LOGIN		FCNX+	HFSQL Classic connection	
+PACIENTE		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+PACIENTE		FCNX+	HFSQL Classic connection	
+CONVENIO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+CONVENIO		FCNX+	HFSQL Classic connection	
+DEPENDENTE_PACIENTE		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+DEPENDENTE_PACIENTE		FCNX+	HFSQL Classic connection	
+FUNCIONARIO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+FUNCIONARIO		FCNX+	HFSQL Classic connection	
+FUNCAO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+FUNCAO		FCNX+	HFSQL Classic connection	
+PLANO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+PLANO		FCNX+	HFSQL Classic connection	
+MEDICAMENTO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+MEDICAMENTO		FCNX+	HFSQL Classic connection	
+LABORATORIO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+LABORATORIO		FCNX+	HFSQL Classic connection	
+CONTA_PAGAR		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+CONTA_PAGAR		FCNX+	HFSQL Classic connection	
+CP_PARCELA		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+CP_PARCELA		FCNX+	HFSQL Classic connection	
+CONTA_RECEBER		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+CONTA_RECEBER		FCNX+	HFSQL Classic connection	
+CR_PARCELA		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+CR_PARCELA		FCNX+	HFSQL Classic connection	
+FORNECEDOR		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+FORNECEDOR		FCNX+	HFSQL Classic connection	
+AGENDAMENTO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+AGENDAMENTO		FCNX+	HFSQL Classic connection	
+PRODUTO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+PRODUTO		FCNX+	HFSQL Classic connection	
+GRUPO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+GRUPO		FCNX+	HFSQL Classic connection	
+COMPRAS		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+COMPRAS		FCNX+	HFSQL Classic connection	
+ITENS_COMPRA		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+ITENS_COMPRA		FCNX+	HFSQL Classic connection	
+ESPECIALIDADE		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+ESPECIALIDADE		FCNX+	HFSQL Classic connection	
+RECIBO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+RECIBO		FCNX+	HFSQL Classic connection	
+DENTISTA		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+DENTISTA		FCNX+	HFSQL Classic connection	
+CID10		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+CID10		FCNX+	HFSQL Classic connection	
+CONVENIO_PACIENTE		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+CONVENIO_PACIENTE		FCNX+	HFSQL Classic connection	
+SETOR		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+SETOR		FCNX+	HFSQL Classic connection	
+BANCO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+BANCO		FCNX+	HFSQL Classic connection	
+CONTA_BANCARIA_FUNCIONARIO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+CONTA_BANCARIA_FUNCIONARIO		FCNX+	HFSQL Classic connection	
+DEPENDENTE_FUNCIONARIO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+DEPENDENTE_FUNCIONARIO		FCNX+	HFSQL Classic connection	
+AFASTAMENTO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+AFASTAMENTO		FCNX+	HFSQL Classic connection	
+UNIDADE		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+UNIDADE		FCNX+	HFSQL Classic connection	
+PROCEDIMENTO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+PROCEDIMENTO		FCNX+	HFSQL Classic connection	
+CONTA_BANCARIA		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+CONTA_BANCARIA		FCNX+	HFSQL Classic connection	
+PEDIDO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+PEDIDO		FCNX+	HFSQL Classic connection	
+ITENS_PEDIDO_PROCEDIMENTO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+ITENS_PEDIDO_PROCEDIMENTO		FCNX+	HFSQL Classic connection	
+SALA		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+SALA		FCNX+	HFSQL Classic connection	
+ENCAMINHAMENTO_EXAME		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+ENCAMINHAMENTO_EXAME		FCNX+	HFSQL Classic connection	
+EXAME		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+EXAME		FCNX+	HFSQL Classic connection	
+EXAME_LABORATORIO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+EXAME_LABORATORIO		FCNX+	HFSQL Classic connection	
+MOVIMENTACAO_CAIXA		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+MOVIMENTACAO_CAIXA		FCNX+	HFSQL Classic connection	
+ITENS_PEDIDO_PRODUTOS		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+ITENS_PEDIDO_PRODUTOS		FCNX+	HFSQL Classic connection	
+MOVIMENTACAO_CONTA		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+MOVIMENTACAO_CONTA		FCNX+	HFSQL Classic connection	
+MOVIMENTACAO		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+MOVIMENTACAO		FCNX+	HFSQL Classic connection	
+REPASSE		BASE		File base changed from HFSQL Client/Server to HFSQL Classic
+REPASSE		FCNX+	HFSQL Classic connection	

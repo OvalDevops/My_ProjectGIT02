@@ -1,0 +1,3 @@
+//MO134-135.TXT ANA00134 TO ANA00135
+PEDIDO		TAR	451	new record size: 451
+PEDIDO	SUBTOTAL	CNW	Decimal$4-byte integer	new type for SUBTOTAL item: Decimal

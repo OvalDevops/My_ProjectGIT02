@@ -1,0 +1,131 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : COL_GlobalProcedures
+ major_version : 27
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x17db3efd0040ae22
+ internal_properties : BwAAAAcAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  type_code : 31
+  p_codes : []
+  procedures :
+   -
+     name : CONEXAO_BANCO_DE_DADOS
+     procedure_id : 1722962543530368141
+     type_code : 15
+     code : |1+
+      PROCEDURE CONEXAO_BANCO_DE_DADOS()
+      LOOP  // INICIA O LOOP DE VERIFICAÇÃO DA CONEXÃO COM O BANCO DE DADOS
+      	SERVIDOR = NoSpace( INIRead ("SERVIDOR", "SERVIDOR", "", fExeDir() + "\CONEXAO.ini"))
+      	BANCO_DE_DADOS = NoSpace( INIRead ("SERVIDOR", "BANCO_DADOS", "", fExeDir() + "\CONEXAO.ini"))
+      	USUARIO = NoSpace( INIRead ("SERVIDOR", "USER", "", fExeDir() + "\CONEXAO.ini"))
+      	SENHA = NoSpace( INIRead ("SERVIDOR", "SENHA", "", fExeDir() + "\CONEXAO.ini"))  
+      	
+      	// VERIFICA SE O SERVIDOR ESTA VAZIO OU NÃO		
+      	IF SERVIDOR <> "" THEN 
+      		// PARÂMETROS DA CONEXÃO HFSQL
+      		ConexaoGLOBAL_HFSQL..Provider = hAccessHFClientServer
+      		ConexaoGLOBAL_HFSQL..Server = SERVIDOR 
+      		ConexaoGLOBAL_HFSQL..Database = BANCO_DE_DADOS
+      		ConexaoGLOBAL_HFSQL..User = USUARIO
+      		ConexaoGLOBAL_HFSQL..Password = SENHA	
+      		ConexaoGLOBAL_HFSQL..CryptMethod = hCryptNo
+      		ConexaoGLOBAL_HFSQL..Access = hOReadWrite
+      		// ABRE A CONEXÃO
+      		IF NOT HOpenConnection(ConexaoGLOBAL_HFSQL) THEN
+      			HErrorInfo(hErrFullDetails)	
+      		ELSE					
+      			IF NOT HChangeConnection("*",ConexaoGLOBAL_HFSQL) THEN
+      				HErrorInfo(hErrFullDetails)	
+      			END
+      			BREAK
+      		END	
+      	END	
+      	Open(WIN_CONEXAO)	
+      END			
+      
+      
+      
+      
+      
+     type : 458752
+   -
+     name : PODE_INCLUIR_REGISTRO
+     procedure_id : 1733916926357804595
+     type_code : 15
+     code : |1+
+      PROCEDURE PODE_INCLUIR_REGISTRO()
+      IF PODE_INCLUIR = False THEN
+      	NextTitle("ATENÇÃO!")
+      	Warning("VOCÊ NÃO TERMISSÃO PARA INCLUIR REGISTRO! "	)
+      	RETURN
+      END
+     type : 458752
+   -
+     name : PODE_ALTERAR_REGISTRO
+     procedure_id : 1733917115336736643
+     type_code : 15
+     code : |1+
+      PROCEDURE PODE_ALTERAR_REGISTRO()
+      IF PODE_ALTERAR = False THEN
+      	NextTitle("ATENÇÃO!")
+      	Warning("VOCÊ NÃO PERMISSÃO PARA ALTERAR REGISTRO!")
+      	RESULT false
+      else
+      	RESULT true
+      END
+     type : 458752
+   -
+     name : PODE_EXCLUIR_REGISTRO
+     procedure_id : 1733917291430765209
+     type_code : 15
+     code : |1+
+      PROCEDURE PODE_EXCLUIR_REGISTRO()
+      IF PODE_EXCLUIR = False THEN
+      	NextTitle("ATENÇÃO!")
+      	Warning("VOCÊ NÃO PERMISSÃO PARA EXCLUIR REGISTRO!")
+      	result false
+      ELSE
+      	RESULT True	
+      END
+     type : 458752
+   -
+     name : VERIFICA_CAMPO_VAZIO
+     procedure_id : 1777689897311814741
+     type_code : 15
+     code : |1+
+      PROCEDURE VERIFICA_CAMPO_VAZIO(LOCAL CAMPO is string)
+      IF CAMPO = "" THEN
+      	NextTitle("ATENÇÃO!")
+      Warning("CAMPO VAZIO! PREENCHA PARA CONTINUAR! ")	
+      	ReturnToCapture(CAMPO)
+      END
+     type : 458752
+   -
+     name : VERIFICA_COMBOX_VAZIA
+     procedure_id : 1777695137174773668
+     type_code : 15
+     code : |1+
+      PROCEDURE VERIFICA_COMBOX_VAZIA(LOCAL COMBOX is string)
+      IF COMBOX = 0 OR COMBOX = "" THEN
+      	NextTitle("ATENÇÃO!")
+      Warning("CAMPO VAZIO! SELECIONE UMA OPÇÃO!")	
+      	ReturnToCapture(COMBOX)
+      END
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : BwAAAAcAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+  original_name : COL_NoName1
+resources :
+ string_res :
+  identifier : 0x17db3efd003fae22
+  internal_properties : BwAAAAcAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+custom_note :
+ internal_properties : BwAAAAcAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

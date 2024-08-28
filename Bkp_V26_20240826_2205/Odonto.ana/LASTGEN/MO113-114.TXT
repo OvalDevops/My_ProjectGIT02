@@ -1,0 +1,2 @@
+//MO113-114.TXT ANA00113 TO ANA00114
+Connection to MySQL		CNX+		

@@ -1,0 +1,12 @@
+//MO133-134.TXT ANA00133 TO ANA00134
+PEDIDO		TAR	439	new record size: 439
+PEDIDO	SUBTOTAL	CNW	4-byte integer$Currency	new type for SUBTOTAL item: 4-byte integer
+PEDIDO	DESCONTO	CNW	4-byte integer$Currency	new type for DESCONTO item: 4-byte integer
+PEDIDO	TOTAL_PEDIDO	CNW	4-byte integer$Currency	new type for TOTAL_PEDIDO item: 4-byte integer
+PEDIDO	VALOR_RECEBIDO	CNW	4-byte integer$Currency	new type for VALOR_RECEBIDO item: 4-byte integer
+PEDIDO	TROCO	CNW	4-byte integer$Currency	new type for TROCO item: 4-byte integer
+PEDIDO	TOTAL_PEDIDO	RRM		
+PEDIDO	DESCONTO	RRM		
+PEDIDO	SUBTOTAL	RRM		
+PEDIDO	VALOR_RECEBIDO	RRM		
+PEDIDO	TROCO	RRM		

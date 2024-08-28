@@ -1,0 +1,27 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+MEDICAMENTO		TAR	1252	new record size: 1252
+MEDICAMENTO	EMPRESA_ID	RUB+		EMPRESA_ID is a new key
+LABORATORIO		TAR	488	new record size: 488
+LABORATORIO	EMPRESA_ID	RUB+		EMPRESA_ID is a new key
+CONTA_PAGAR		TAR	291	new record size: 291
+CONTA_PAGAR		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
+CONTA_PAGAR		FCNX+	Conexão HFSQL C/S Analysis	
+CONTA_PAGAR	EMPRESA_ID	RUB+		EMPRESA_ID is a new key
+CP_PARCELA		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
+CP_PARCELA		FCNX+	Conexão HFSQL C/S Analysis	
+CONTA_RECEBER		TAR	241	new record size: 241
+CONTA_RECEBER		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
+CONTA_RECEBER		FCNX+	Conexão HFSQL C/S Analysis	
+CONTA_RECEBER	EMPRESA_ID	RUB+		EMPRESA_ID is a new key
+CR_PARCELA		BASE		File base changed from HFSQL Classic to HFSQL Client/Server
+CR_PARCELA		FCNX+	Conexão HFSQL C/S Analysis	
+FORMA_PAGAMENTO		NFI		new file
+FORNECEDOR		NFI		new file
+AGENDA		NFI		new file
+AGENDAMENTOS		NFI		new file
+PRODUTO		NFI		new file
+GRUPO		NFI		new file
+COMPRAS		NFI		new file
+ITENS_COMPRA		NFI		new file
+COMPRAS		NWL	COMPRAS (COMPRAS_ID) and ITENS_COMPRA (COMPRAS_ID)	New link between COMPRAS (COMPRAS_ID) and ITENS_COMPRA (COMPRAS_ID) files
+AGENDAMENTOS		FRN		

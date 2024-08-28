@@ -1,0 +1,8 @@
+//MO092-093.TXT ANA00092 TO ANA00093
+CP_PARCELA		TAR	213	new record size: 213
+CP_PARCELA	PAGO	CNW	1-byte unsigned integer$4-byte integer	new type for PAGO item: 1-byte unsigned integer
+CP_PARCELA	VALOR_PAGO	RUB-		item VALOR_PAGO deleted
+CR_PARCELA		TAR	213	new record size: 213
+CR_PARCELA	PAGO	CNW	1-byte unsigned integer$4-byte integer	new type for PAGO item: 1-byte unsigned integer
+CR_PARCELA	VALOR_PAGO	RUB-		item VALOR_PAGO deleted
+CR_PARCELA	PAGO	RRN		

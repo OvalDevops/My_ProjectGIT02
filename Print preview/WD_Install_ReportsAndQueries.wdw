@@ -1,0 +1,326 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD_Install_ReportsAndQueries
+ major_version : 27
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WD_Install_ReportsAndQueries
+ identifier : 0x2502c31c2141a1fa
+ internal_properties : BwAAAAcAAAAmyAYx0hoW1GXecCTtmHjkbUvcZ3SlRlyOYbPHaV0AhEHcC4HUgY5SvQ3PUuzvJY+tqZ+wX/PxEh2ANLaAAwZDVea/3QkH24NfUa4GFWkOXis7CU63hmmIVve8mP/reeCsquR3H+eRV8Pt0k/feRKvWKMLWKOVLiJucPYDrxNrh0n61gwWvjkaw6nT+L+95jXzKgJFYjShlDtCyASy0wquM74rL01GCOHTfoPLfFcXk0Sqi2vUb52SoFKdAFzBcOfZJQVgaf1Qpq3tb+h5ns7j57UYZXpn1uKLvdCjSp87z7mHomW63Cqth5Ps0ZXShdmMDb8dvu9d9l9FG0UCH8UdWbY3P1xzqDvVPBbbz2MK5Q4SNnEEtXlr6iBvIjvd2qJChu7u3SHLSg+Uw1TjK37ET/IBK2w3BT3elcozN6Ir7MEB7POs5nUuvXm1y7T8+0/HQwIqedEozlaID4aBAd16+iLhRO4jFy1vZ7PVXxtqPUtTQhi9MJirWQEOa+96IiBiOQAxORosceTBxF20kv5OU6rKWyT8l2GZPyu40b/Gnb9lBPUQqjobcbsJqGzAn+sFls85Avp0yy9Vi84NpzOmBXWkbMwDpEBVn5SL31CwKgNBPF49rBBrgL9W7+NZ6Tl+doqpvbjOQvLn8j63EPM8mHXkjRwRW0t7vUegrc6rbr2qQp9NhayZYAA8u4f8L+oxKYSUqOt6XAY=
+ properties :
+  x : 5
+  y : 5
+  width : 546
+  height : 345
+  widthClient : 544
+  heightClient : 313
+ controls :
+  -
+    name : Stc
+    identifier : 0x2502c31c2145a1fa
+    internal_properties : BwAAAAcAAADlQQBINredbLnYsxUyO251vCGrFHpMRFFHutL5ivHdKivjMrbqKAWQVsMJqSjLwhG0HvFDVg/ZPTpEtamH01ybPTJ0vFA5ENBj06chENQ7HUO/HLbLqgQWpSTAAMFuubGaA1cUeCA/B/CcBqfB/1NxNQ0DPi1xo2VQRlZ63y0H1RSjjuJ9uW+jLYc2VEYxagCHmqoE3Zy5DMHIZI+kK3Re39iQ3Y1cNXXQAXFjPZzvKERxr7XXtcil2O1MhlR+0TcRPRwHJnMnksfTGKtkrXVgqkzD7NEgjafX6NTmn/RKe49c32u4ozqPobnoFVFAX0WkdXE4ScTMW3N25WtcpMsZpdNXcOwOvKhUi4kCKiJgieW7927PTtQSPuEQvXsbnDlKe7AQOIq/vA3mj9J0xGQfTeXtIuGLnQVAOB05Og8GIRgnBGiu2/VEvQcppid7hVWGZ5plJnon7SWQLLQIN8H6+aQoRC4MTnqKxFRl1wgKKZuc7GMwmjsryD/0StqgyPRlgC7ITJPcE7/j0Dqfb/J6UREI4sMeCvTkZUTJVRVBp2sC+5D14wr0kJto4ID9QYhTJtNxn4wNSzuVkz0Haq+LU8yyNP+wJx9Q9wZsVB4RQHoRPPY3AqUYOUPI3sR55Kkisry9GhUFxaO2hcREwb9hWwPc95DCOQDrdlMw5NAC+W4WnBy2WsLtW7MGXUUAvUrVIEvk8ts3M3DS2UZI710UIvUYKuBhXuMPtPPQzZuy5ZMzU3pwe7HYq70Y8XUvjjf9gExF1bPxLEgJN+9GvKfbsvWCTMZF5kg1CsfAGcWMV9/TzMUQdemxtACulFlzSz7TK6zzoetWpATK9LQUvMiEzTiHwk+GjQJ7chZEMP7WXQgihESaE8qt1aVsLP1mHF1lhDAaOmE=
+    properties :
+     x : 107
+     y : 36
+     width : 438
+     height : 46
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : Static3
+    identifier : 0x2502c31c2148a1fa
+    internal_properties : BwAAAAcAAAAl/hdGLLEP5hGl6NIvO6GWXAOHX6rFB5NQDtA78PWIGu+HgexYlDkEKFiKERDLVeMvRNMSkzmEO4H2CDInUALodbJhzFVwcwv7Ivyxnu1wYxZXmj6rshDwfpyofGSVNxjBq0XZmX6w+BSULFeJy6VgCkEgaEr2DVv5NpzVjhfwu6BlJo19a/nFs+wGJOYLLiZ+Xn1eBcoq0gXr3lDAWQztBfEWUJRbXjTBDeU1pJHYrWaljGGLm7bc1r6YwSEYWxyr98hDuac9c5Bi3tneFFlKESS+1Dcppd9LzPjKSOjl7/gW+6vunj4IWRpOjeDqi86ZtyjX+vcXkL4pQuOqKfT0n8bJYS+71fyb+1efmt/NFxW2o/QSs+X/CMHVMjpFBTBG3NwZFcsMqi7GSj+TnI9qaYXpH4oB8xv5R+hjhydFdvs7LBQ34A8ihkRbJFchqoXlPmL10BIOO32T/zzbd9ZrmK9KEQHtXkKytqT2n9m2lpwIt7nGlCJONX9+k6q46c+M/vMOqNW/FjAYqQYCOkWCzzyGrS5ZDR0LrxPfGtj5aMCN0rpd2/Z3u7Tj/9dcw5enQVQFvrZWVGLnaBgsJHxvvMyTQVo6OFgGW5Xytit6NJqIDP+qyVsOEpqz1Kic6UgBTJCuyjWQHmV7aHrdOiOhW+FMHa17KAEqJnChDf6ceIms6EtCDpZw0mowApU1XyPmBpOb2YHTR04ZoT4Tx6iIUx37ebKvSsft
+    properties :
+     x : 202
+     y : 120
+     width : 293
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : Static2
+    identifier : 0x2502c31c2147a1fa
+    internal_properties : BwAAAAcAAACu9dT/h+al8NIgdCiquZSKvQIZoYnu2Z8jLiWjhAxTuX2uguAdhTkVvM8iI+j1PLvTshAmwiKwe67A/6ncu/heqW1JL57coesrMKlIAK7LRHeDMJK/+u4fZsYbFkjgkkzs0aslxw7D4oNu8TxpT6otGCFKuQFHjwxrkGXRYxOWMWoTwS6kLFPn/I3j+Rwm+UhjAJbZFGpqIuvdDPDu/WPnhQRJmWBYqXuUdgDsyZXSx63bvZ7iHSCE26TiUmCwdNmN5ImseeFA9zqnEAZPCZfiBIl4CEU/mbHiTTc67yj1MjZkB49N0JR+aUIKvY/9/zNzfhKlgmLbeaJzKaklAs+XmC3+lGt9haiMesv1RaE1IjaGO5etv+5d3PimLs2mA3xlUOjiTVAYwusc+Z/t6PDe/c3uTKaqGc1xEHyDGBp6S0TchMYlAUHivtl10tq0qUbAraRU97LdfvCTwmBO2vE1TrHrgRGqIpOV395dJ7UQ7hjhZcpRuLHCWZj66qoViKc+CX3ho1kaDriszPAlAhqpti7bN65U4p+5soQzT0wxwCwTEZE8Ficgwu1M4EjsNw8B1NgMdN79ZaGqBdN4jPC1j05yvbgA5Q4XVpbgLlidVa28rrMVyXrgaBvZ44bUCMuGLVDcQmTanbW8Io0nd8/C1CkO8sKJmkUNULXUHt4cC/kEaMHHpanyfRh3ODB8qwe/OGPq6ThbH4zSzgibCZYsTd0zXO6SIyLuqpeHyYqhog==
+    properties :
+     x : 189
+     y : 191
+     width : 320
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : Static4
+    identifier : 0x2502c31c2149a1fa
+    internal_properties : BwAAAAcAAAB4Iag2P7ivRDD1wohL5iNoG7zl8qOVKG1i+kT1oXrvWGwb9VBORyLRZ0jfNli4ON3a36BtS9cOq8ffGSsCcwiOkG1vnWHY+qwzPuG4gLGbLjtsMaZHh8Vu4+VS4jYqZKLjolw3k15azRIcoGm3uuoSgaZrVxB2KI4EpcO9Mf6G3NKnuIHz8mY9jxvXzoh9daE3eelsqGz6/k/adwwgUxT/VCa6Yyizq60Z+uS9Q26v7XU+oyg47cPSkZ3BUddXqUhPqXCskVGxjKZLb7fkh0iHDg/FgJJANHIO0+YtkFDoYuhyLU6899vnDCM2CqeOSJxGoYSXBZc5Z4FAY/+VmWKmPfsVoPR6FxVdWtM5WVG18qofuIq9xfTCjj5FmC8MFSUL4qTvqvv7EaaHqJ+0Dwf3vFu1M/MT4Iw99qpLdC57y3yjekiE0AJZjD1v2tJacrrg+nyd1xAJspu0daDydBSKkbvYTwrhEbFC59qiuBSCzzFKP/dBHK0J53r8Z7cfU3JhqFNS/zMivbSfM6oXwee1cHwQgbfNluLt5MMLt4+RI6tnTq6wHUtNAAZnxwWVpxjde/Fi/U1T2R+jaC1Ba8Lvh55X5PV3AhCufTdyMmrUdAEAmTsyrnhy3xMNP8XUWCAIn09CLHt6a1OOQFN5+mOLiBB1Ag==
+    properties :
+     x : 280
+     y : 261
+     width : 67
+     height : 19
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : Rpt_modif
+    identifier : 0x2502c31c2146a1fa
+    internal_properties : BwAAAAcAAAB/jV0kCvfqCNBv6AzYCLrr/jysPBRY4Hq4No7fJRgo0lzNUDGh9hDOllaC5WFTu6tLRGlhyth+4cMk82Y6oLx/KVOzCuZTG3xVFsdDlfOjsaGxTXREPtumbRyOwrqb3Ws36Y7gniBjddDim79t42/4S5RVolPPqaVcLPBbEm6R6eX9QCTw/Zz9Wk6zu79zo9tO2qWFeYcE0XkqBCD3TLq6a7MI5+NNR4B+Vv/q/QjzFJV2NfOc8zVxbhakfHOyk3srGlU5I7pfL1t8HkXOQ1dgIEtzJZLqRy31x4qoHfS8HKLG1oIPRMUFRdzsFIzYDMJOc1JDoO8ZgCwi2kkol5PGJ9u4gdG4njHulOEZVnYxqf62UyJE356vZ815d1AUPV3tkIM/q0Ygvj8274J5KFou/sHdq+zkrSqfbzv41SYE0xMkYsy8Ly67/wBzBLqiTHKaSg7MGk5wS/F2TjaNruITTF7NtdBtM0D453hrEH5BsAuYUOqH8/+Og5t1VdQGnO4luQ3TfuYBoJhwgmmXjYOoNG3CvM6VX0ZIH7PRICEhf/mb1DwXpuhI/4tbomHsjLM8Z3znYeae0X5fmgmwkkY+1qzeZPLewfoWqclpVJZ/l0OXuUhIdjJ3j01hEqETA4JjD0eN1mefQiLSy4ehfBIULYRqQJAEmkoPG83G/EGzTLPLcjB2vAgSLWvTjpK9iK6YNMIjqXAJX1UgLJ2+cUE12Sst2KRRFdvkrksK/wkDiKEX5elx24W/3SimJQSD93Cos+DOPEeon+K4vJpjEuQnzXy6TiAzaszkfFKvwNVs62NAwCp72XD1
+    properties :
+     x : 6
+     y : 6
+     width : 96
+     height : 96
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : Download_shadow
+    identifier : 0x2502c31c214aa1fa
+    internal_properties : BwAAAAcAAACgmKoMbb/AAGnM71dSsxr12B4LYTaOhgtHm1hFzXfd5OOykQcbT77IQnqjNfTlQc4iYMzGgHfEnouHmbA2dsR2zG4c4KiKwE67gbNQ1mDLXbkMM4m28gCjoQOF0IIVf366R0dgJ4patS6i134CKcdBE9u4goSRyrr/KvcfnHtC8SetrusR3/i8y6EbjhiUO1EzT0UIGSy78kS4DxKdj7NSJUoCUYOEQDOMFNphM6JrUdFGxQY8YwN/MqX3whEr7PW24SmEEx6PYIWfV2uIXa/oWNYdk3wVbGfKT3kQO4uLk8m29vtdKgd5j5F0c/bUnWC+FXaWJ6rA7Gw3s2vkF238np0gscQO1DbdAWponhyDwPeGlOcI4WMGNhqNkxZ3PpsqXQ16MLcIGGZcH6DfGax2s0szvvzppzmtFOXK8dAICwl2P5zvZPZOuyv3t3E0g5lHFXP2XhKJJ0GOA7Jj47S3rVSwwAucz4S8c6yDnhz/yT+piKWG672Zq0wgrjEdYlHJvblm+Gk1JB7kjxGAbs4b+XLXwvk5J1l4hrKR3QNSKVt/w4JaMgfAWIc0v552DsysFeK8SxttwsgBRj6jEKcMA1B1W40cuFjsgmWJrZaymZS4eEnpQjWrJFsm3Zywb8LcxHqWFgiuSAZLJWAer8YtfDKf3Nq17BciBD9dVm7NbFhlZEatznt1W7FeSNzht9atFrHCDd0ozfOGvzW3HdEOBJHTdmTUfe+q+XkhNF+0BzzFqnUUt28eAQXKEo1Mz3qO8OSJNGhB8urihRmfmwk2OhpQP6dLX0gFO25ZQ5Im7f6YP1Bp/VLagA==
+    properties :
+     x : 118
+     y : 177
+     width : 48
+     height : 48
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : Install_shadow
+    identifier : 0x2502c31c214ba1fa
+    internal_properties : BwAAAAcAAAB4SJm9AKc+R09ZUWqydA+eRnte3DC1Nx3bEn4o6ZdaDjuCRyVEfH9yj0iuFvLYe0VfU+XBpAuERaVUt5mpwVzcNS3k4/VzTi1moRnARSZ/RnglTpGgG6Qib2XKytmH1Lpmkq+CYfWyRBrZahKO80xpvUSuj8MV+KSt4CPiJcC+mg4jTtL9OArfv7xsy3lT/dflVZHu03+88soQTeEV7aHJC81I4qY+jiu+7rxQzLNaTu/ZBHlWV1qnCEdK5flcu+g6rlEmht1oI4DutKqSwmEPgC3+tMd97YxDst5FCfRXSR8d0qfpvFo6XMAP74XdIbQgn8ABAisdK228/uwk9yV2OYcbECvW5LLb+wUjqAX4S+PGcRVLOiRgJNmBfKzAtP8gPhEh757FnOgaYrV8qdmuvGIt1xIJXwuu4lmzX8IOXxum9m+HYh8nWGmjgXdcLvVsRFNSParHoka2s4Bm8jLuA5vBeMKxYASU1tGMUnIn46SLNQLzztLPYpMU2Yb7ifpw9tZ1Hy9U/gipkOUzq6bauaoIK+es73XOsScqp6/M17C12arDgqCQXCR4kft+UoTlEM84Qn6T73eg2erP1LQdsT7clxfIB4sthuhTydgtXcPuLqKUcvTezTr3zx0uEmy4t3vR/+OQZC8BYR1e5H2P/Y3DnHmvkESE/zyZ5vE2xk9uzKpsbvmG2YJ0pPs69wflgw5db5nD1O7g8ZxRgwykeWDxHEwlf1AZTmiS6i9jSlfFyXqsGE3A5BO2GnzgmGB1rG+q0NICpCbx+wtgFzQrOd44btwKqqbJlh+eAHXcGc4JLcTRF56S9dOkPw==
+    properties :
+     x : 118
+     y : 105
+     width : 48
+     height : 48
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : No_shadow
+    identifier : 0x2502c31c214ca1fa
+    internal_properties : BwAAAAcAAACzvTsa2htkwuS6AMZq5IbfjXfVSW6d2KTL0b8EEce/ZPGacSlNYzq2EfpUWczSnR11u3Npye5bp4HEeZZPc4Xk9xcCQL5KaYvt8fMZ848/mPRH8Pxxw0xyQojf6utyg0N5DQq/bT+rIaM8a8cfVM08evvtADlQdKOByMX9I2q4jXaB/rZlH5ubqbeSFhuNfdW5p70AnqtNatjCwe5vB78Bpcf7DK0X/9emfkI70BeY6ukXPKWhHJ+DLAsOVNPOZ0LGSpvyy4C9J5ywjKUqent/ugMGaFTgYlq5ZMoQ79JTFw/rRB+obXkgSloB5gPKmQoIn/J1dzGzA9P62OHct+VsZc0EX/3mNpmgMIQxXVBjTDHj6aWQpg0Woxu4RUCpwg+ygUOGZJHc3bXxzwOri0AWXejixM0J/7WNehA7nvAENvJKsj+PtAvi683SXUeY6sGSVCxikNDD1pSErIfrFyl4ZmQ2TnE5PCYG4iuLBxQvc6UnHEWIG8UeEmwgLpQIGIKcTBQKdbOWQsgaKFuRAdSkB4vqOBnyK/HhQ8ZPVmBy4XhMrG0hVWKsmzktg8PpK/+Ztz6lOfjs5L5oGs2nbV1c1zNBECvHiyO97GJc6ET1ie9+ru2ZdfVd9LfZiWnIXfRxMAKsf1XlwOjocHj3m8Evwd0EA1Rw/mwMCVu27D0WJEvMdaBVeL5F7oZn7Z5mdBT0Lgu5HyVe5GlI4LnonUUNiqmPyXfGBdqowL4WALvzGansQnpcfNdfHIY0tiEDUdectezazxAJAANm+X0ogr1htl4a6y03SrS4sJtFzcWyIqai
+    properties :
+     x : 118
+     y : 245
+     width : 48
+     height : 48
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : Button1
+    identifier : 0x2502c31c2144a1fa
+    internal_properties : BwAAAAcAAADe0aSLgRnmHAIFgVLgSna0vChKKBWbEoVrLagIu0gf+YG3LmKZZD034c8HOpCB4H3oCs3UMJEVb4FEXd1TodIqI/HiXTjsfkvIzRg48I1BHJZ8PsV12R4RsbGwRCFOZripj3SqjEPJB9uHsoh9LH+vNatLx+YAwL3KkJk7CJOsFNT8KkkgUqRmkkRkfVpL8Fwwr3bLx8oK3fVlS0c9ziKkphBnDCaFFoQzyml3MyHKLuhgqnegI35yAafNliejLI1EsUnLF2bZurbnH8u0vyL2RxwCoNTFKbwFE0sbIel6r4OO9FWoIgxbKVgRR3BA5cAzJaJtSxiGLXR552ZdLWAyt+gAxPeOcd7HCnYGfRIdgWurHRpyLkOFy/DczNOo/Vg/7Uz47VCdRypnVayUKDS2QlU8IV5Z+mRJpHpzL4HVVYYIDzUstXrC7QKXqOaUVVLiJ4ekkSLNfGXEtHKTuWshNzqS5mAeWL22fJk02X4j6REV26n3JOPiH0Hch2jvCy3/9DDNCoH/147UJsWPaCNfpZK0uIvwY9vhLNZkqgEakyb0akPeNd300au2ONCN/HBrurtlru5X1JarntFrQ0wbKcpj5rQutnfFeBQj6rOljxfTvbj7NP5BH/3xGmVA8IQiB6Jpqh912ErEHON6rhmexoNrtn3yJB9VWy3gAHc7B+6u9KsoBI6tmrUuQPiJc0HB04U2/3gGA8H5neKJLJg0n/XEUJlaSz2m118=
+    properties :
+     x : 113
+     y : 101
+     width : 409
+     height : 57
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // if no path was specified
+         IF gsSetupPathReportsAndQueries ~= ""  OR NOT fFileExist(gsSetupPathReportsAndQueries) THEN
+         	gsSetupPathReportsAndQueries=fSelect(	"",...
+         	"",...
+         	<§$0004§>,...
+         	<§$0005§>+TAB+"*.exe", "*.exe",...
+         	fselOpen+fselExist)
+         	
+         	// no action if cancelation in the radio button
+         	IF gsSetupPathReportsAndQueries ~= "" THEN
+         		RETURN
+         	END
+         END
+         
+         // if the setup does not start
+         IF NOT ExeRun(gsSetupPathReportsAndQueries+" /WAIT", exeActive, True) THEN
+         	Error(<§$0003§>+CR+ErrorInfo())
+         ELSE
+         	// setup ok, close the window
+         	WD_Install_ReportsAndQueries..ReturnedValue = "OK"
+         	Close()
+         END
+         
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Button2
+    identifier : 0x2502c31c2143a1fa
+    internal_properties : BwAAAAcAAADSndRXqbovNMdfL25rNVQvtqzWFvm57qApxDpwaGFCH9NZIg9NRPmTg6iGrYBAqtA4xNju+8dGRQjkTiojQLySy/IRNdcLxNllFR3ZB1JJBBV33zHZDU7UQSCo+TkVH6dy3qsNz1A6KIvtCXaT8SeftLiKv4FgPRkD6ffZofoN6EA4PCHTNBQb0BTVemrxSoWHVaD8RxZRJ2Ap9dnvHZWQwIrp9mnVTO0wGP3MoXz9oLj8gMnctk35mTdYpnC5LZhtEGeKo+WcItsdTENavMPE7S9Z69Wsev9fN1FIW+wMFLCquI4T+gh5+ekwbsBHKqMfVhS76HIH+C0bR5dyZe+Fy/2YMYaqazpwGhHf07fLbDY079arUe53S0LjT2Cc58CTXQFYNREcxkYlqijnYdX1nXRU5y6NvlLACCLBuYP+zUu0CnzsH397kqRRU+0a4Fj+58I4i+MdrOQ4WhkF69t18+uLyLwsGk79FT4kxf6KS51i4Xci2vofuW/7MU8k4EtBSRhwuiQMA4nWKmbJVF+TZXAzKZuuM1vZNS+kE80zcDMzUUVBrtTn+b3zhms4/ZL9wYHap0vkMCgukh+BqyXo1RMS711HGVt/wSXV6Vfv3Ms3/UxB90Mquxy6vxAh4T+SglLh7J4OJFw2a/Uy4l/Vy0V0KnYxR+Jpl3STjoB6fwwQlYePBSz+msHEdkQ07bmK5PXNCe8lM98lmUeZa84uwUE=
+    properties :
+     x : 113
+     y : 172
+     width : 409
+     height : 57
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        type : 161
+        enabled : false
+  -
+    name : Button3
+    identifier : 0x2502c31c2142a1fa
+    internal_properties : BwAAAAcAAAAcUH7jVUgOYPWZM+KtmkLZVRIKM9tczItkuwearfDuLP0dJEfy/Q4r2QDWbOgkFdkhFBiEuA8B6paeV8fmL65hJe2vZIt5AjlCvpUZ52ZtillojmFgBA3ixw+5GvoXH37betq83PsBz3RsKXGpgNX51qaA7Wp/afIIV/CLBDQkLz0dx9D9DXFfvIo3+i4xIrGYrERQ2vjQ5Zsha+9GG4XtDNykYUffhxe8HwNxy6Ut4VZDVWd7Cs9mExvQlFOpNPh8wFbEtsh7YgJiLpsk79lzfv9F9QrQcOQCpeHWUiW3wodwcAZ2DdY10mSFodQEmr2b9nmNMqbgMLaOuJnJsq7sSyBCfGweic651pueh4dic7Wfnsdc3WqKTnys9I7ghlo5AkAa2tw4Je8QvCnNUCpkwUYf9K8ko36SjLETwi8bMDq/7DkgAiF1lQfcqHCPYkoduuznv0irXXVNLi9HxZ05ODi6L0KaGjJOOqncjc9QCOFBhCi8O1qBVWCb9PrWYUi3JekmrleFNI5+34jMDgC1xu+JncbRsoMXt60ZqiJDUsfdtiOb1N8t/iU5288L6g4w8W4HS4skhlA496RfBW0dPpkNpSkCasBf+DgpSHrobe4GLQx00zs/ZA32Y1YLTguzSFW6DRk/y/4RDqAX5e8u3EjwNUxGbF9lsBckAMRXTiMEl4LFJ1srKcFndvdxOZu5HJu3TQJo1MvFGBjlF+/Laj79yXZd+j4U
+    properties :
+     x : 113
+     y : 241
+     width : 409
+     height : 57
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         WD_Install_ReportsAndQueries..ReturnedValue = "NOK"
+         Close()
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : Menu
+  identifier : 0x236f35db03acd442
+  internal_properties : BwAAAAcAAADiZbI+g7fbjGD8TNSTLm8rb+PC/FfYM7GiyQCjx07M8D4JjqWGZdgXYT47TUjwTB4UoFuoSANtzc3kmQ436mRRZzaB8p23xQzSh/bDkrfFQOsn1OTH3Y+RFtW3bKC6JKog8lExeQvu1bde4X1QGWcb6u22JB0PK0WUAXDsoG4QBBaq7eVzCFEt+qSDU/dSqk9fpzGoaMU90WT7dULG2Er1jfiyfaqsR9y9qMDq+LkIMp5KMCEYB/KHYkTs2PqteeaQpTvBaCGzpa+tLSDVLZIdsS1LHvq/MB9boxTiXUo=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : BwAAAAcAAABs1wv1Z3RwL+HiualUe7xWd4NPiqT18VvGaq6iLZAH2XG51h7X0Tmld++y8CD6wZyD18aP3cd9tB5GUChfX7gjrElL3J9tOQnjxTLpvFXlGcg=
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      gsSetupPathReportsAndQueries is string	// setup path
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+  procedures :
+   -
+     name : Init
+     procedure_id : 1513986949806793210
+     type_code : 14
+     code : |1+
+      // Initialize the window
+      //
+      // Syntax:
+      //Init (<gSetupPath>)
+      //
+      // Parameters:
+      // 	gSetupPath: setup path of Reports and Queries
+      //
+      PROCEDURE Init(gSetupPath is string)
+      
+      gsSetupPathReportsAndQueries = gSetupPath
+      
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : BwAAAAcAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+  integrate_compiled_code : true
+  original_name : WD_Installe_EtatsEtRequetes
+resources :
+ string_res :
+  identifier : 0x136f35db0008d442
+  internal_properties : BwAAAAcAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+  strings :
+   -
+     text :
+      en-GB : Name of File to Create
+     index : 0
+   -
+     text :
+      en-GB : " is not a valid file name. Specify the location of the setup program of Reports and Queries."
+     index : 2
+   -
+     text :
+      en-GB : The setup of Reports and Queries failed.
+     index : 3
+   -
+     text :
+      en-GB : Select a setup program of Reports and Queries
+     index : 4
+   -
+     text :
+      en-GB : Executable (*.exe)
+     index : 5
+   -
+     text :
+      en-GB : Select a setup program of Reports and Queries
+     index : 6
+   -
+     text :
+      en-GB : Executable (*.exe)
+     index : 7
+   -
+     text :
+      en-GB : Select a setup program of Reports and Queries
+     index : 8
+   -
+     text :
+      en-GB : Executable (*.exe)
+     index : 9
+   -
+     text :
+      en-GB : Select a setup program of Reports and Queries
+     index : 10
+   -
+     text :
+      en-GB : Executable (*.exe)
+     index : 11
+custom_note :
+ internal_properties : BwAAAAcAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BwAAAAcAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

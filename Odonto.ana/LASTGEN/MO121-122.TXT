@@ -1,0 +1,3 @@
+//MO121-122.TXT ANA00121 TO ANA00122
+PEDIDO		TAR	351	new record size: 351
+PEDIDO	HORA	RUB+		HORA is a new item
